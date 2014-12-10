@@ -1,0 +1,203 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "540294097177550850" "@NewYorker @timoreilly @google @GM \"having rules was better than having a ruler\" interesting" "siridhyan" FALSE FALSE 1417651125
+"2" "540293801001361408" "RT @nyupoly: “Here in New York @Google, @Facebook…the world’s biggest companies set up their #bigdata teams.” -Paul Horn, Senior Vice Provo…" "urbanMITS" TRUE FALSE 1417651054
+"3" "540293579214966784" "RT @jillyoe: Think of #strategy as an #algorithm..Simple questions addressing complex challenges via @heyitsnoah #flowCharts @google #fires…" "Jeff88Ho" TRUE FALSE 1417651002
+"4" "540293437665193984" "\"@MrsSarahGuillen: @EdTechAri http://t.co/feIV2FeZdb\" Hanging Out with @jcasap thanks to @HMHCo and @google" "EdTechAri" FALSE FALSE 1417650968
+"5" "540293417184804864" "So cool! @Google &amp; @madewithcode let you code your own X-Mas tree light design! https://t.co/AOsNoOKlwS #madewithcode http://t.co/3zqLOLLXNs" "JerDoug" FALSE FALSE 1417650963
+"6" "540293272837832704" "RT @kawiline: The essential comms question: \"Who (says) what (to) whom (in) what channel (with) what effect\" @heyitsnoah @faris @google  #f…" "ohthanksgee" TRUE FALSE 1417650929
+"7" "540293265715912705" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "HKhaang" TRUE FALSE 1417650927
+"8" "540293255926005760" "RT @PCMag @Google Ditches CAPTCHA for Simple Checkbox http://t.co/3TlD8zhnTX" "tansybrook" FALSE FALSE 1417650925
+"9" "540293253073874944" "Get \"Techy\" with another shout out to @Schoology @GoogleDrive @HuluPlus #iPad @Apple @Google #Chromebook http://t.co/z3X2Jxbevr via @YouTube" "AngelaYake" FALSE FALSE 1417650924
+"10" "540293243406008320" "@MKBHD @Google jesus man, you're getting old!" "bradscoolio" FALSE FALSE 1417650922
+"11" "540293122803367936" "The essential comms question: \"Who (says) what (to) whom (in) what channel (with) what effect\" @heyitsnoah @faris @google  #firestarters" "kawiline" FALSE FALSE 1417650893
+"12" "540293014309318656" "Think of #strategy as an #algorithm..Simple questions addressing complex challenges via @heyitsnoah #flowCharts @google #firestarters @tbwa" "jillyoe" FALSE FALSE 1417650867
+"13" "540292847782871040" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "JRogotzke" TRUE FALSE 1417650827
+"14" "540292783207362560" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "JRogotzke" TRUE FALSE 1417650812
+"15" "540292777746001920" "ok @google, I love your software and services but not enough to deal with this oem bullshit. my head hurts right now." "ilkekaya" FALSE FALSE 1417650811
+"16" "540292708300910592" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "ab_makomo" TRUE FALSE 1417650794
+"17" "540292593272102912" "Hanging out with the @google bison before the @MAPUniMelb Demo Day #mapsiliconvalley http://t.co/Hr9tEtLFIG" "Roh_Workman" FALSE FALSE 1417650767
+"18" "540292542739517442" "@SchoolPiClub @google UK seller - http://t.co/N6qaEttCma  I've also ordered a pair from HongKong, will let you know what they are like!" "richardbwest" FALSE FALSE 1417650754
+"19" "540292480743530499" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "dascritch" TRUE FALSE 1417650740
+"20" "540292478675345408" "#News No state charges in NYC chokehold death; federal inquiry launched - USA TODAY http://t.co/AdhseJOqMI Vía @Google" "ObiWanKenobl" FALSE FALSE 1417650739
+"21" "540292477890990080" "#News NYPD's body camera pilot program to start Friday - New York Daily News http://t.co/G9Fo54zTrO Vía @Google" "ObiWanKenobl" FALSE FALSE 1417650739
+"22" "540292477022781440" "#News 5th Circuit Court of Appeals justly stops execution - Fort Worth Star Telegram http://t.co/aIIgVgIIsE Vía @Google" "ObiWanKenobl" FALSE FALSE 1417650739
+"23" "540292476334915584" "#News Texas University Missing Brains From Medical Collection - New York Times http://t.co/j8gdExM1I9 Vía @Google" "ObiWanKenobl" FALSE FALSE 1417650739
+"24" "540292475311513601" "#News 'Saint of Sexual Predator?' Attorney Asks Bill Cosby to Face Accusers - http://t.co/PHqzqo7MWa http://t.co/EJMqqE9DiS Vía @Google" "ObiWanKenobl" FALSE FALSE 1417650738
+"25" "540292459121487872" "Defending against digital threats in a connected world, I've been pumped for this talk all week! @google @googleideas http://t.co/el5LX9ISlw" "JaegerVonOmaha" FALSE FALSE 1417650735
+"26" "540292404419784704" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "netanelmaman" TRUE FALSE 1417650722
+"27" "540292350195429376" "RT @socialgood: .@Google's next project for girl coders: Lighting the @WhiteHouse Christmas trees: http://t.co/CGwlfsw7S2 http://t.co/BklOi…" "CarlosLlanesSr" TRUE FALSE 1417650709
+"28" "540291934494146560" "how do I get an invite to inbox? #inbox #google #gmail @google" "stereosaint" FALSE FALSE 1417650609
+"29" "540291903145906176" "RT @saschawolter: hope today's @TGI_MoMo in Düsseldorf with @google and @NuanceEnt will be more than networking. Anyway, let's meet at 6pm …" "dromescu" TRUE FALSE 1417650602
+"30" "540291760841568256" "Making use of the @google photo booth  #EdinburghWhiteout #CityExperts http://t.co/FyZUW4c6p5" "shopaholicmichi" FALSE FALSE 1417650568
+"31" "540291750833946624" "RT @GoParks: See @Google’s homepage today? You can code a tree here: http://t.co/2znaloGrDz #MadeWithCode #NCTL2014 #ShineBright http://t.c…" "RayFason" TRUE FALSE 1417650566
+"32" "540291710526316545" ".@google to introduce child-friendly versions of products http://t.co/mDj92QfjGd" "BTBreakingnews" FALSE FALSE 1417650556
+"33" "540291646751924225" "this isn't funny anymore @googlenexus @google ... seriously wtf? when can we have a #Nexus6?? if its a marketing stunt its bullshit." "HK7Roiz" FALSE FALSE 1417650541
+"34" "540291617438334976" "Getting invites as a blogger to events like these never get old @google #CityExperts #EdinburghWhiteout http://t.co/ojNvracpW9" "shopaholicmichi" FALSE FALSE 1417650534
+"35" "540291571438977024" "@Adams_Ideas Cool! I dont remember getting @Google cake on my bday! @m_raton @chadmaron &amp; I will brainstorm.. Also, enjoy rest of your bday!" "GeorginaNarich" FALSE FALSE 1417650523
+"36" "540291493324259329" "RT @GoParks: See @Google’s homepage today? You can code a tree here: http://t.co/2znaloGrDz #MadeWithCode #NCTL2014 #ShineBright http://t.c…" "GrandCanyonPics" TRUE FALSE 1417650504
+"37" "540291473359376384" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "jquecanb" TRUE FALSE 1417650500
+"38" "540291432121380864" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "zizexahiwiquz" TRUE FALSE 1417650490
+"39" "540291405340766209" "Starting the evening with a white themed dinner @google #CityExperts #EdinburghWhiteout http://t.co/WetImwroYL" "shopaholicmichi" FALSE FALSE 1417650483
+"40" "540291388525805570" "RT @cathsanch: Shoutout to @google for always helping me with my homework. You the real mvp." "EmmaInNeverland" TRUE FALSE 1417650479
+"41" "540291160317902850" "RT @GoParks: See @Google’s homepage today? You can code a tree here: http://t.co/2znaloGrDz #MadeWithCode #NCTL2014 #ShineBright http://t.c…" "bfkoontz" TRUE FALSE 1417650425
+"42" "540291118425198592" "Dear @google, my Gmail app just updated. Orangey red? Really? And teal in the app store? Please fire whoever built this color scheme." "vulpesgirl" FALSE FALSE 1417650415
+"43" "540291066227089408" "RT @JordyBandTurtle: “@_scoutLA: Whoah @google chill http://t.co/Ut7jKFZz0e” @rebelchey @Jalex_Feels" "Jalex_Feels" TRUE FALSE 1417650402
+"44" "540291015807361024" "Y si el robot miente? :-P“@google: “No CAPTCHA reCAPTCHA,” a solution to a simple question: Are you a robot? http://t.co/cVWTACFJ2Z\"" "juanlb" FALSE FALSE 1417650390
+"45" "540291003668652033" "The lights at the National Christmas Tree Lighting will be #MadeWithCode. Visit @Google to code your tree - proud to be a part of this!" "FLEXiFLEX" FALSE FALSE 1417650388
+"46" "540290904133603330" "The lights at the National Christmas Tree Lighting will be #MadeWithCode. Visit @Google to code your tree - proud to be a part of this!" "RGBLights" FALSE FALSE 1417650364
+"47" "540290767638761472" "This Year, @Google's #SantaTracker Gets Kids to #Code http://t.co/d4sdkDgqAq" "MATRIX_SF" FALSE FALSE 1417650331
+"48" "540290622616506368" "RT @GoParks: See @Google’s homepage today? You can code a tree here: http://t.co/2znaloGrDz #MadeWithCode #NCTL2014 #ShineBright http://t.c…" "hike_maryland" TRUE FALSE 1417650297
+"49" "540290612864774144" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "luogl" TRUE FALSE 1417650294
+"50" "540290604131811328" "RT @socialgood: .@Google's next project for girl coders: Lighting the @WhiteHouse Christmas trees: http://t.co/CGwlfsw7S2 http://t.co/BklOi…" "GridAKL" TRUE FALSE 1417650292
+"51" "540290585236488193" "@chrisbaskind I need @VerizonWireless to have the @google #Nexus6 hurry up!" "kvancil" FALSE FALSE 1417650288
+"52" "540290506119737347" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "zixyxidojyx" TRUE FALSE 1417650269
+"53" "540290497927847938" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "debihudyjuxud" TRUE FALSE 1417650267
+"54" "540290483860553728" "THANK U @GOOGLE FOR THE APPLE PIE LAST WEEK IT WAS BOMB" "dgrla" FALSE FALSE 1417650264
+"55" "540290338502750208" "The \"Made with Code\" projects provided by @Google are just awesome and is another reason why I appreciate technology so much" "ImElnora" FALSE FALSE 1417650229
+"56" "540290323709440000" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "teddyzetterlund" TRUE FALSE 1417650225
+"57" "540290314229915648" "RT @socialgood: .@Google's next project for girl coders: Lighting the @WhiteHouse Christmas trees: http://t.co/CGwlfsw7S2 http://t.co/BklOi…" "usembassynz" TRUE FALSE 1417650223
+"58" "540290268143288320" "RT @GoParks: See @Google’s homepage today? You can code a tree here: http://t.co/2znaloGrDz #MadeWithCode #NCTL2014 #ShineBright http://t.c…" "paperlemonade" TRUE FALSE 1417650212
+"59" "540290233578029056" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "ajasiura" TRUE FALSE 1417650204
+"60" "540290144675188736" "@TygrScott @Google @googlefiber I totally agree... the wifi option kinda SUCKS! My wife is pissed off about it" "BryantGarvin" FALSE FALSE 1417650183
+"61" "540290025749876737" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "OceanMinds" TRUE FALSE 1417650154
+"62" "540289995308036096" "RT @ConversationAge: Why planners? They are 1) the very best people to see simplicity, 2) special relationship w/creative directors @google…" "deeped" TRUE FALSE 1417650147
+"63" "540289939267911680" "RT @GoParks: See @Google’s homepage today? You can code a tree here: http://t.co/2znaloGrDz #MadeWithCode #NCTL2014 #ShineBright http://t.c…" "MrBrownThumb" TRUE FALSE 1417650134
+"64" "540289920469061632" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "CHaBou69" TRUE FALSE 1417650129
+"65" "540289916014718978" "RT @ConversationAge: Why planners? 3) they are pioneers, 4) tend to be very nice people @google #firestartes" "deeped" TRUE FALSE 1417650128
+"66" "540289900432867328" "RT @cathsanch: Shoutout to @google for always helping me with my homework. You the real mvp." "cassandra0622" TRUE FALSE 1417650125
+"67" "540289859349676032" "RT @cathsanch: Shoutout to @google for always helping me with my homework. You the real mvp." "AriannaBrieAnne" TRUE FALSE 1417650115
+"68" "540289832745177088" "RT @JordyBandTurtle: “@_scoutLA: Whoah @google chill http://t.co/Ut7jKFZz0e” @rebelchey @Jalex_Feels" "rebelchey" TRUE FALSE 1417650108
+"69" "540289789426417665" "See @Google’s homepage today? You can code a tree here: http://t.co/2znaloGrDz #MadeWithCode #NCTL2014 #ShineBright http://t.co/cPFujrZ32h" "GoParks" FALSE FALSE 1417650098
+"70" "540289735801851904" "What @Google has in store for its Inbox app http://t.co/MXOzhHzboR via @qz #emailmarketing #deliverability #email" "LenShneyder" FALSE FALSE 1417650085
+"71" "540289670861836288" "“@_scoutLA: Whoah @google chill http://t.co/Ut7jKFZz0e” @rebelchey @Jalex_Feels" "JordyBandTurtle" FALSE FALSE 1417650070
+"72" "540289634895667201" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "dojymaletug" TRUE FALSE 1417650061
+"73" "540289577106554880" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "b2284" TRUE FALSE 1417650047
+"74" "540289426661048320" "Las apps informativas destacadas por la lista @google son: Yahoo Digest, Buzzfeed, CNN, The Economist y The New York Times" "smartdessnews" FALSE FALSE 1417650012
+"75" "540289421770493952" ".@Google's next project for girl coders: Lighting the @WhiteHouse Christmas trees: http://t.co/CGwlfsw7S2 http://t.co/BklOizGt0S" "socialgood" FALSE FALSE 1417650010
+"76" "540289415684587520" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "hakecuhagal" TRUE FALSE 1417650009
+"77" "540289360189722624" "RT @StartupBA: Our 4 judges hard at work! @google @1776 #challengecupba http://t.co/SxRtF1Z8vG" "ybaglieri" TRUE FALSE 1417649996
+"78" "540289318007611393" "I love you @google." "InfoBukkit" FALSE FALSE 1417649986
+"79" "540289303621156864" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "sogapecunutuv" TRUE FALSE 1417649982
+"80" "540289219315654657" "Shoutout to @google for always helping me with my homework. You the real mvp." "cathsanch" FALSE FALSE 1417649962
+"81" "540289051207925760" "RT @ChadPollitt: Google Online Security Blog: Are you a robot? Introducing “No CAPTCHA reCAPTCHA” http://t.co/msqajfFy7o via @google" "redgatst" TRUE FALSE 1417649922
+"82" "540289032823926784" "@google presents a new #captcha system based on image matching http://t.co/gBjJnt1RDV #security" "orestibanos" FALSE FALSE 1417649918
+"83" "540288992160120832" "@Google @GoogleVentures The holidays are Made with Code. Light up a tree in our nation's capital. See=&gt;https://t.co/w4PUsgCWQe" "kolegraffvclink" FALSE FALSE 1417649908
+"84" "540288915614494720" "RT @NYUePoly: Are you an integrator or a segmentor? Great @Google presentation on #HR #Bigdata. Watch the next #obdata ppt here: http://t.c…" "nyupoly" TRUE FALSE 1417649890
+"85" "540288728489811968" "@google @googlenexus #LollipopUpdate  ... Did you break my tablet w/this useless update so I would buy a new tablet? I trusted you ..." "jak8466" FALSE FALSE 1417649845
+"86" "540288524407570433" "@google I’m a motivate software developer and looking for a job. Can you please hook me up?" "kleechneek" FALSE FALSE 1417649796
+"87" "540288224351232000" "Are you an integrator or a segmentor? Great @Google presentation on #HR #Bigdata. Watch the next #obdata ppt here: http://t.co/M8Mv8d4FDq" "NYUePoly" FALSE FALSE 1417649725
+"88" "540288180528771074" "Great to learn about @Google and #BrandAdvertising. Check 5 reasons why I think it matters: http://t.co/1qtP2lkaId" "DouglasWSpencer" FALSE FALSE 1417649714
+"89" "540288176880119809" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "francisxavierjp" TRUE FALSE 1417649714
+"90" "540288176167063552" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "kasufofopoq" TRUE FALSE 1417649713
+"91" "540288172832616448" "@ShopJami @PerryEllis @google @WSJ Thanks..kind words!" "cheryltan88" FALSE FALSE 1417649713
+"92" "540287842459471872" "RT @google: Traveling soon? Say “Ok Google, show me my trip” to see flight, hotel, car rentals &amp; more, all in your Google app http://t.co/s…" "bosspasada" TRUE FALSE 1417649634
+"93" "540287718144868352" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "Guillaumevk" TRUE FALSE 1417649604
+"94" "540287575450476546" "@google why are these the predicted searches when I look for the little girl and the cow? Google should block this! http://t.co/Mcd8TLvVCe" "mcrfoodies" FALSE FALSE 1417649570
+"95" "540287336903639041" "Drinking a Christmas Ale (2014) by @BellsBrewery at @google — http://t.co/BE2mzdDEoa" "kerrytwombly" FALSE FALSE 1417649513
+"96" "540287335913762816" "@ted_drake @Google from very cursory initial testing, fairly broken in some combos of browser/AT, unfortunately... http://t.co/3UXl72mAHR" "patrick_h_lauke" FALSE FALSE 1417649513
+"97" "540287305601544192" "Wow @google knows its my #birthday! Pretty cool! @chadmaron @GeorginaNarich time to wish @Apploi members a happy bday http://t.co/7rzMYeY1el" "Adams_Ideas" FALSE FALSE 1417649506
+"98" "540287278615379969" "Love @google's new Captcha that simply asks if you're a robot , why didn't anyone think of this years ago! - http://t.co/4B3K5To1Bv" "Jessi_Emma" FALSE FALSE 1417649499
+"99" "540287119990603776" "Dear @Google, Gigabit Internet and Gigabit Ethernet are NOT the same thing. I don't want Ethernet cables. #search #googlesearch #fail" "TygrScott" FALSE FALSE 1417649462
+"100" "540286946673950721" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "lyrixx" TRUE FALSE 1417649420
+"101" "540286829459935232" "RT @Soc_Net_Intel: #rstats &amp; #coding standards : an interesting resource from @google for R coding standards : https://t.co/1p46XhQ6Qx #dat…" "Jeff88Ho" TRUE FALSE 1417649392
+"102" "540286748182728704" "@ktlyne24 just watched your talk at Think Branding by @google I really enjoyed it! #VerbLife Cheers!" "jbenjamin85" FALSE FALSE 1417649373
+"103" "540286681233235970" "RT @unmonastery: \"Scrambling for Africa Redux\" Mesh Networks in Africa an alternative to @google's Loon &amp; @facebook supremacy http://t.co/z…" "IllinoisBD529" TRUE FALSE 1417649357
+"104" "540286468527517697" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "LUK3MAN5" TRUE FALSE 1417649306
+"105" "540286444607381504" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "tommyblue" TRUE FALSE 1417649301
+"106" "540286379763445761" "RT @StartupBA: Our 4 judges hard at work! @google @1776 #challengecupba http://t.co/SxRtF1Z8vG" "leaducate" TRUE FALSE 1417649285
+"107" "540286249655754752" "How the heck did @Google Hangouts make me so pale? http://t.co/xocgygx2FT" "misskristelle" FALSE FALSE 1417649254
+"108" "540286225710862336" "Once you step out of a city that doesn't have @google Fiber life just stinks...  ;-/  #Painfullyslowwifi" "_THE_DIRECTOR" FALSE FALSE 1417649248
+"109" "540286167850037248" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "jomartigcal" TRUE FALSE 1417649235
+"110" "540286070059851777" "RT @NewYorker: .@google thinks it’s changing management forever. So did @GM. Nicholas Lemann on the art of the corporate devotional: http:/…" "ShangqianLee" TRUE FALSE 1417649211
+"111" "540286052578361344" "My own take is we built tech in our image, so OS and apps metaphor works @google #firestarters" "ConversationAge" FALSE FALSE 1417649207
+"112" "540286016179818496" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "kimar_br" TRUE FALSE 1417649198
+"113" "540285844494376960" "RT @NYUePoly: @googlejobs watch @Google talk about #HR and #BigData LIVE @nyupoly now: http://t.co/M8Mv8d4FDq http://t.co/fMrNa5S5Gj" "zillioninfotech" TRUE FALSE 1417649158
+"114" "540285838379069441" "RT @nyupoly: “Here in New York @Google, @Facebook…the world’s biggest companies set up their #bigdata teams.” -Paul Horn, Senior Vice Provo…" "zillioninfotech" TRUE FALSE 1417649156
+"115" "540285784943644672" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "gdgphilippines" TRUE FALSE 1417649143
+"116" "540285763003621376" "Google's holiday happiness prescription is a daily gratefulness practice. #Google #liveinthehappy #workhappy @google http://t.co/tfXH1ZJmLU" "happyfuelapp" FALSE FALSE 1417649138
+"117" "540285661841203200" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "accezz" TRUE FALSE 1417649114
+"118" "540285657957277698" "My own take is we built technology in our image so OS and apps metaphor is appropriate @google #firestartes" "ConversationAge" FALSE FALSE 1417649113
+"119" "540285615770992640" "Kid-friendly products are a smart move for @google…in terms of brand loyalty, get em while they’re young! #tech http://t.co/Lami823yEg" "SaraNettesheim" FALSE FALSE 1417649103
+"120" "540285613241798656" "Nice move! '@google to offer kid-friendly versions of its products' - looking forward to seeing it! with http://t.co/wpP9FmpBRY" "Chris_Blanchet" FALSE FALSE 1417649102
+"121" "540285568446660608" "RT @nyupoly: “Here in New York @Google, @Facebook…the world’s biggest companies set up their #bigdata teams.” -Paul Horn, Senior Vice Provo…" "NYUePoly" TRUE FALSE 1417649092
+"122" "540285548280438786" "RT @google: Traveling soon? Say “Ok Google, show me my trip” to see flight, hotel, car rentals &amp; more, all in your Google app http://t.co/s…" "kevineersteling" TRUE FALSE 1417649087
+"123" "540285405879619584" "Brilliant to be at @google for their inaugural #firestarters on the future OS of agencies. Properly amazing speaker line up. Thx @neilperkin" "willmcinnes" FALSE FALSE 1417649053
+"124" "540285329711042560" "@googlejobs watch @Google talk about #HR and #BigData LIVE @nyupoly now: http://t.co/M8Mv8d4FDq http://t.co/fMrNa5S5Gj" "NYUePoly" FALSE FALSE 1417649035
+"125" "540285305363103744" "RT @Soc_Net_Intel: #rstats &amp; #coding standards : an interesting resource from @google for R coding standards : https://t.co/1p46XhQ6Qx #dat…" "MindAfterMath" TRUE FALSE 1417649029
+"126" "540285289953263616" "Topic “the new agency OS” @google #firestartes" "ConversationAge" FALSE FALSE 1417649025
+"127" "540285147354902530" "RT @MKBHD: Ha - Thanks @Google! Leveled up. #level21 http://t.co/jXUT8eVj0T" "louisv2016" TRUE FALSE 1417648991
+"128" "540285099237851136" "Google Online Security Blog: Are you a robot? Introducing “No CAPTCHA reCAPTCHA” http://t.co/5ThDPIjAwM via @google" "cherokeehottie" FALSE FALSE 1417648980
+"129" "540285028727791616" "RT @lpmills_: Stoked to be @google for the first stateside #firestarters event #plannersunite" "missmits" TRUE FALSE 1417648963
+"130" "540285007563329537" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "Emilio_JCC" TRUE FALSE 1417648958
+"131" "540284944803954690" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "JBactoBot" TRUE FALSE 1417648943
+"132" "540284627861393408" "#FireStarters (at @Google New York in New York, NY) https://t.co/qzHQEIkplq" "MichelleBarna" FALSE FALSE 1417648867
+"133" "540284482331222016" "Dear @Google, you are my friend. Thanks!
+
+Suddenly can't drag or drop files anymore in windows 7 (64 bit) http://t.co/Ntacd0pDgn #Fixed" "MN_Love" FALSE FALSE 1417648833
+"134" "540284320637009920" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "whitingx" TRUE FALSE 1417648794
+"135" "540284293348851712" "Drinking a Ligne 3 by Les Brasseurs du Grand Paris (My Beer Company) at @google — http://t.co/AebXmdSp3S" "kerrytwombly" FALSE FALSE 1417648788
+"136" "540284281088901121" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "zitecivyciw" TRUE FALSE 1417648785
+"137" "540284205968941057" "RT @ted_drake: @euroblind @googleaccess @google @AXSChat the point is to replace CAPTCHA with a simple checkbox, so very big #a11y improvem…" "KarlenInfo" TRUE FALSE 1417648767
+"138" "540284094811086849" "@google does an @reddit_AMA on @reddit. Discusses Inbox and possible death of Gmail. http://t.co/R2BwrUWLfu" "peppersncloves" FALSE FALSE 1417648740
+"139" "540283931531444224" "RT @ted_drake: @euroblind @googleaccess @google @AXSChat the point is to replace CAPTCHA with a simple checkbox, so very big #a11y improvem…" "debraruh" TRUE FALSE 1417648701
+"140" "540283921007906816" "“Here in New York @Google, @Facebook…the world’s biggest companies set up their #bigdata teams.” -Paul Horn, Senior Vice Provost #obdata" "nyupoly" FALSE FALSE 1417648699
+"141" "540283876120080384" ".@Google Can Now Tell You’re Not a Robot With Just One Click http://t.co/ioXb8oGiZg #captcha http://t.co/xJMdwtIczx" "NavShahram" FALSE FALSE 1417648688
+"142" "540283821674205185" "Our 4 judges hard at work! @google @1776 #challengecupba http://t.co/SxRtF1Z8vG" "StartupBA" FALSE FALSE 1417648675
+"143" "540283797875736577" "Now introducing @neilperkin who I also met via social on his blog, actually @google #firestartes" "ConversationAge" FALSE FALSE 1417648670
+"144" "540283450838622208" "This is what @Google gets for scanning my website http://t.co/zVg2a35dsE" "botaday" FALSE FALSE 1417648587
+"145" "540283321859575808" "How @Google \"Translates\" Pictures Into Words Using #Vector Space #Mathematics  http://t.co/FIL7gQqy5p &gt;@TechReview" "edgardcat" FALSE FALSE 1417648556
+"146" "540283292957048832" "Why planners? 3) they are pioneers, 4) tend to be very nice people @google #firestartes" "ConversationAge" FALSE FALSE 1417648549
+"147" "540283107069665281" "Why planners? They are 1) the very best people to see simplicity, 2) special relationship w/creative directors @google #firestartes" "ConversationAge" FALSE FALSE 1417648505
+"148" "540283103001182208" "64% of Americans that would leave their utility would choose a non-utility alternative like @Google or @Comcast http://t.co/86BzVzw6vL" "EDFEnergyEX" FALSE FALSE 1417648504
+"149" "540282867499024385" "RT @google: Traveling soon? Say “Ok Google, show me my trip” to see flight, hotel, car rentals &amp; more, all in your Google app http://t.co/s…" "UnsocialShadow" TRUE FALSE 1417648448
+"150" "540282853234581504" "@google Been on hold for over an hour! Who can I email to get help with bulk mail to first-time recipients? (It keeps kicking back as spam.)" "dakotaleebishop" FALSE FALSE 1417648444
+"151" "540282744295923712" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "vazohenenimuq" TRUE FALSE 1417648418
+"152" "540282688717193217" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "GoldBlaze_001" TRUE FALSE 1417648405
+"153" "540282652717498369" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "tarekyfutybip" TRUE FALSE 1417648397
+"154" "540282605917458432" "The vest creative directors have planners as secret wing people @google #firestartes" "ConversationAge" FALSE FALSE 1417648385
+"155" "540282600267329536" "Tell @googlepubpolicy @google that it's time for them to act like they really support #NetNeutrality. http://t.co/N2PYBATdnM #CallOnGoogle" "BlakeBentley1" FALSE FALSE 1417648384
+"156" "540282477211041792" "My 7 year old is signing himself on to his @google account. #signsofthetimes" "Shawnmeintz" FALSE FALSE 1417648355
+"157" "540282445560827904" "@google Fantastic!" "nachosNapples" FALSE FALSE 1417648347
+"158" "540282392930697216" "“@google: Introducing “No CAPTCHA reCAPTCHA,” http://t.co/5qsouq2vvW http://t.co/7q1PhscUhA” The is super! I hate #captcha! #google is great" "nachosNapples" FALSE FALSE 1417648335
+"159" "540282379164995584" "RT @DataRemixed: .@giorgialupi @google Nice! A favorite topic of mine. I also played with adding hue, color and shape http://t.co/X6JuTnnjbH" "JRafael_Salmon" TRUE FALSE 1417648331
+"160" "540282363565973504" "Google Online Security Blog: Are you a robot? Introducing “No CAPTCHA reCAPTCHA” http://t.co/kf0ijbfEAI via @google" "railwaychaplain" FALSE FALSE 1417648328
+"161" "540282310932049920" "RT @DataRemixed: New blog post | \"Does the World Still Care About Ebola?\", or pros/cons of using @Google Trends http://t.co/aB5diQTwLx http…" "JRafael_Salmon" TRUE FALSE 1417648315
+"162" "540282304409923584" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "The_DarkGhost" TRUE FALSE 1417648313
+"163" "540282288224104448" "RT @DataRemixed: How to use @Google Trends data in @tableau to visualize search for 'ebola' in various places http://t.co/aB5diQTwLx http:/…" "JRafael_Salmon" TRUE FALSE 1417648310
+"164" "540282264694038530" "I'm at @Google New York in New York, NY https://t.co/UTiRsIN1Ib" "soulkat" FALSE FALSE 1417648304
+"165" "540282126424625153" "Stoked to be @google for the first stateside #firestarters event #plannersunite" "lpmills_" FALSE FALSE 1417648271
+"166" "540282063627489280" "Over half of the people in the room @google #firestartes is in strategy and planning." "ConversationAge" FALSE FALSE 1417648256
+"167" "540281998682890240" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "diegofailde" TRUE FALSE 1417648241
+"168" "540281955213123585" "RT @OfficialJamesA: Had a great two days at the @YouTube Headquarters! Thank you @google &amp; @YTCreators for having me!  http://t.co/xp77…" "Jenn1973" TRUE FALSE 1417648230
+"169" "540281940537274369" "RT @NewYorker: .@google thinks it’s changing management forever. So did @GM. Nicholas Lemann on the art of the corporate devotional: http:/…" "Dapsssss" TRUE FALSE 1417648227
+"170" "540281934035709952" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "edwardhor" TRUE FALSE 1417648225
+"171" "540281929325895680" "In the last 3 days, employees of @Google have given $14,252 to #NeverSettle projects. I'm blown away by their generosity." "neversettle" FALSE FALSE 1417648224
+"172" "540281915698192384" "@coolcatteacher this makes me so very very very happy! Bravo @google no more embarassing moments for teachers or students via search engines" "trishcloud" FALSE FALSE 1417648221
+"173" "540281895406161920" "RT @CommieCrusherJM: @GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #…" "GunDecal" TRUE FALSE 1417648216
+"174" "540281830738759680" "Dear Calico (@Google), as you figure out how to cheat death, please try to eliminate the need for sleep. Thanks. #NoSleepTeam" "namzo" FALSE FALSE 1417648201
+"175" "540281728774844417" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "sacetananth" TRUE FALSE 1417648176
+"176" "540281644520062976" "Drinking a Narwhal Imperial Stout (Bourbon Barrel-Aged) by @SierraNevada at @google — http://t.co/M9aySqXMo7" "kerrytwombly" FALSE FALSE 1417648156
+"177" "540281639738171392" "#News NYPD's body camera pilot program to start Friday - New York Daily News http://t.co/vcGE5Bq3uB Vía @Google" "ObiWanKenobl" FALSE FALSE 1417648155
+"178" "540281638433718272" "#News Ted Cruz On Scott Panetti Death Sentence: 'I Trust The Criminal Justice System' - Huffington Post http://t.co/sJLW4P3FNo Vía @Google" "ObiWanKenobl" FALSE FALSE 1417648155
+"179" "540281443990388736" ".@nytimes, @google may be the worst privacy offender on the internet but it still allows me to use search without cookies or javascript" "wowaname" FALSE FALSE 1417648108
+"180" "540281436402896896" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "nisatypaboteh" TRUE FALSE 1417648107
+"181" "540281383197749248" "#News NY cop not indicted in chokehold death - CNN http://t.co/aMvMUi5Dyz Vía @Google" "ObiWanKenobl" FALSE FALSE 1417648094
+"182" "540281382421811200" "#News NYPD's body camera pilot program to start Friday - New York Daily News http://t.co/pM8QDVlCxp Vía @Google" "ObiWanKenobl" FALSE FALSE 1417648094
+"183" "540281381746532352" "#News New Cosby accusers go public as Gloria Allred joins case - USA TODAY http://t.co/dzyouC140E Vía @Google" "ObiWanKenobl" FALSE FALSE 1417648094
+"184" "540281380807008256" "#News Two charged in Maryland for alleged Johns Hopkins frat rape - Reuters http://t.co/ha344Rc453 Vía @Google" "ObiWanKenobl" FALSE FALSE 1417648093
+"185" "540281143904731137" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "novares" TRUE FALSE 1417648037
+"186" "540281084483600384" "Google Online Security Blog: Are you a robot? Introducing “No CAPTCHA reCAPTCHA” http://t.co/CrMbvoaNG5 via @google" "AWilliamsUK" FALSE FALSE 1417648023
+"187" "540281065278304257" "Love that kind of crowd ;) RT @ConversationAge: Love the fact that at least three more Italians are in the room #firestartes @google NYC" "LisaPetrilli" FALSE FALSE 1417648018
+"188" "540281028813025280" "Stephen Hawking warns artificial intelligence could end mankind. 12/02/14 http://t.co/CCq1GLRXrE @IBM @google @Microsoft #singularity" "DrydeFelton" FALSE FALSE 1417648009
+"189" "540281026959130624" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "tomashala" TRUE FALSE 1417648009
+"190" "540280874382921728" "Love the fact that at least three more Italians are in the room #firestartes @google NYC" "ConversationAge" FALSE FALSE 1417647973
+"191" "540280722939215874" "\"Mommy &amp;Daddy..This is a toughy..What is @crow_50 's middle name? You should ask @google.\" She's 3yrs old, ladies &amp;gentlemen. @NHLBlackhawks" "JessicaCBiz" FALSE FALSE 1417647936
+"192" "540280718853943296" "@google I'm not sure, may be" "shubunkinsoft" FALSE FALSE 1417647935
+"193" "540280593120911361" "We were waiting for that! The no CAPTCHA reCAPTCHA:  http://t.co/m2oVcG29kv via @google @YouTube" "ClickMarcP" FALSE FALSE 1417647905
+"194" "540280573609009153" "@majornelson @arstechnica its too bad @google couldn't upgrade to allow a googol or even a googolplex number of views.  ;)" "Xanlythe" FALSE FALSE 1417647901
+"195" "540280567406010369" "#rstats &amp; #coding standards : an interesting resource from @google for R coding standards : https://t.co/1p46XhQ6Qx #datascience #computing" "Soc_Net_Intel" FALSE FALSE 1417647899
+"196" "540280555820945408" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "Chirin_dir" TRUE FALSE 1417647897
+"197" "540280336287301632" "@google Can I just say how impressed I am by how badly you have f**ked up the Nexus Launch? Really glad I missed deals waiting for your ass." "VinceTheSink" FALSE FALSE 1417647844
+"198" "540280265709748224" "Drinking a Fluxus (2014) by @allagashbrewing at @google — http://t.co/y1BOlr4XFG" "kerrytwombly" FALSE FALSE 1417647827
+"199" "540280142891732992" "Google Online Security Blog: Are you a robot? Introducing “No CAPTCHA reCAPTCHA” http://t.co/yhlTG5JUy8 via @google" "kendepelchin" FALSE FALSE 1417647798
+"200" "540280076685025280" "At @google #firestarters in NYC thanks to @neilperkin" "ConversationAge" FALSE FALSE 1417647782

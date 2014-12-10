@@ -1,0 +1,113 @@
+Sentiment Analysis - Google
+========================================================
+
+Here, we try to understand if twitter could predict the Google Stock price movements. The code below was used across five days(November 30th, 2014 - December 4th, 2014) to collect the tweets for Google and conduct sentiment analysis over the peroid of five days(December 1st, 2014 - December 5th, 2014).
+```{r message = FALSE}
+library("twitteR")
+library("wordcloud")
+library("tm")
+library("ggplot2")
+library("reshape2")
+
+```
+
+```{r eval=FALSE}
+
+my.key <-"gWrXsP5Oq08XB2Ua21HnIUsUG"
+my.secret <-"MMCcf0EZZeOgiDUt084J0lG5WK4XBCd4SVAfAE2nP7UKWwoNBQ"
+
+cred <- OAuthFactory$new(consumerKey=my.key,
+                         consumerSecret=my.secret,
+                         requestURL='https://api.twitter.com/oauth/request_token',
+                         accessURL='https://api.twitter.com/oauth/access_token',
+                         authURL= 'https://api.twitter.com/oauth/authorize')
+
+save(cred, file="twitter_authentication.Rdata")
+
+cred$handshake()
+#Check the Console window for the authentication link. Enter the pin and authenticate.
+
+registerTwitterOAuth(cred)
+
+tweets <- searchTwitter("@google",n=200, lang="en", since='2014-12-04', until='2014-12-05')
+
+length(tweets)
+
+tweets.id <- sapply(tweets, function(x) x$getId())
+tweets.text <- sapply(tweets, function(x) x$getText())
+tweets.screenname <- sapply(tweets, function(x) x$getScreenName())
+tweets.isretweet <- sapply(tweets, function(x) x$getIsRetweet())
+tweets.retweeted <- sapply(tweets, function(x) x$getRetweeted())
+tweets.created <- sapply(tweets, function(x) x$getCreated())
+
+head(tweets.text)
+
+df <- data.frame(tweets.id, tweets.text, tweets.screenname, tweets.isretweet, tweets.retweeted, tweets.created)
+names(df) <-c("id", "text", "screenname", "isretweet", "retweeted", "created")
+write.table(df, file = "google4.txt", append = TRUE)
+
+pos <- scan("positive-words.txt",what="character",comment.char=";")
+neg <- scan("negative-words.txt",what="character",comment.char=";")
+
+tweets.corpus <- Corpus(VectorSource(tweets.text))
+
+tweets.corpus <- tm_map(tweets.corpus, tolower) 
+tweets.corpus <- tm_map(tweets.corpus, removePunctuation)
+tweets.corpus <- tm_map(tweets.corpus, function(x) removeWords(x,stopwords()))
+
+corpus.split <- lapply(tweets.corpus,strsplit,"\\s+")
+
+matches <- lapply(corpus.split,function(x) {
+  match.pos <- match(x[[1]],pos)
+  match.neg <- match(x[[1]],neg) 
+  
+ 
+  list(length(which(!is.na(match.pos))),length(which(!is.na(match.neg))))
+})
+
+match.matrix <- matrix(unlist(matches),nrow=length(matches),ncol=2,byrow=T)
+
+simple.sentiment <- match.matrix[,1] - match.matrix[,2]
+
+hist(simple.sentiment)
+
+sum(simple.sentiment)
+
+```
+
+Now, once all the tweets were collected and sentiment score was obtained, we compared the sentiment prediction with the actual stock price changes. Here, if there was a rise in stock price or the sentiment score was positive, then the valuse of '1' was assigned. And if there was a fall in stock price or the sentiment score was negative, then the valuse of '-1' was assigned.
+
+```{r}
+
+googleData <- read.csv(file = "google.csv")
+
+googleData$Start <- NULL
+googleData$End <- NULL
+
+googleData
+
+```
+
+```{r}
+
+googleData$Stock.Price <- NULL
+googleData$Sentiment.Score <- NULL
+
+molten.googleData <- melt(googleData, id.vars = c("Day", "Tweets"), 
+              measure.vars = c("Sentiment.Prediction", "Actual"))
+
+```
+
+```{r fig.width=7, fig.height=6}
+
+ggplot(data = molten.googleData, aes(x = Day, y = value, fill = variable)) +
+  geom_bar(stat = "identity", position = position_dodge()) + 
+  ggtitle("Sentiment Analysis - Google Stock") +
+  scale_fill_manual(values=c("blue", "red"))
+
+```
+
+We observed that sentiment prediction for Google was that there would be rise in the stock price of google over the 5 day period. In reality, there was a downslide in the stock prices of Google with an exception for Day 4 where we noticed a rise.
+
+The analysis for Googe Stock using twitter data for sentiment analysis led to the following conclusion: 
+The twitter was not able to successfully predict the stock change for Google. This is supported by the above graph which proves that twitter was successfull only once. This proves that twitter cannot be reliable source for the stock prediction.

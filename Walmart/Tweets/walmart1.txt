@@ -1,0 +1,218 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539569584400269312" "RT @_tie7: “@FreeTopher: @Walmart gave $10K to Darren Wilson so that he could move to a safer location SMFH http://t.co/dKDIE0QCzt” rt this…" "classygirlkayy" TRUE FALSE 1417478388
+"2" "539569462673162241" "RT @_Spin_Machine_: #DirtySue picking up her HIV meds at @Walmart for #AIDSDay2014 http://t.co/8n3WqyOMdl" "LglzeDrgsNMrdr" TRUE FALSE 1417478359
+"3" "539569423162433536" "@voiceBoksScoop me! From @walmart for my #MilkSplashRecipes" "kimnelson111" FALSE FALSE 1417478349
+"4" "539569395488403456" "Walton Family: Use Your Influence to Give Walmart Workers a Decent Wage &amp; Benefits  http://t.co/T7hHetYs0Z @walmart Fuck Wal-Mart" "mmitsuda" FALSE FALSE 1417478343
+"5" "539569270976684032" "RT @VIZIO: Shop @Walmart’s #BlackFriday today in-store &amp; get great VIZIO deals! Learn more: http://t.co/7zfTG3DmuG http://t.co/P2DAfIcibP" "gjrandjlm" TRUE FALSE 1417478313
+"6" "539569155754557440" ". @SolarCity, @SunEdison Announce New Solar Projects With @Walmart in 36 states. http://t.co/5UyuMiocxV" "wtwh_MsMedia" FALSE FALSE 1417478286
+"7" "539569106757099522" "@Walmart Woot Woot UConn #pregamepride @TamaraTerni" "TamaraTerni" FALSE FALSE 1417478274
+"8" "539569051014402048" "Decisions were made at @walmart today. #1stworld #healthychoices http://t.co/Ijf7B2HRb9" "theonlyseamus" FALSE FALSE 1417478261
+"9" "539568960237473792" "RT @Walmart: Free #Layaway, Santa's other helper. http://t.co/gCBubQajXJ http://t.co/TdTOsVi9V8" "TamaraTerni" TRUE FALSE 1417478239
+"10" "539568848832184321" "@ChicGiselle @Walmart Whoa, really?  That's a bargain!  I have found some really good deals on Walmart too...even without the Cyber savings!" "wellconnectdmom" FALSE FALSE 1417478212
+"11" "539568840997613568" "@Walmart logic the items in stock but we wont put it on the shelf today just keep checking back all week #terribleservice #irritated 2xnow" "t0rifreeman" FALSE FALSE 1417478211
+"12" "539568601326313473" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "RMikulencak" TRUE FALSE 1417478153
+"13" "539568585312862208" "@Walmart gives me the worst anxiety when I shop there!!!" "LittleNatoli" FALSE FALSE 1417478150
+"14" "539567995371024385" "@Target pharmacy makes me feel like I'm at @Walmart" "AshleyB510" FALSE FALSE 1417478009
+"15" "539567654483558401" "RT @GuyFieri: Soo kewl to see my cookware at @walmart! http://t.co/VzRFauegI9" "Long_JOHNSON69" TRUE FALSE 1417477928
+"16" "539567477559017473" "RT @GuyFieri: Soo kewl to see my cookware at @walmart! http://t.co/VzRFauegI9" "_notsofreewilly" TRUE FALSE 1417477885
+"17" "539567475822579713" "@Walmart Do you have @WWE Survivor Series on DVD? Cause I really want to buy it so I can watch it." "StarshipDeadman" FALSE FALSE 1417477885
+"18" "539567468524888064" "RT @MinusTheCultJam: RT if you think @walmart needs to respond to my complaint so my blood pressure can stay normal." "BamboSlice" TRUE FALSE 1417477883
+"19" "539567300907913216" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "funmom91" TRUE FALSE 1417477843
+"20" "539567255143870464" "going on 25 minutes straight stuck in line at @Walmart" "samc0yne" FALSE FALSE 1417477832
+"21" "539567080497238018" "RT @MinusTheCultJam: RT if you think @walmart needs to respond to my complaint so my blood pressure can stay normal." "bellissimaa" FALSE FALSE 1417477791
+"22" "539566956689764353" "RT @dreamhampton: .@Walmart is complicit in John Crawford's murder. They deserve http://t.co/CUw3vRaSNW" "dahetoletehi" FALSE FALSE 1417477761
+"23" "539566794936430592" "So @Walmart really gonna have like 5 lanes out of 22 open right now? During rush hour AND Christmas season. #bullshit" "colormeKyssable" FALSE FALSE 1417477723
+"24" "539566481638715393" "RT @MinusTheCultJam: RT if you think @walmart needs to respond to my complaint so my blood pressure can stay normal." "Hunt4Ryan" FALSE FALSE 1417477648
+"25" "539566464379158528" "@swagbucks #MyWishList #Contest #Swagbucks (jshootingstar) @walmart http://t.co/kvaJEATW2m" "LoserfaceJanie" FALSE FALSE 1417477644
+"26" "539566461157924866" "RT @nbc: John, Wendy, &amp; Michael: Meet the Darling family in #PeterPanLive presented by @Walmart. Join us Dec 4 at 8/7c.
+https://t.co/cy2BME…" "Tooch803" TRUE FALSE 1417477643
+"27" "539566351317471232" "RT if you think @walmart needs to respond to my complaint so my blood pressure can stay normal." "MinusTheCultJam" FALSE FALSE 1417477617
+"28" "539566333089050624" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "APIIGY" TRUE FALSE 1417477613
+"29" "539566243359895552" "Well @Walmart, because of your refusal to price match at my local store, I will take my business elsewhere." "hardrocknguy" FALSE FALSE 1417477591
+"30" "539566178814132224" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "0GL0K0_" TRUE FALSE 1417477576
+"31" "539566146845175808" "I'm thinking if it's a franchise company it's NOT @ShopSmall #shoplocal is LOCAL businesses. Doesn't really include @McDonalds or @Walmart" "T_HansonSutton" FALSE FALSE 1417477568
+"32" "539566132978782209" "@Walmart thanks for reminding me why I hate shopping on your site. I ordered your #CyberMonday Moto E within the first minute Now canceled!" "ExappleSTL" FALSE FALSE 1417477565
+"33" "539566073289273346" "Dangit @Walmart. Your site says it's at the store, but it's not. What's the point of telling me if it's wrong?" "RofaMW" FALSE FALSE 1417477551
+"34" "539565991706255360" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "ThaisEllie" TRUE FALSE 1417477531
+"35" "539565979337240576" ".@strumcat Maybe she is on drugs.@Walmart All I know is that she screamed &amp; I cried. Coincidently, I was refilling my anti-depressants." "aPolishgirl" FALSE FALSE 1417477528
+"36" "539565887401910272" "@RealTracyMorgan excuse me sir but after u beat WalMart and become the primary stock holder do u think I can get a job FT @walmart?????" "calikingbear" FALSE FALSE 1417477506
+"37" "539565711153434624" "RT @Walmart: #CyberMonday is here! Save big right now at our biggest event of the year: http://t.co/ZKo75tzvc2 http://t.co/XBDeLYBYyd" "LocalDirect" TRUE FALSE 1417477464
+"38" "539565634687102976" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "KrystalS" TRUE FALSE 1417477446
+"39" "539565633223278592" "To @Walmart Doug McMillon - Pres&amp;CEO 12100 lem turner store CSM Heather V n Jax FL say cyber Monday $ is online only!! #ImSOL #nosaleinstore" "4theloveofus" FALSE FALSE 1417477446
+"40" "539565616911237120" "@Walmart nope.  No one in electronics even looked into it. I got fed up and went to @CVS_Extra (reluctantly)" "EJShoe" FALSE FALSE 1417477442
+"41" "539565572661719040" "RT @Walmart: #CyberMonday is here! Save big right now at our biggest event of the year: http://t.co/ZKo75tzvc2 http://t.co/XBDeLYBYyd" "LocalDirectDeal" TRUE FALSE 1417477431
+"42" "539565437500260352" "And I also have words for the rep that just called me (Rosie 25245) with her rude ass @walmart" "MinusTheCultJam" FALSE FALSE 1417477399
+"43" "539565373268713472" "if I ever spend another penny at @walmart I expect @bourboli to smack my face or slice me with his sword. #fuckwalmart #neveragain" "brettv79" FALSE FALSE 1417477384
+"44" "539565072235118592" "@Walmart i got $120 what would that get me computer wise" "jdodson1128" FALSE FALSE 1417477312
+"45" "539565050839965696" "@walmart to be told they never found it in the first place but here's your money back. Seriously? Fuck that place.." "brettv79" FALSE FALSE 1417477307
+"46" "539565017796837376" "@StateDept @USTradeRep @Walmart @WalmartCanada @AmericanPublish @Target @amazon @AmazonUK: Buy: The World Around Us II By: Tharius Heaven" "LordJezusChrist" FALSE FALSE 1417477299
+"47" "539564977972318208" "I should be able to shop online since I'm 9 months pregnant but y'all make that impossible too @walmart" "MinusTheCultJam" FALSE FALSE 1417477290
+"48" "539564870279397376" "@walmart call 4 days later and be told \"yes we have it, you can come get it\". Wait another 20 minutes in line...." "brettv79" FALSE FALSE 1417477264
+"49" "539564772971143168" "@oogleyas @Walmart THIS IS TOTALLY UNREAL!" "emanybeads" FALSE FALSE 1417477241
+"50" "539564669456105472" "I guess it's ok to order something online from @Walmart, get an email it's in, then wait an hour to be told it's on the truck in the back..." "brettv79" FALSE FALSE 1417477216
+"51" "539564648857890816" "#Cybermonday #BlackFriday sales are a bust. @Walmart @BestBuy @Kmart @Macys ruin a family day and get your sales ruined! #savethanksgiving" "BernadetteBoas" FALSE FALSE 1417477211
+"52" "539564517878136832" "@walmart cancelled my online order over a week ago &amp; promised me a gift card &amp; I haven't seen it YET. All the reps are incompetent." "MinusTheCultJam" FALSE FALSE 1417477180
+"53" "539564415868497920" ". @Walmart, @Target report strong online Thanksgiving sales http://t.co/TG1oFDGhTv" "M2W_Conference" FALSE FALSE 1417477156
+"54" "539564415054798848" ". @Walmart, @Target report strong online Thanksgiving sales http://t.co/ztbbnWqOtH" "M2Moms" FALSE FALSE 1417477155
+"55" "539564356066091009" "@MorganTyler86 @BestBuy @Walmart Walmart always has awesome bluray prices after black friday" "Brittin95" FALSE FALSE 1417477141
+"56" "539564252227305472" "@keithlowell @Walmart good idea" "RalComCashWorld" FALSE FALSE 1417477117
+"57" "539564215745277953" "RT @keithlowell: Seemed like a good day to reshare this. 
+Support the #walmartstrikers. 
+@Walmart, pay a living wage
+
+#KLJmeme http://t.co/…" "RalComCashWorld" TRUE FALSE 1417477108
+"58" "539564111450091521" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "robindavidman" TRUE FALSE 1417477083
+"59" "539564013064298496" "@Walmart - I have 15 receipts showing this deal. I am being denied. I guess my money isn't as green as theirs. http://t.co/DwmBth4KRQ" "SlowAnthony" FALSE FALSE 1417477059
+"60" "539563977957572609" "#CyberMonday must-have alert! Your little ghoul will adore our scary-cute #MonsterHigh skullette beauty bag: http://t.co/dCazTBMb4t @Walmart" "Markwins4Girls" FALSE FALSE 1417477051
+"61" "539563960992010241" "@aPolishgirl Sounds like the @Walmart pharmacy tech is taking drugs. Not uncommon. They should ask her to take a blood test." "strumcat" FALSE FALSE 1417477047
+"62" "539563947162996736" "The Fact WalMart is being so rude about people not having a receipt to refund an item is stupid. #BooWalMart @Walmart " "KatieDoll06" FALSE FALSE 1417477044
+"63" "539563797321494528" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "voiceBoksMedia" TRUE FALSE 1417477008
+"64" "539563782201434112" "@Walmart love all the #arckit products online! #SophisticatedLego @Arckitmodel" "shanabernad" FALSE FALSE 1417477004
+"65" "539563744301285376" "RT @ExPoleDancer: Up in @Walmart. Why? Because no place has a better assortment of tacky #Christmas lights &amp; swag ⛄️" "BigRMV" TRUE FALSE 1417476995
+"66" "539563706993344512" "@Walmart You can have your store give me the same deal that your other stores are giving your other customers. Is my money not as good??" "SlowAnthony" FALSE FALSE 1417476987
+"67" "539563598226284544" "Social buzz shows most popular companies on #BlackFriday, @Walmart, @Apple, @Microsoft included: http://t.co/yrcNDg1f2L by @JackMarshall" "BusinessForward" FALSE FALSE 1417476961
+"68" "539563555234648064" "@Walmart follows back please ❤️ im y'all's biggest fan I love yo juicy food PLS follow back ✊" "antonetaae" FALSE FALSE 1417476950
+"69" "539563461270052864" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "ChillDee_" TRUE FALSE 1417476928
+"70" "539563431909552129" "@Walmart absolutely!!!" "RedWine4Me2" FALSE FALSE 1417476921
+"71" "539563393825665026" "Gatdayum. Got home and found out my @sceptre_inc tv I ordered from @walmart yesterday shipped today and will arrive tomorrow. Dats fast :D" "wwefnfurlife" FALSE FALSE 1417476912
+"72" "539563316398411776" "RT @Walmart: @SlowAnthony We're sorry to hear about your experience with our store. How may we be of assistance today? -Zoe" "antonetaae" TRUE FALSE 1417476893
+"73" "539563304570875905" "@snopes @Walmart Walmart isn't a brand, it's a retailer, FYI" "adamclay211" FALSE FALSE 1417476891
+"74" "539563291941429250" "RT @Walmart: @FreelyOutspoken What have some great TV stands! What size TV do you have? ~WalmartElves" "antonetaae" TRUE FALSE 1417476888
+"75" "539563258831986688" "RT @1Dfamily5boys: So me and @Asail_tothemoon kinda rearranged the CD's at Walmart.... @onedirection @Walmart #OneDirection #1D #FOUR http:…" "Asail_tothemoon" TRUE FALSE 1417476880
+"76" "539563147582267392" "@Walmart: Expect nothing, pay taxes to cover their impoverished workers" "CoreyNYC" FALSE FALSE 1417476853
+"77" "539563108558049280" "RT @Walmart: @YesItsMustafa Hope your birthday is going great, Mustafa! We're glad your part of our team. -Heidi" "YesItsMustafa" TRUE FALSE 1417476844
+"78" "539562963053449216" "@Walmart when does the evening cyber monday deals go live" "MohammeDude" FALSE FALSE 1417476809
+"79" "539562925267386368" "RT @GOBankingRates: 5 Biggest #BlackFriday Retailers and Return Policies http://t.co/Gip4JFow7V  Feat: @Walmart @BestBuy @Target @Kohls htt…" "phoenix2life" TRUE FALSE 1417476800
+"80" "539562538149482496" "I want to win a $100 @Walmart GC to Gift a @DaisyOutdoor this holiday season from @anewdawnnblog  http://t.co/ZDsQd7qQG5" "WildOrchid985" FALSE FALSE 1417476708
+"81" "539562469887197185" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "Savinggreenmama" TRUE FALSE 1417476692
+"82" "539562303499558912" "@Walmart don't ruin Christmas gifts for someone else's kids and send a notification that the order has shipped! Now to spend more money..." "zabonik_katie" FALSE FALSE 1417476652
+"83" "539562301163315201" "5 Biggest #BlackFriday Retailers and Return Policies http://t.co/uStnFYk4Et  Feat: @Walmart @BestBuy @Target @Kohls http://t.co/Ox9ylaLwrR" "go_jaimec" FALSE FALSE 1417476651
+"84" "539562268485488640" "5 Biggest #BlackFriday Retailers and Return Policies http://t.co/2m4HjiLOR5  Feat: @Walmart @BestBuy @Target @Kohls http://t.co/7ZBPz0GY8E" "Go_Jenn" FALSE FALSE 1417476644
+"85" "539562260172390402" "5 Biggest #BlackFriday Retailers and Return Policies http://t.co/gFTcfHU85L  Feat: @Walmart @BestBuy @Target @Kohls http://t.co/pZLgnWP3ht" "GO_RoxyB" FALSE FALSE 1417476642
+"86" "539562257668399104" "5 Biggest #BlackFriday Retailers and Return Policies http://t.co/8fkWBB1vN1  Feat: @Walmart @BestBuy @Target @Kohls http://t.co/J3F8h5DQLI" "GO_JuanitaR" FALSE FALSE 1417476641
+"87" "539562237124689920" "5 Biggest #BlackFriday Retailers and Return Policies http://t.co/Gip4JFow7V  Feat: @Walmart @BestBuy @Target @Kohls http://t.co/PEz1tJf1Tc" "GOBankingRates" FALSE FALSE 1417476636
+"88" "539562234633265154" "5 Biggest #BlackFriday Retailers and Return Policies http://t.co/CRrLY1ZBMO  Feat: @Walmart @BestBuy @Target @Kohls http://t.co/zlHT5m8E60" "GO_ChristinaL" FALSE FALSE 1417476635
+"89" "539562233479843840" "5 Biggest #BlackFriday Retailers and Return Policies http://t.co/oKWfMQiRCS  Feat: @Walmart @BestBuy @Target @Kohls http://t.co/AeKtOYPf5I" "Go_Casey" FALSE FALSE 1417476635
+"90" "539562229302321154" "@Walmart @Target You guys are basic for not having foosballs ! " "carlitosarubio" FALSE FALSE 1417476634
+"91" "539562136331362305" "5 Biggest #BlackFriday Retailers and Return Policies http://t.co/7P0aIJALJT  Feat: @Walmart @BestBuy @Target @Kohls http://t.co/w1hNMolYB7" "SEO_Marcus" FALSE FALSE 1417476612
+"92" "539562117989289984" "@Walmart cyber Monday prices were trash this year. Way better last year but good thing @Target  &amp; @Kmart prices were great!!!!!#CyberMonday" "peaches_83" FALSE FALSE 1417476608
+"93" "539562115938263043" "Enter to #Win a @Walmart $100 Gift Card for a new @DaisyOutdoor Gun for the Holidays - RT and enter! http://t.co/8Up7upuRMH" "3taratops" FALSE FALSE 1417476607
+"94" "539561980445855744" "RT @dreamhampton: .@Walmart is complicit in John Crawford's murder. They deserve http://t.co/fhguyQSL2V" "pozatewogigu" FALSE FALSE 1417476575
+"95" "539561980084768768" "@Walmart I spent 2hours in store waiting....I have headache :(" "StoryAddict69" FALSE FALSE 1417476575
+"96" "539561933922656256" "@Walmart is understaffed, their workers are severely underpaid, &amp; expect their customers to do the job that employees should do. Shameful" "CoreyNYC" FALSE FALSE 1417476564
+"97" "539561846173229056" "@Walmart  the orders from online are coming in real slow,so they told me to come back tomorrow, they said if not in tomorrow give moneyback" "StoryAddict69" FALSE FALSE 1417476543
+"98" "539561801453535232" "When u go to @Walmart http://t.co/YigJuRzc4X" "Karinaaarellano" FALSE FALSE 1417476532
+"99" "539561727911034880" "Not a single cart in the store and the first thing I hear is an employee saying \"I can promise you @Walmart ain't gonna work me to death!\"" "cindyrtaylor" FALSE FALSE 1417476515
+"100" "539561622113513473" "@Walmart I got on this morning and it said it was out of stock online,said to write down # and go to store...I paid for it,but dont have it" "StoryAddict69" FALSE FALSE 1417476489
+"101" "539561378722242561" "$100 @Walmart Gift Card #Sweeps from @ManTripping to buy an @DaisyOutdoor #ItsADaisy BB Gun; Enter Here: http://t.co/FPbcQ9VIkT" "WildOrchid985" FALSE FALSE 1417476431
+"102" "539561240902004736" "@josheidelson Just watched you on @Uprisingradio w/Sonali great stuff on @Walmart and their lame labor acts. #WalmartStrikers" "Br1wk0h" FALSE FALSE 1417476399
+"103" "539560860327608320" "Against better judgement, I ordered @Walmart in store PU. Supposed to be there 11/29, no updates &amp; they want me to call store &amp; do their job" "CoreyNYC" FALSE FALSE 1417476308
+"104" "539560827700117505" "@Brittin95 @BestBuy I paid $8 not knowing @Walmart had it for $4" "MorganTyler86" FALSE FALSE 1417476300
+"105" "539560621633974272" "Maybe if @Walmart paid a decent wage, it could hire better ppl.Workers would have more to lose if they act like idiots.Get what you pay for." "aPolishgirl" FALSE FALSE 1417476251
+"106" "539560582090076160" ".@Walmart Your promptness in cancelling my order is already unacceptable, but continuing to leave the hold on my card is unforgivable." "JimRhodes2" FALSE FALSE 1417476241
+"107" "539560501479755776" "If @Walmart don't sell the poison we can't buy it because they don't tell you what's in the bag nuggets, packaged food, etc. ALL GMO poison!" "NiceGuy504" FALSE FALSE 1417476222
+"108" "539560369040408576" "RT @Walmart: @SolesStayOnIce Hi Marvin, maybe we can help! What types of deals are you looking for? ~WalmartElves" "SolesStayOnIce" TRUE FALSE 1417476191
+"109" "539560363579412481" "@Walmart Deals that involve this sweater. ;) I want it so bad.  http://t.co/MGuz7A6JUE" "SolesStayOnIce" FALSE FALSE 1417476189
+"110" "539560236672356353" "@Walmart, @Target and other companies are helping spread poison to all of us. So Thank @Walmart and other companies for helping @MonsantoCo" "NiceGuy504" FALSE FALSE 1417476159
+"111" "539560223955251201" "@Walmart I'm officially tired of Anthony Anderson &amp; Melissa Joan Hart..." "jerrykentpowell" FALSE FALSE 1417476156
+"112" "539559966894731264" "@ExPoleDancer @Walmart Oh......like Santa doesn't have to go number 2??!!" "StevieJoe1" FALSE FALSE 1417476095
+"113" "539559881192112128" "RT @Walmart: Don’t miss our BIGGEST savings event of the year. Shop Walmart’s Cyber Monday deals now! http://t.co/4TiZYM2dyJ http://t.co/NP…" "MrCoolLooking75" TRUE FALSE 1417476074
+"114" "539559770638651392" "RT @IowaHell: Still time to #win a $100 @Walmart gift card from @DaisyOutdoor &amp; @SahmReviews! http://t.co/MRE0JKeSNm #contest #sweepstakes …" "_MichaelaMiles" TRUE FALSE 1417476048
+"115" "539559674623033346" "Have had many different jobs &amp; would have been shown the door if I SCREAMED &amp; ARGUED with clients,customers,students parents. @WalMart #2853" "aPolishgirl" FALSE FALSE 1417476025
+"116" "539559318233042944" "@Walmart oh hey, thanks for canceling my order after 9 hours when you said it would be ready for pick up in 4 hours." "Ringham_2" FALSE FALSE 1417475940
+"117" "539559267767173121" "RT @ExPoleDancer: Seriously, where else but @Walmart can you find a delightfully tacky #Christmas decoration like this? http://t.co/MjF4FnM…" "Colchester1891" TRUE FALSE 1417475928
+"118" "539559194622722048" "@walmart Why do I have to be detective &amp; do the job your CSRs refuse to do? Store was supposed to have item on 11/29 for pickup, I’m in dark" "CoreyNYC" FALSE FALSE 1417475911
+"119" "539559029022810112" "@HouseCracka @betseyrossTGDN @Walmart  A peaceful protester doesn't hide his face with a scarf." "SpeakingOut59" FALSE FALSE 1417475871
+"120" "539558992448475137" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "_MichaelaMiles" TRUE FALSE 1417475862
+"121" "539558968272887808" "RT @nbc: John, Wendy, &amp; Michael: Meet the Darling family in #PeterPanLive presented by @Walmart. Join us Dec 4 at 8/7c.
+https://t.co/cy2BME…" "daiseyjuke" TRUE FALSE 1417475857
+"122" "539558871887790081" "@Walmart my order was cancelled but I wasn't notified until hours later" "Slightly_MarMar" FALSE FALSE 1417475834
+"123" "539558839670947840" ".@WalMart Michele Gragan #2853 SCREAMED at me.We ended up in a shouting match. Other clerks apologized for her, but she refused. Pls retweet" "aPolishgirl" FALSE FALSE 1417475826
+"124" "539558831928659969" "So me and @Asail_tothemoon kinda rearranged the CD's at Walmart.... @onedirection @Walmart #OneDirection #1D #FOUR http://t.co/1mLwAvHJZa" "1Dfamily5boys" FALSE FALSE 1417475824
+"125" "539558783706361856" "RT @LizClaman: OMG WAIT til you see this fake @Walmart email: BEWARE: watch this to avoid getting hacked and scammed! http://t.co/NUuAsJMjG…" "AgariInc" TRUE FALSE 1417475813
+"126" "539558722386001920" "@Walmart no - We purchased from Clarence NY super WM, which is 20+miles away. We tried to handle at local walmart in Lockport." "MarkNigro" FALSE FALSE 1417475798
+"127" "539558610192588800" "@Walmart order a tv online using store pickup &amp; it's not here when I go pick it up. Tell me what does ready in store mean. #unacceptable" "Tjai101" FALSE FALSE 1417475771
+"128" "539558385461764096" "@UMG @Walmart new singles out by rednovacane \"makin moves\" n \"violence increasin freestyle\" http://t.co/npBGpvPtNW" "wickedheart34" FALSE FALSE 1417475718
+"129" "539558378889302016" "Thanks @Walmart 4 allowing me to think it was in in stock, waste my time ordering it, placing a hold on my cc, &amp; then cancel it 8 hrs later." "JimRhodes2" FALSE FALSE 1417475716
+"130" "539558374606901248" "@Walmart Won't honor my confrimed Cyber Monday deal #BadCustomerService #frustrated" "SWayne3809" FALSE FALSE 1417475715
+"131" "539558374396809217" "$100 @Walmart Gift Card #Sweeps from @ManTripping to buy an @DaisyOutdoor #ItsADaisy BB Gun; Enter Here: http://t.co/1XKxNpiMNJ" "catholicfanatic" FALSE FALSE 1417475715
+"132" "539558262299848706" "@Walmart Thanks! I can make-do without the baby monitor. My wife will be back at work. Hopefully she is able to pump enough milk while away." "andrelecomte" FALSE FALSE 1417475688
+"133" "539558254050041857" "Hey @Walmart, @amazon is better. They don't cancel orders and then hang up when you call customer service. #amazonlove" "Ringham_2" FALSE FALSE 1417475686
+"134" "539558248735850496" "Get the best prices on Vinyl this year @Walmart! The perfect #Gift for the audiophile in your life! http://t.co/Eph0ELMXbL" "UMG" FALSE FALSE 1417475685
+"135" "539558177621430272" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "AyeshaVAMPS" TRUE FALSE 1417475668
+"136" "539558126945828864" "@OpticWhite. you can find Optic White at @Walmart! #CMASWEEPS" "CoolSolon" FALSE FALSE 1417475656
+"137" "539558058742251520" "Seriously, where else but @Walmart can you find a delightfully tacky #Christmas decoration like this? http://t.co/MjF4FnMESM" "ExPoleDancer" FALSE FALSE 1417475640
+"138" "539558046389653505" "How does one become a walmart elf? @Walmart" "Rain_Artistic" FALSE FALSE 1417475637
+"139" "539558018183331840" "@_youhadonejob Leave it to the geniuses @Walmart." "OuisaBoudreaux" FALSE FALSE 1417475630
+"140" "539557823043354624" "@Walmart Wants To Be The Nations No. 1 #HealthCare Provider http://t.co/6EnJHSZLzq" "EClemendot" FALSE FALSE 1417475584
+"141" "539557639467065344" "@Walmart customer service at its finest when they hang up on you." "Ringham_2" FALSE FALSE 1417475540
+"142" "539557445056868352" "I know--ewww @WalMart, but they are a necessary evil for me do to low pharmacy prices. But don't expect for pharmacy tech to SCREAM at me." "aPolishgirl" FALSE FALSE 1417475494
+"143" "539557305759842304" "RT @TheTipToeFairy: AD: What a deal!! Get #StraightTalkWireless @Walmart and get unlimited text, talk and 3GB of data for just $45! http://…" "Savinggreenmama" TRUE FALSE 1417475460
+"144" "539557301598691329" "RT @raju: 10% of @Walmart's mobile-generated sales emanate from inside a Wal-Mart store: http://t.co/1ZnkxDBkfn
+@sarahhalzack http://t.co/k…" "kristykim1015" TRUE FALSE 1417475459
+"145" "539557201866928130" "@Walmart @WalmartAction  Hew Walmart FUCK OFF. http://t.co/kD97FBMurE" "Ourcountry911" FALSE FALSE 1417475436
+"146" "539557119876681728" "@Walmart When is the Winter Beauty Box scheduled to ship?" "GrowItGirl" FALSE FALSE 1417475416
+"147" "539556886543347712" "US Black Friday sales disappoint - @Walmart @Target hopefully you both saw sales reductions!TG all families s/b at  http://t.co/MgFxz23zHh" "MJOWLS" FALSE FALSE 1417475360
+"148" "539556749452120064" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "savinsaidsimply" TRUE FALSE 1417475328
+"149" "539556735518650368" "@Walmart when does the evening cyber monday deals go live , my time zone is central standard time , thank you" "MohammeDude" FALSE FALSE 1417475324
+"150" "539556673611104256" "RT @shespeaksup: Win @Walmart gift cards at the @Duracell #PowerTheHolidays Twitter Party 12/3 at 2pm ET - RSVP here: http://t.co/fPQaKiGDlA" "MarybethNelms2" TRUE FALSE 1417475310
+"151" "539556607185928193" ".@Walmart Will be tweeting about the horrible experience I had with the pharmacy #2853. &amp; will be asking for retweets." "aPolishgirl" FALSE FALSE 1417475294
+"152" "539556393531895809" "Up in @Walmart. Why? Because no place has a better assortment of tacky #Christmas lights &amp; swag ⛄️" "ExPoleDancer" FALSE FALSE 1417475243
+"153" "539556342453649408" "RT @QponLessonPlans: Ever heard of Marshmallow sofas by @SpinMasterToys ? My kids LOVE them! Available at @Walmart  #ad http://t.co/ofHPtEw…" "jr_panda2778" TRUE FALSE 1417475231
+"154" "539556275659354113" "@Walmart sold me a used vacuum and now I have to wait in a long line to exchange it #unbelievable" "clydestuh" FALSE FALSE 1417475215
+"155" "539556253744504832" "RT @Walmart: Q3. Tablets and tech are big. Do you have any recommendations for #CyberMonday &amp; Cyber Week shoppers? #WMTMomsChat" "seahealthmarket" TRUE FALSE 1417475210
+"156" "539556152057802752" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "Lovely_Nelliee" TRUE FALSE 1417475185
+"157" "539556004305076224" "Just spent 5 hours waiting for tires to be  put on my car. Thanks @Walmart" "myracecarbed" FALSE FALSE 1417475150
+"158" "539555938525388800" "@Walmart Several items, I've already gotten back almost 16 bucks and I have several of my friends using the app." "dennie75" FALSE FALSE 1417475134
+"159" "539555791015903232" ".@Walmart I can't open this jar of salsa. Please send help or refund  http://t.co/3zK4gX4J8M" "kayjean21" FALSE FALSE 1417475099
+"160" "539555722040967168" "@Walmart depends what tempiture the pie is" "MrsInernetEmma" FALSE FALSE 1417475083
+"161" "539555628084396032" "RT @QponLessonPlans: Ever heard of Marshmallow sofas by @SpinMasterToys ? My kids LOVE them! Available at @Walmart  #ad http://t.co/ofHPtEw…" "lifeasiknowit2b" TRUE FALSE 1417475060
+"162" "539555389725896705" "Easy Stuffed Bell Peppers Recipe http://t.co/rLJ2NtyE8U #McSkilletSauce @Walmart #sponsored http://t.co/ShQaitXgn9" "mommye" FALSE FALSE 1417475004
+"163" "539555284209778688" "RT @Walmart: #CyberMonday is here! Save big right now at our biggest event of the year: http://t.co/ZKo75tzvc2 http://t.co/XBDeLYBYyd" "dillionp1" TRUE FALSE 1417474978
+"164" "539554955074744320" "RT @huckfield: @TEAMSTERS436 @Walmart wont pay #WalmartStrikers living wage but sponsors Social Business Summit #GSBS2014 Mexco City http:/…" "TEAMSTERS436" TRUE FALSE 1417474900
+"165" "539554886393016322" "RT @HouseCracka: Shut Down a @Walmart Hurting Jobs, Commerce, Scaring Shoppers in St Louis tonight... #Ferguson
+
+https://t.co/IWyOBkIk32" "betseyrossTGDN" TRUE FALSE 1417474884
+"166" "539554863013961728" "@amazon I thought you price matched your competitors? @walmart has a bookself for $38 you sell it for $231.99. No cyber monday deal. Wow." "JasonTheAptHero" FALSE FALSE 1417474878
+"167" "539554795695005697" "Uh oh.. @walmart is trending again?  Better crack out the CEO spin!  http://t.co/PUa8ArCJcP
+#WalmartStrikers deserve BETTER hours and pay!" "LordanArts" FALSE FALSE 1417474862
+"168" "539554625473757184" "Impatient online shoppers will love this new @Walmart feature! http://t.co/KUSz3DewMK" "StyleDemocracy" FALSE FALSE 1417474821
+"169" "539554586558992385" "@_Spin_Machine_ @Walmart striking resemblance" "CM_Kip" FALSE FALSE 1417474812
+"170" "539554267972243456" "RT @_Spin_Machine_: @CM_Kip @Walmart LoL that's #DirtySue" "CM_Kip" TRUE FALSE 1417474736
+"171" "539554157313527808" "Shoutout the plug. RT @Walmart: @LouieG93 The Keurig is a great! We have one  http://t.co/057LgXyi6B ~WalmartElves" "LouieG93" FALSE FALSE 1417474710
+"172" "539553933128396800" "@Walmart has the WORST customer service ever. If they don't cancel the order I requested to be canceled 2 weeks ago I'm going off ...again" "__HairKingDom" FALSE FALSE 1417474656
+"173" "539553740517556225" "@Walmart lol no didn't get what I need and my money is still tied up in your system" "cbakerIII" FALSE FALSE 1417474610
+"174" "539553727259348993" "RT @HookLogic: #CyberMonday already starting.  More shoppers buying those great holiday gifts @Target @Walmart @Kohls @Newegg @Sears @ToysR…" "AllanCadenilla" TRUE FALSE 1417474607
+"175" "539553706531119104" "@Walmart my mom went to go buy the new one direction dvd for me for Christmas. y'all didn't have it &amp; it is supposed to be out today." "cruisinourry" FALSE FALSE 1417474602
+"176" "539553652483309568" "RT @HookLogic: #CyberMonday traffic already up 3% vs #BlackFriday &amp; surpassing 2013.  Predict peak traffic 9pm tonight! @Target @Walmart @K…" "AllanCadenilla" TRUE FALSE 1417474589
+"177" "539553578336010241" "@CM_Kip @Walmart LoL that's #DirtySue" "_Spin_Machine_" FALSE FALSE 1417474572
+"178" "539553546283524096" "RT @GuyFieri: .@bakedmom yeah you can get my signature sauces at @Walmart : check out my Bourbon Brown Sugar BBQ sauce: http://t.co/h8uBMuh…" "ghostlynic" TRUE FALSE 1417474564
+"179" "539553520807321600" "“@Walmart: @Nick_J_Franklin It is such a cute movie! Have you picked up a copy for yourself yet?” Dopeee. Yeah I have three." "Nick_J_Franklin" FALSE FALSE 1417474558
+"180" "539553481078480897" "Not very happy with @Walmart I have saved and planned to buy my oldest son a PS4 for this Christmas. Miss matched stuff online I missed out." "Arga967" FALSE FALSE 1417474548
+"181" "539553438158585857" "@Walmart yes!! Thank you!!! And it's cheaper #excited" "titanbm" FALSE FALSE 1417474538
+"182" "539553404859588608" "@wellconnectdmom @Walmart the floor lamp version is great to &amp; can't beat the savings. Pottery Barn, etc sell similar styles but cost $100+" "ChicGiselle" FALSE FALSE 1417474530
+"183" "539553360379396098" "RT @Walmart: @ChiefReeff Wecan't provide the puppy but we can offer the iPhone of your dreams this #CyberMonday http://t.co/iKVJN8vosb ~Wal…" "ChiefReeff" TRUE FALSE 1417474520
+"184" "539553340880089088" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "_Everyday_Life_" TRUE FALSE 1417474515
+"185" "539552943557836800" ".@Walmart Well I do want to play #GrandTheftAutoV..." "itscrazzywill" FALSE FALSE 1417474420
+"186" "539552924611776513" "@ChicGiselle @Walmart Nice, I love the finish on it.  Thanks for finding it for me." "wellconnectdmom" FALSE FALSE 1417474416
+"187" "539552823701426176" "They need one of them @walmart grocery pickups in Springdale." "taraashpul" FALSE FALSE 1417474392
+"188" "539552745112338432" "@Walmart thx 4 destroying Xmas 4 my kids. They loved seeing their big gifts on our porch that they asked from Santa. Now they don't believe!" "vfrankowski" FALSE FALSE 1417474373
+"189" "539552219184771072" "RT @LizClaman: OMG WAIT til you see this fake @Walmart email: BEWARE: watch this to avoid getting hacked and scammed! http://t.co/NUuAsJMjG…" "Chris_1791" TRUE FALSE 1417474248
+"190" "539552149688942593" "@Walmart I guess I got lied to by a cashier who refused to match your own prices costing me $20 more in eagle River,ak retrain cashiers ?" "lalalee86" FALSE FALSE 1417474231
+"191" "539552141291954178" "@StateDept @USTradeRep @Walmart @WalmartCanada @AmericanPublish @Target @amazon @AmazonUK: World History https://t.co/UNjWQ4BmLH" "LordJezusChrist" FALSE FALSE 1417474229
+"192" "539552105892429824" "RT @IowaHell: Still time to #win a $100 @Walmart gift card from @DaisyOutdoor &amp; @SahmReviews! http://t.co/MRE0JKeSNm #contest #sweepstakes …" "pfiala" TRUE FALSE 1417474221
+"193" "539552099068297216" "OMG WAIT til you see this fake @Walmart email: BEWARE: watch this to avoid getting hacked and scammed! http://t.co/NUuAsJMjGO  @AgariInc" "LizClaman" FALSE FALSE 1417474219
+"194" "539552034236936192" "@Walmart This deal was not available at 5PM EST as advertised. Was never In stock. http://t.co/8p5vfUaNgS #dissapointing" "Reachingnexus" FALSE FALSE 1417474204
+"195" "539551996341411840" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "annalisa_pedano" TRUE FALSE 1417474194
+"196" "539551978150690816" "Whenever I leave @Walmart I feel like I need a disinfecting shower like in the movie Silkwood." "aprilsopinions" FALSE FALSE 1417474190
+"197" "539551903659859969" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "angelwaters101" TRUE FALSE 1417474172
+"198" "539551894323343360" "RT @LynnaeMcCoy: Ad. It's #CyberMonday @Walmart! Snow Glow Elsa, TVs &amp; more on sale! #WMTMoms  http://t.co/HXYWuQxk39" "janvic29" TRUE FALSE 1417474170
+"199" "539551855928295424" "Chili Cornbread Muffins With McCormick Skillet Sauces  #McSkilletSauce #recipe @Walmart http://t.co/rGd3lvfdBP http://t.co/lK6H9ZvwMW" "mommye" FALSE FALSE 1417474161
+"200" "539551835645018112" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "_fvckmv" TRUE FALSE 1417474156

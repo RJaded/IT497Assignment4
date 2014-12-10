@@ -1,0 +1,220 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539931826374979586" "Santa Tracker 2014: @Google takes on Microsoft and NORAD again http://t.co/GrZ4juKVn2 The mini games are addictive" "simonlazenby" FALSE FALSE 1417564753
+"2" "539931745894662144" "...dunno why, but know it wasn't me and we weren't hacked,it's internal Google,who are investigating. Gotta love @Google, they're on it." "AnikoTevvit" FALSE FALSE 1417564734
+"3" "539931639694905345" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "DigitalEconoMs" TRUE FALSE 1417564709
+"4" "539931536166891520" "@google low income families don't need high speed internet. They need food, higher paying jobs, etc. But, thanks for caring anyway." "misanthrope280" FALSE FALSE 1417564684
+"5" "539931511143665664" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "arielposner" TRUE FALSE 1417564678
+"6" "539931462712049664" "RT @joyclee: #hcsm across the pond! #Socialmedia, @Google, &amp; the internet are medical tx - http://t.co/TRC2oO6K8u cc @SusannahFox @Nightsco…" "GerryWieder" TRUE FALSE 1417564666
+"7" "539931287289462784" "@google wins advertising. #minions http://t.co/OXChU8f9VL" "themusing" FALSE FALSE 1417564624
+"8" "539931015255314432" "RT @FedericoPistono: How a nerdy kid from nowhere self-published a best-seller and got noticed by @Google CEO Larry Page and @wsj http://t.…" "walterfemiano" TRUE FALSE 1417564560
+"9" "539930760816250882" "#News Professor Stephen Hawking warns development of artificial intelligence could ... - ABC Online http://t.co/5rx94eBU0O Vía @Google" "ObiWanKenobl" FALSE FALSE 1417564499
+"10" "539930760057090048" "#News Obama to host new governors at White House Friday - Washington Times http://t.co/QLu4uUWcD8 Vía @Google" "ObiWanKenobl" FALSE FALSE 1417564499
+"11" "539930759000104960" "#News 2 children, 1 adult killed in Tennessee school bus crash - New York Daily News http://t.co/05RyKyXRBT Vía @Google" "ObiWanKenobl" FALSE FALSE 1417564499
+"12" "539930758039605248" "#News How Israel's Coalition Government Collapsed - TIME http://t.co/I07HkEzanK Vía @Google" "ObiWanKenobl" FALSE FALSE 1417564498
+"13" "539930757221736448" "#News Boehner moves to push off immigration fight to 2015 - Fox News http://t.co/t9uWxMODJY Vía @Google" "ObiWanKenobl" FALSE FALSE 1417564498
+"14" "539930698576973824" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "lwilcock" TRUE FALSE 1417564484
+"15" "539930564317298689" "Perfect translation, thank you @google http://t.co/YVHnuKfFnh" "mollyoloo" FALSE FALSE 1417564452
+"16" "539930549544955904" "@google You are cordially invited to #India too.!" "sanjeetsalunke" FALSE FALSE 1417564449
+"17" "539930426148544512" "@google support is always top notch" "AntAir267" FALSE FALSE 1417564419
+"18" "539930397400776707" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "cmhans8" TRUE FALSE 1417564412
+"19" "539930344288313345" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "kenya" TRUE FALSE 1417564400
+"20" "539930221630070785" "#hcsm across the pond! #Socialmedia, @Google, &amp; the internet are medical tx - http://t.co/TRC2oO6K8u cc @SusannahFox @NightscoutProj" "joyclee" FALSE FALSE 1417564370
+"21" "539930150997995520" ".@firefox update sees @Yahoo replace @google as default search option http://t.co/yQdfGdhYdP http://t.co/9ami3j0m8t @YahooTech #technology" "jbadajoz" FALSE FALSE 1417564354
+"22" "539930149232189441" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "m_kononow" TRUE FALSE 1417564353
+"23" "539930078323281921" "RT @CNNMoney: If you're looking for a Ouija Board, you're not alone. It's a top trending toy on @Google http://t.co/AsHJVaklUu http://t.co/…" "crumpbb" TRUE FALSE 1417564336
+"24" "539929972127694849" "RT @meloncollie: Flat #design was cool bc it's not skeuomorphic then @google came out w/ material design and i dunno lol ¯°_o)/¯ https://…" "madden_kris" TRUE FALSE 1417564311
+"25" "539929953450467328" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "adiloss" TRUE FALSE 1417564306
+"26" "539929547928387584" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "MBHDTech" TRUE FALSE 1417564210
+"27" "539929431922335744" "RT @JoeyDiggsJr: Shoutout to @google translate one time. #GameChanger #LifeSaver" "yesterek" TRUE FALSE 1417564182
+"28" "539929387861168128" "Picture of Kristen Stewart http://t.co/TbSYhlw6Ru @AustinKlimp @Jordan @Google @Facebook @Galaxy @Samsung @JAPAN" "JordanKlimp" FALSE FALSE 1417564172
+"29" "539929363278352386" "@google holding true to their mission statement by making the information \"... universally accessible...\" by giving tools for access." "Nixon" FALSE FALSE 1417564166
+"30" "539929188505894912" "@google Receiving disingenuous hard sales robo calls from u. Recorded voice says urgent 4 listing, then person sells. Hung up when told no." "brianknolly" FALSE FALSE 1417564124
+"31" "539929175184781312" "RT @GoParks: This year the #holidays are #MadeWithCode via @google -&gt; http://t.co/H15NaNT3XJ #NCTL2014" "richwithright" TRUE FALSE 1417564121
+"32" "539929039901712385" "When G.M. Was @Google http://t.co/1GM2IJ7GHE" "RikiH" FALSE FALSE 1417564089
+"33" "539928706160943104" "@google Fuck that (well,. keep it too), I need one!" "DanLoFat" FALSE FALSE 1417564009
+"34" "539928582445752320" "@google Can you bring fiber to the tampa bay area at the same time?" "Swiheezy" FALSE FALSE 1417563980
+"35" "539928517505339392" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "likeaboss5566" TRUE FALSE 1417563964
+"36" "539928456641785859" "@madfisherman I did a @google search on \"hotels no pre payment\" and noticed the first link was previously clicked. Entered name and boom!" "mikeprocopio" FALSE FALSE 1417563950
+"37" "539928454074884099" "I just published “The Deception Industry Is Betting Against You” https://t.co/YnUtjSymft .@DrewCourt .@PoliticsNation .@google .@tumblr RT" "The_FEEL_Center" FALSE FALSE 1417563949
+"38" "539928435745763328" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "CAKreik" TRUE FALSE 1417563945
+"39" "539928330426802176" "@SaraJaneGarvey @MuldoonPatrick @google Good question! Nobody good enough yet! " "AmberLHackmann" FALSE FALSE 1417563920
+"40" "539928321115422722" "@google what about #Africa we still wait about the Hight debit internet connection." "mukimbili" FALSE FALSE 1417563917
+"41" "539928306083045378" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "julia_kiedis" TRUE FALSE 1417563914
+"42" "539928284926971905" "@google Good call. It's good to see major corps remembering the hard working low income families. Hope this gets rolled out to other places." "CardboardITTech" FALSE FALSE 1417563909
+"43" "539928240702251008" "@googlesupport @google 2 hrs 8 min and counting on hold with google customer service and still no human being to talk to. Come on!" "pelechinITguy" FALSE FALSE 1417563898
+"44" "539928193973497856" "@google delete it http://t.co/cZTToSFSr3" "loveforrussett" FALSE FALSE 1417563887
+"45" "539928193033965568" "Picture of Kristen Stewart @AustinKlimp @Google @Facebook @Galaxy @Samsung http://t.co/jYmkbBtAMD" "JordanKlimp" FALSE FALSE 1417563887
+"46" "539928175313043457" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "ezra802" TRUE FALSE 1417563883
+"47" "539928167025094656" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "digitalsista" TRUE FALSE 1417563881
+"48" "539928106224472064" "RT @nickreeldx: Google #Glass in Healthcare Is Here to Stay http://t.co/6PkVujS6xH via @hitconsultant @google @augmedix @pristineio @reeldx…" "socialcloudRT" TRUE FALSE 1417563866
+"49" "539928011844235265" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "jamie_hi" TRUE FALSE 1417563844
+"50" "539927816557453312" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "Thepsychosam95" TRUE FALSE 1417563797
+"51" "539927803550904320" ".@Google Seriously, sort this shit out. I need money to live. It's sat in my Google Wallet account doing nothing. http://t.co/DRLqilGTsZ" "dev_meltus" FALSE FALSE 1417563794
+"52" "539927751340195841" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "jsteneros" TRUE FALSE 1417563781
+"53" "539927748370640897" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "mukimbili" TRUE FALSE 1417563781
+"54" "539927728485433344" "@google And that is why everyone loves you Google! #stayawesome" "SystemsSC" FALSE FALSE 1417563776
+"55" "539927584830521345" "@google and this is why you guys are amazing. Now bring Google Fiber to the north east. Or else!" "Grimmace57" FALSE FALSE 1417563742
+"56" "539927453678829569" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "honomicr" TRUE FALSE 1417563710
+"57" "539927442928836608" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "follah_" TRUE FALSE 1417563708
+"58" "539927419319099392" "Officially passed the Google Analytics Exam!! @google @JenOsbon @googleanalytics #analytics" "CHernandez526" FALSE FALSE 1417563702
+"59" "539927303958958080" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "AnibalStar" TRUE FALSE 1417563675
+"60" "539927204977602562" "Whats up @google http://t.co/PWbJzFY1TA" "x86_g" FALSE FALSE 1417563651
+"61" "539927193585844224" "Picture of Cara Delevingne @AustinKlimp @Google @Facebook @Galaxy @Samsung @VitalCoreHealthComponents http://t.co/VwvprPen1V" "JordanKlimp" FALSE FALSE 1417563648
+"62" "539927139739398145" "@MuldoonPatrick @AmberLHackmann @google Yah, why isn't Patrick married yet :)" "SaraJaneGarvey" FALSE FALSE 1417563636
+"63" "539927121192157184" "@MuldoonPatrick @google Yupp...I watched #BoyfriendForChristmas then I decided to ask Google " "AmberLHackmann" FALSE FALSE 1417563631
+"64" "539927005769134080" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "NickRealMDG" TRUE FALSE 1417563604
+"65" "539926786570612736" "Missed the @google Cloud Platform Meetup this morning, sadly, due to work deadlines. What am I missing guys? #google #googlecloud" "esimbie" FALSE FALSE 1417563551
+"66" "539926780597903360" "“@AmberLHackmann: Is @google telling the truth? @MuldoonPatrick isn't married &amp; doesn't have kids? Say what? #Why #SuchACatch  ” me? : )" "MuldoonPatrick" FALSE FALSE 1417563550
+"67" "539926652742930432" "Flat #design was cool bc it's not skeuomorphic then @google came out w/ material design and i dunno lol ¯°_o)/¯ https://t.co/GlQqaLb0fk" "meloncollie" FALSE FALSE 1417563520
+"68" "539926484421341184" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "scne" TRUE FALSE 1417563479
+"69" "539926465429508096" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "chanc" TRUE FALSE 1417563475
+"70" "539926425747210240" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home. Using @Sprint? Poor families!" "jimcvit" FALSE FALSE 1417563465
+"71" "539926374975160320" "RT @AllHands: So many give so we can help! @cleanones @EOProducts @google @serengetee @oskarblues  #GivingTuesday #dreamteam" "tweetkrishouses" TRUE FALSE 1417563453
+"72" "539926344721653760" "RT @ValaAfshar: World Population:
+
+1 @Facebook 
+2 China
+3 India
+4 Tencent
+5 @WhatsApp
+6 United States
+7 @Google+
+8 @LinkedIn
+9 @Twitter
+10 …" "jetrosearles" TRUE FALSE 1417563446
+"73" "539926343081684992" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "rrhhmadrid" TRUE FALSE 1417563446
+"74" "539926187695284225" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "Eddyargeal" TRUE FALSE 1417563409
+"75" "539926140433887233" "Specifically the iOS app. Just not easy to use, bad integration, no voice recog. I'd prefer to stick with @chrome @Google search for mobile." "mattpauljones" FALSE FALSE 1417563397
+"76" "539926069210402816" "@itskellykline @JournalistsLike @google apparently!  Learn something new everyday..." "KBasham1" FALSE FALSE 1417563380
+"77" "539926033307549696" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "MachariaSK" TRUE FALSE 1417563372
+"78" "539926022225813507" "@InkedAgony @RapturousSoul @google he's stealing your photos." "ohambrose" FALSE FALSE 1417563369
+"79" "539926016928776192" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "raulbarretog" TRUE FALSE 1417563368
+"80" "539925986650124288" "@autodesk Documentation in what format? And from which perspective? At what end of the inclusive* information pipeline? @google Define: User" "borgnet" FALSE FALSE 1417563361
+"81" "539925954873659394" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "ArleneJ99634265" TRUE FALSE 1417563353
+"82" "539925937475686400" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "juliewoodsmoss" TRUE FALSE 1417563349
+"83" "539925909784907776" "According to one of the baristas at @Google SF @felipehoffa is my brother... http://t.co/4KxfeSBtt7" "francesc" FALSE FALSE 1417563342
+"84" "539925836141322240" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "TimCohn" TRUE FALSE 1417563325
+"85" "539925800162975745" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "fortunosilvia" TRUE FALSE 1417563316
+"86" "539925600790519810" "@google why not India??  :/" "DevasmitoD" FALSE FALSE 1417563269
+"87" "539925497249943552" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "_AaronLopez_" TRUE FALSE 1417563244
+"88" "539925413124775936" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "xuchao" TRUE FALSE 1417563224
+"89" "539925412160499712" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "marcelodetroi" TRUE FALSE 1417563224
+"90" "539925394594344961" "@google thanks so much for your GoogleGive program! The donations raised are being tripled to help mend so many children! #GivingTuesday" "mendingkids" FALSE FALSE 1417563220
+"91" "539925148238086144" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "ruslanrusu" TRUE FALSE 1417563161
+"92" "539925120752443392" "@google Great However, as mean as it sounds, block porn, let people use this Internet for truly positive reasons and growth." "ToviaSkeete" FALSE FALSE 1417563154
+"93" "539924995221508096" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "danielortiz_d" TRUE FALSE 1417563124
+"94" "539924823472738306" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "deandre_nickens" TRUE FALSE 1417563083
+"95" "539924681852477440" "Should have bought a @google chromecast a long time ago @GooglePlay @googlechrome maybe I'll dev for it at some point http://t.co/FkKeAxjhD7" "jbutewicz" FALSE FALSE 1417563050
+"96" "539924575891361794" "@KBasham1 @JournalistsLike @google THAT CAN HAPPEN? O_O" "itskellykline" FALSE FALSE 1417563024
+"97" "539924524221730817" "RT @CandaceKuss: Love @Google's Made with Code
+initiative to creatively engage girls with #code.
+Need to try Holiday Lights project:
+https:…" "ann_higgins" TRUE FALSE 1417563012
+"98" "539924520254328832" "He quit his #job at @Google! Unthinkable...Or is it? http://t.co/CVVr5eLBFp #careeradvice" "CAREEREALISM" FALSE FALSE 1417563011
+"99" "539924512888745985" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "Nano33GP" TRUE FALSE 1417563009
+"100" "539924503925911552" "RT @TechTimes_News: Both Norad and @google will be keeping tabs on #Santa this year! http://t.co/qZv1YIirTE http://t.co/lOESoJxwyZ" "rhianna" TRUE FALSE 1417563007
+"101" "539924439538753537" "@Google re:Work: Shaping the Future of HR http://t.co/CElSZ68DqM
+@LaszloBock2718 @katy_milkman @googleresearch @googlejobs" "thepsychreport" FALSE FALSE 1417562992
+"102" "539924383221817346" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "boyshawn89" TRUE FALSE 1417562978
+"103" "539924288522838017" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "BkDealer" TRUE FALSE 1417562956
+"104" "539924155475320833" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "jasborcha" TRUE FALSE 1417562924
+"105" "539924098361458688" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "yamazaki_sensei" TRUE FALSE 1417562911
+"106" "539924034683559937" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "paulcoulonjr" TRUE FALSE 1417562895
+"107" "539924021652254720" "RT @avp_a: So proud! Our admired @SDSLivesUnited was awarded by @politico @google @ToryBurchFdn as a \"Proven Leader of Change\" #WomenWhoRul…" "MauricioKuri" TRUE FALSE 1417562892
+"108" "539923964949057538" "@DayDreamerWinay @google India like many developing countries has enough billionaires and millionaires but few who care for the poor, shame." "AgonyMoose" FALSE FALSE 1417562879
+"109" "539923956136824832" "RT @CNNMoney: Before you make that list and check it twice, see what toys are trending on @google http://t.co/1915Ct36at @Mattel http://t.c…" "samuel_remy" TRUE FALSE 1417562877
+"110" "539923857860489216" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "ToviaSkeete" TRUE FALSE 1417562853
+"111" "539923750888960000" "@avinash rocking the house @google Find The Who and The Why.  Not a media discussion, its an audience discussion." "melgrenier" FALSE FALSE 1417562828
+"112" "539923689219706880" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 Hanging out at @google!!! Come say hi!!! https://t.co/t9pC18zHuk http://t.co/AnXRaOzGo4" "GraziaIotti" TRUE FALSE 1417562813
+"113" "539923671670718464" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "Notadocbuta" TRUE FALSE 1417562809
+"114" "539923664783675393" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "beastacabra" TRUE FALSE 1417562807
+"115" "539923639890493440" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "ahmbrp" TRUE FALSE 1417562801
+"116" "539923614955368448" "@google help us in yemen please
+
+we are suffer" "ZAYEDKAID" FALSE FALSE 1417562795
+"117" "539923586992324608" "Awe thanks @google how'd you know? #birthday http://t.co/JK8zhwszZV" "AlexDierckman" FALSE FALSE 1417562789
+"118" "539923578527830016" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "RNuguse" TRUE FALSE 1417562787
+"119" "539923312457965568" "RT @LaTerribleLiz: .@Google's Larry Page: The most ambitious CEO in the universe http://t.co/rJ1X7oAdNi • http://t.co/GLJ3Z4Q486" "twistshirt" TRUE FALSE 1417562723
+"120" "539923171903025152" "RT @KBasham1: I just sent so many emails with photo attachments that @google temporarily locked my account...  #PartyLikeAJournalist" "JournalistsLike" TRUE FALSE 1417562690
+"121" "539923155834650624" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 Hanging out at @google!!! Come say hi!!! https://t.co/t9pC18zHuk http://t.co/AnXRaOzGo4" "silvershadow214" TRUE FALSE 1417562686
+"122" "539923060401258497" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "shacharaylon" TRUE FALSE 1417562663
+"123" "539923023688523776" "@NotHusnain @google low income families, not high income senators" "gamerhandz" FALSE FALSE 1417562654
+"124" "539923019796578304" "RT @CNNMoney: If you're looking for a Ouija Board, you're not alone. It's a top trending toy on @Google http://t.co/AsHJVaklUu http://t.co/…" "katinmarlboro" TRUE FALSE 1417562653
+"125" "539922926879780864" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "DavidLMorton" TRUE FALSE 1417562631
+"126" "539922832822509568" ".@Google's Larry Page: The most ambitious CEO in the universe http://t.co/rJ1X7oAdNi • http://t.co/GLJ3Z4Q486" "LaTerribleLiz" FALSE FALSE 1417562609
+"127" "539922795271315456" "@curryspcworld hello! I bought a @google  chromecast but I am unable to take the @NOWTV 3mnth offer " "ThisIsDanGuy" FALSE FALSE 1417562600
+"128" "539922645832040448" "RT @AdoptMeCA95035: Adoptable #dog #Danny_HSSVCA_01 @Google Giving event now looking for a Googlr home https://t.co/UPPQNBSmAG http://t.co/…" "Shroom64" TRUE FALSE 1417562564
+"129" "539922630225448960" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 Hanging out at @google!!! Come say hi!!! https://t.co/t9pC18zHuk http://t.co/AnXRaOzGo4" "whatsurbrain4" TRUE FALSE 1417562560
+"130" "539922595324256256" "RT @martinvars: Wonderful initiative by Fon investor @google to provide WiFi to low income households in NYC http://t.co/TyaRAUNEww" "IdeaKatalyst" TRUE FALSE 1417562552
+"131" "539922583869599744" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "dbscat" TRUE FALSE 1417562549
+"132" "539922570746007552" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "pjeffrey" TRUE FALSE 1417562546
+"133" "539922565314007040" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "BillieJackFu" TRUE FALSE 1417562545
+"134" "539922538382368769" "RT @AdoptMeCA95035: Adoptable #dog #Danny_HSSVCA_01 @Google Giving event now looking for a Googlr home https://t.co/UPPQNBSmAG http://t.co/…" "sarikatarocchi" TRUE FALSE 1417562539
+"135" "539922530975248384" "WAIT. Are you telling me @Facebook, @Twitter, @Dropbox &amp; @google are about to act out Pitch Perfect tonight IRL? https://t.co/wKETiUhJJE" "jdelavegs" FALSE FALSE 1417562537
+"136" "539922513178812417" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "DetailsNThings" TRUE FALSE 1417562533
+"137" "539922495713730561" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 I'm at @google!! Come say hi quick!! https://t.co/wsJjhRrfb1 http://t.co/FOyaKGdb3j" "bassieenbommel" TRUE FALSE 1417562528
+"138" "539922485722890241" "Editorial: @Google should debunk European charges, improve #privacy policies http://t.co/wQSJFogOx6" "govtechnews" FALSE FALSE 1417562526
+"139" "539922478664253440" "@google here our max speed is 30mb..." "urielsalis" FALSE FALSE 1417562524
+"140" "539922471999111170" "RT @sengineland: Brush up on new changes made to @Google's local pages guidelines: http://t.co/XYt5H31JsM" "ChrisGriffinWSI" TRUE FALSE 1417562523
+"141" "539922415615082497" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "ajzapata" TRUE FALSE 1417562509
+"142" "539922391632068609" "RT @SambaApp: We're so excited to be named a Best App of 2014 by @google! Download Samba at http://t.co/64RrHf4cvj.   http://t.co/nyoy8Y3i2g" "MarcusDamas" TRUE FALSE 1417562504
+"143" "539922383163772928" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "traderdave2044" TRUE FALSE 1417562502
+"144" "539922322035982338" "RT @AdoptMeCA95035: Adoptable #dog #Danny_HSSVCA_01 @Google Giving event now looking for a Googlr home https://t.co/UPPQNBSmAG http://t.co/…" "GoughIan" TRUE FALSE 1417562487
+"145" "539922245166977024" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "ginnefine" TRUE FALSE 1417562469
+"146" "539922192377454592" "RT @OneShow: Former @Google+ designer slams the service for being '@Facebook lite'. http://t.co/B7IkstvVQc via @Mashable" "wearepiams" TRUE FALSE 1417562456
+"147" "539922190326444032" "RT @AdoptMeCA95035: Adoptable #dog #Danny_HSSVCA_01 @Google Giving event now looking for a Googlr home https://t.co/UPPQNBSmAG http://t.co/…" "bassieenbommel" TRUE FALSE 1417562456
+"148" "539922164229488641" "@trystatus is doing what @google @facebook @foursquare and many more have tried and failed to do. I'm bullish though http://t.co/ZeQG1FaeBG" "thatguyBG" FALSE FALSE 1417562449
+"149" "539922016996818948" "Former @Google+ designer slams the service for being '@Facebook lite'. http://t.co/B7IkstvVQc via @Mashable" "OneShow" FALSE FALSE 1417562414
+"150" "539921948436738048" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "eyesofangie" TRUE FALSE 1417562398
+"151" "539921916522291200" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "rizwanriaz98" TRUE FALSE 1417562390
+"152" "539921881608900608" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "asimbaloch_" TRUE FALSE 1417562382
+"153" "539921872360439808" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 Hanging out at @google!!! Come say hi!!! https://t.co/t9pC18zHuk http://t.co/AnXRaOzGo4" "lindalumoore" TRUE FALSE 1417562380
+"154" "539921760960147457" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 Hanging out at @google!!! Come say hi!!! https://t.co/t9pC18zHuk http://t.co/AnXRaOzGo4" "yellowblossom37" TRUE FALSE 1417562353
+"155" "539921650603393025" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 Hanging out at @google!!! Come say hi!!! https://t.co/t9pC18zHuk http://t.co/AnXRaOzGo4" "magermiyan" TRUE FALSE 1417562327
+"156" "539921599571308544" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "KaseemBooker" TRUE FALSE 1417562315
+"157" "539921562086813697" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "erchache2000" TRUE FALSE 1417562306
+"158" "539921537197830145" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 Hanging out at @google!!! Come say hi!!! https://t.co/t9pC18zHuk http://t.co/AnXRaOzGo4" "bassieenbommel" TRUE FALSE 1417562300
+"159" "539921513218985984" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "xoshirleylin" TRUE FALSE 1417562294
+"160" "539921411939131395" "@google If you want to help low-income families why don't you pay your damn tax???" "NotHusnain" FALSE FALSE 1417562270
+"161" "539921391400005632" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "asadmansr" TRUE FALSE 1417562265
+"162" "539921364392488961" "RT @ScottieMcClue: I Need 1000 Subscribers ASAP @YouTube 
+https://t.co/ovdQLAg6qb @martingoldpulse @RadioGuyGlasgow @twitter @YouTubeTrends…" "RadioGuyGlasgow" TRUE FALSE 1417562259
+"163" "539921321648336898" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "oscarcao" TRUE FALSE 1417562248
+"164" "539921312777383938" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "Pers_Titel" TRUE FALSE 1417562246
+"165" "539921239049908226" "RT @sengineland: Brush up on new changes made to @Google's local pages guidelines: http://t.co/XYt5H31JsM" "GavinSmith83" TRUE FALSE 1417562229
+"166" "539921226420850688" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 Hanging out at @google!!! Come say hi!!! https://t.co/t9pC18zHuk http://t.co/AnXRaOzGo4" "BunnyWunnyBunny" TRUE FALSE 1417562226
+"167" "539921225934315521" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "1artsymom" TRUE FALSE 1417562226
+"168" "539921173341929472" "Proud owner of a @google chromecast " "FernieIsBurning" FALSE FALSE 1417562213
+"169" "539921066458497025" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "codyblurr" TRUE FALSE 1417562188
+"170" "539921059420446720" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "BlueKedz" TRUE FALSE 1417562186
+"171" "539921055062568962" "@theGMIC : waiting for @jeffbirnbaum talk, on the right balance between In-App purchases vs Ads @google #partnership" "CStarcky" FALSE FALSE 1417562185
+"172" "539921042446094336" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "AlejandroMuse" TRUE FALSE 1417562182
+"173" "539921016223305728" "RT @AdoptMeCA95035: Adoptable #dog #Danny_HSSVCA_01 @Google Giving event now looking for a Googlr home https://t.co/UPPQNBSmAG http://t.co/…" "BunnyWunnyBunny" TRUE FALSE 1417562176
+"174" "539920974401925122" "@google why did you change the Greek translator lady to a robot ?!? Wrong pronunciation as well " "Victoria1vargas" FALSE FALSE 1417562166
+"175" "539920952973217792" "RT @AdoptMeCA95035: Adoptable #dog #BudE_HSSVCA_01 I'm at @google!! Come say hi quick!! https://t.co/wsJjhRrfb1 http://t.co/FOyaKGdb3j" "BunnyWunnyBunny" TRUE FALSE 1417562161
+"176" "539920834106626050" "RT @sengineland: What has changed with the new @Google #local page quality guidelines? Find out here: http://t.co/K55I8td5qB" "ThriveSearch" FALSE FALSE 1417562132
+"177" "539920834098262017" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "JVarghese04" TRUE FALSE 1417562132
+"178" "539920832496431104" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "axelsampieri" TRUE FALSE 1417562132
+"179" "539920814947049473" "Wall St. Speaks Out on @Facebook, @Google and: Finding Wanamaker's Lost Half - http://t.co/wvbQRJMNZr @BarclaysOnline" "MyersBizNet" FALSE FALSE 1417562128
+"180" "539920807267299329" "@google side too good" "Aliibrahim94" FALSE FALSE 1417562126
+"181" "539920697523728384" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "dmsalga" TRUE FALSE 1417562100
+"182" "539920594263756802" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "ma_terabe" TRUE FALSE 1417562075
+"183" "539920576190500866" "@google Please do something in India too. At last we also belongs to the same world" "shivamdev31" FALSE FALSE 1417562071
+"184" "539920458024751104" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "gardner_lynda" TRUE FALSE 1417562043
+"185" "539920444376092672" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "balmer" TRUE FALSE 1417562039
+"186" "539920366462697472" "#News Power Comes Back to Downtown Detroit After Widespread Outage - http://t.co/PHqzqo7MWa http://t.co/aGa8WzgmNY Vía @Google" "ObiWanKenobl" FALSE FALSE 1417562021
+"187" "539920365632233473" "#News Obama to welcome new governors at WH - The Hill http://t.co/NP4IwJHHNU Vía @Google" "ObiWanKenobl" FALSE FALSE 1417562021
+"188" "539920364835315713" "#News Netanyahu to Call Early Israel Vote, Fire Ministers - Businessweek http://t.co/pScPapZ8et Vía @Google" "ObiWanKenobl" FALSE FALSE 1417562020
+"189" "539920360863318016" "#News Power restored after massive outage hits downtown Detroit - Reuters http://t.co/sFrgCqk1OA Vía @Google" "ObiWanKenobl" FALSE FALSE 1417562019
+"190" "539920360112529408" "#News Obama to welcome new governors at WH - The Hill http://t.co/ka8hZqx1Ec Vía @Google" "ObiWanKenobl" FALSE FALSE 1417562019
+"191" "539920359303049216" "#News Netanyahu to Call Early Israel Vote, Fire Ministers - Businessweek http://t.co/vV4OQZ4d2g Vía @Google" "ObiWanKenobl" FALSE FALSE 1417562019
+"192" "539920318325092352" "Both Norad and @google will be keeping tabs on #Santa this year! http://t.co/qZv1YIirTE http://t.co/lOESoJxwyZ" "TechTimes_News" FALSE FALSE 1417562009
+"193" "539920312444284928" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "Jowanza" TRUE FALSE 1417562008
+"194" "539920205384667136" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "espaceinc" TRUE FALSE 1417561982
+"195" "539920198695157760" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "MatthewLBeck" TRUE FALSE 1417561981
+"196" "539920096706428928" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "illuminati391" TRUE FALSE 1417561956
+"197" "539920089517027328" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "edsulley" TRUE FALSE 1417561955
+"198" "539920031979962368" "RT @google: We're helping 10,000 low-income families in New York connect to high-speed Internet at home http://t.co/GA5kAZeNsY http://t.co/…" "JaviGarate" TRUE FALSE 1417561941
+"199" "539920024451162112" "@google @KhalSir And not paying Tax in the UK." "hilliatfields" FALSE FALSE 1417561939
+"200" "539919975549775872" "RT @BusinessIOWA: 8 reasons why @google, @microsoft &amp; @facebook invested in Iowa for new data centers via @forbes
+http://t.co/sX0mgu7312" "Gallagher4Mayor" TRUE FALSE 1417561928

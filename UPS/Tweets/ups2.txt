@@ -1,0 +1,311 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539931990393225217" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "ssartt24" TRUE FALSE 1417564792
+"2" "539931950085963777" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "cmay116" TRUE FALSE 1417564783
+"3" "539931927189274624" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "KathrynDowen" TRUE FALSE 1417564777
+"4" "539931906481983488" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "gogators1974" TRUE FALSE 1417564772
+"5" "539931861066080256" "@UPS cutest story ever" "tiki_loco" FALSE FALSE 1417564761
+"6" "539931847291990017" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "mangobryan01" TRUE FALSE 1417564758
+"7" "539931773635809280" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "itsbenbruhh_" TRUE FALSE 1417564740
+"8" "539931585055715329" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "cvletuxh" TRUE FALSE 1417564695
+"9" "539931572288249856" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "osdkush026" TRUE FALSE 1417564692
+"10" "539931561538228224" "@AdonisAncestors @UPS lol no doubt." "Shadow4MVP" FALSE FALSE 1417564690
+"11" "539931526763261952" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Jen_daviss" TRUE FALSE 1417564682
+"12" "539931421708521472" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "valgaziyan" TRUE FALSE 1417564657
+"13" "539931389903114240" "@Shadow4MVP @UPS one dash" "AdonisAncestors" FALSE FALSE 1417564649
+"14" "539931369439117313" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "AllAboutBrenda" TRUE FALSE 1417564644
+"15" "539931250371219456" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "ppudah" TRUE FALSE 1417564616
+"16" "539931224697864193" "thanks @ups for delivering my package to the neighbors apartment. and thanks to my husband for being a creeper to go and find it" "laurenpointer" FALSE FALSE 1417564610
+"17" "539931203114000386" "I spy with my little eye... @UPS screwing up my delivery. http://t.co/1qcUHcQwBW" "crutt" FALSE FALSE 1417564604
+"18" "539931193118978049" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "xo__crystal" TRUE FALSE 1417564602
+"19" "539931161321943041" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "matahina8" TRUE FALSE 1417564594
+"20" "539931143953330176" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "marleehp15" TRUE FALSE 1417564590
+"21" "539931098319319040" "@UPS I Was Waiting Out Side Bitches Never Came And Said They Made A Attempt Left No Note Or Nothing Fags" "active_erik" FALSE FALSE 1417564579
+"22" "539931075242254336" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "shewosi" TRUE FALSE 1417564574
+"23" "539931053075345409" "Also @UPS what's the point of getting something overnighted if I don't know you can't leave the package. Pointless waste of my money." "rickymarte" FALSE FALSE 1417564569
+"24" "539931013804085248" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "PinterestBlast" TRUE FALSE 1417564559
+"25" "539931001791590401" "@UPS this honestly made up my day " "NeonCrashMC" FALSE FALSE 1417564556
+"26" "539930951086637057" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "rakotq" TRUE FALSE 1417564544
+"27" "539930914537488384" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "nessaR44" TRUE FALSE 1417564536
+"28" "539930829099515905" "@UPS @FinishLine can you's not use UPS anymore? Their delivery service sucks ass" "KIDKICKS23" FALSE FALSE 1417564515
+"29" "539930777253720065" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "xkcrunkx" TRUE FALSE 1417564503
+"30" "539930754604486658" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Theyhate_Dara" TRUE FALSE 1417564497
+"31" "539930744135503872" "Fuck @UPS They Some Bitches" "active_erik" FALSE FALSE 1417564495
+"32" "539930690377101313" "Impressed that I have now ordered 7 things from @potterybarn and @UPS has managed to lose and/or misplace each one of them." "emilydomeyer" FALSE FALSE 1417564482
+"33" "539930642373292032" "@UPS @UPSHelp - it's fine though, I'll cancel the premium my choice membership that I just got. what's fair is fair." "willgabriel87" FALSE FALSE 1417564471
+"34" "539930603898953728" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "_noivamay_" TRUE FALSE 1417564462
+"35" "539930584781307905" ".@UPS Wow, I didn't realize Make-A-Wish had such budget problems." "MoshPanda" FALSE FALSE 1417564457
+"36" "539930566640947200" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "J_McFly96" TRUE FALSE 1417564453
+"37" "539930555114991617" "Hey @UPS how much sense does it make to not tell me ahead of time that you need authorization to leave a package. Can't sit around all day!" "rickymarte" FALSE FALSE 1417564450
+"38" "539930551579205634" "@UPS I hate your service package was supposed to get here from 2:45-6:45 pm today and I still have yet to receive it" "KIDKICKS23" FALSE FALSE 1417564449
+"39" "539930523766759424" "Safe at home! #Jordan #Infared6s The @nikestore and @UPS #Fail Check my TL for the story. http://t.co/3ZTzexr45S" "StylesLowe" FALSE FALSE 1417564442
+"40" "539930447564640256" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "ncenczus" TRUE FALSE 1417564424
+"41" "539930420993728512" "@UPS @UPSHelp \"out for delivery\" since 6 am and it's 6:52 pm and i'm still waiting for my package that was suppose to come early" "willgabriel87" FALSE FALSE 1417564418
+"42" "539930321668407297" "Fairness requires me to thank @UPS for delivering the package I've been waiting for to the right place" "RaziAhmad6" FALSE FALSE 1417564394
+"43" "539930300743032832" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "VintageHipster_" TRUE FALSE 1417564389
+"44" "539930296347398146" "RT @lanceund: @UPS plays some serious mind games telling you your package is out for delivery and then not delivering it..." "mkamboykos" TRUE FALSE 1417564388
+"45" "539930178307100672" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "Gwen7573" TRUE FALSE 1417564360
+"46" "539930178038665216" "Really @BestBuy and @UPS this is the \"care\" my package gets? Literally just came off the truck like this. Not pleased http://t.co/l0XhLiB6qj" "chutzler0777" FALSE FALSE 1417564360
+"47" "539930169373257729" "@UPS @UPSHelp - I specifically paid for an early delivery becuz I wanted to surprise someone with what i ordered and now it's ruined. thanks" "willgabriel87" FALSE FALSE 1417564358
+"48" "539930124179603456" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "BMX_Kid7" TRUE FALSE 1417564347
+"49" "539930038020239363" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "UniversalBuzzes" TRUE FALSE 1417564327
+"50" "539930014301421569" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "annie_laurie16" TRUE FALSE 1417564321
+"51" "539930014053961728" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Dsk801" TRUE FALSE 1417564321
+"52" "539929991975153665" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "memphis_ssi" TRUE FALSE 1417564316
+"53" "539929960723382272" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "insball40" TRUE FALSE 1417564308
+"54" "539929928032976896" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "FacebookBlazer" TRUE FALSE 1417564300
+"55" "539929889197944833" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "cukogolalaf" TRUE FALSE 1417564291
+"56" "539929854485884929" "@UPS @UPSHelp can't believe that a paying customer has to wait 5 hours after a delivery window for a package, I'm still waiting for my box." "willgabriel87" FALSE FALSE 1417564283
+"57" "539929824026849280" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "RobertMarreroo" TRUE FALSE 1417564276
+"58" "539929781119111168" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "COOOOOOOOPPP" TRUE FALSE 1417564265
+"59" "539929659266174976" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "olguin_john" TRUE FALSE 1417564236
+"60" "539929625321668608" "@UPS @YaBOY_trevmarsh check this out" "phulse81" FALSE FALSE 1417564228
+"61" "539929624931606529" "@UPS @UPSHelp Is my package ever going to make it? It keeps getting incorrectly sorted. :(" "_Raymar" FALSE FALSE 1417564228
+"62" "539929594602602496" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "byzinleha" TRUE FALSE 1417564221
+"63" "539929576126689282" "Big hats off to @UPS and especially driver Rod who went above and beyond to help me out.. Karma is on your side. #ups #Winnipeg #goodpeople" "baconandmaegs" FALSE FALSE 1417564217
+"64" "539929555150974978" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "tori_boughton" TRUE FALSE 1417564212
+"65" "539929512910131201" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "zehumexozow" TRUE FALSE 1417564201
+"66" "539929489854062592" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "WebTraffickers" TRUE FALSE 1417564196
+"67" "539929474750377984" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "laelma2010" TRUE FALSE 1417564192
+"68" "539929472992956418" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "vboldi" TRUE FALSE 1417564192
+"69" "539929442689093633" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "loganledford11" TRUE FALSE 1417564185
+"70" "539929382832201728" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "premslata" TRUE FALSE 1417564170
+"71" "539929341841244160" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "LilShortayz" TRUE FALSE 1417564161
+"72" "539929339387588610" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "NeonCrashMC" TRUE FALSE 1417564160
+"73" "539929293430591488" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Simplyy_Shardee" TRUE FALSE 1417564149
+"74" "539929263357431808" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "thicknick_" TRUE FALSE 1417564142
+"75" "539929262124306436" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "glo_1day" TRUE FALSE 1417564142
+"76" "539929246471163904" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "belavasogaqu" TRUE FALSE 1417564138
+"77" "539929099276275712" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "_heytayy" TRUE FALSE 1417564103
+"78" "539929070406860802" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "minhaskh" TRUE FALSE 1417564096
+"79" "539929057970765824" "RT @naturallytori: So remember when I said @UPS left packages outside my door? These mother fuckers left six. SIX FUCKING PACKAGES!!!!! Fuc…" "JamesonLeslie" TRUE FALSE 1417564093
+"80" "539929032268079104" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "BrookeHein98" TRUE FALSE 1417564087
+"81" "539929004094918658" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "ChrisCarney44" TRUE FALSE 1417564080
+"82" "539928940207304706" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "KoriChapic" TRUE FALSE 1417564065
+"83" "539928918677913600" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "WildRetweeters" TRUE FALSE 1417564060
+"84" "539928904526348290" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "Jenelle9187" TRUE FALSE 1417564056
+"85" "539928888663502849" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "muzajybinalu" TRUE FALSE 1417564053
+"86" "539928826034130945" "Was super excited to see I had a packaged delivered by @UPS when I got home but nothing was at my door... Hope it's not lost.." "kaitlyn_jones21" FALSE FALSE 1417564038
+"87" "539928704567099393" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "pogowucim" TRUE FALSE 1417564009
+"88" "539928687185899521" "So remember when I said @UPS left packages outside my door? These mother fuckers left six. SIX FUCKING PACKAGES!!!!! Fuck them hoes." "naturallytori" FALSE FALSE 1417564005
+"89" "539928668131188736" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "cuvofemugug" TRUE FALSE 1417564000
+"90" "539928646509543424" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "StephGawiak" TRUE FALSE 1417563995
+"91" "539928645423210496" "Is it true @UPS truck drivers aren't alloud to turn left?" "ThatKccoGuy" FALSE FALSE 1417563995
+"92" "539928622924972033" "Watching the flash waiting for @fedex to deliver my pc. @ups would've been here by now..." "DevilVhia" FALSE FALSE 1417563989
+"93" "539928574258462721" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "LMiami517" TRUE FALSE 1417563978
+"94" "539928561377755137" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "YouGonLERNtoday" TRUE FALSE 1417563975
+"95" "539928541974913024" "Hey @ups great job leaving my PS4 on my doorstep instead of bringing it to the office like every package ever. Lucky it wasn't stolen." "Papagolash" FALSE FALSE 1417563970
+"96" "539928463902134275" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "tadifho" TRUE FALSE 1417563951
+"97" "539928408281477122" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "_oktopus_" TRUE FALSE 1417563938
+"98" "539928358604111872" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "Help4Instagram" TRUE FALSE 1417563926
+"99" "539928309719527425" "@UPS at least if you had left them on the right porch I do have a roof on mine. #unhappycustomer" "_tiffhorn" FALSE FALSE 1417563915
+"100" "539928183147995136" "Thanks @UPS for putting my packages on my next door neighbors uncovered porch in the rain. http://t.co/uTVbwQmO6o" "_tiffhorn" FALSE FALSE 1417563884
+"101" "539927999961788416" "Don't know what's worse. That my @UPS package got delivered to the wrong place or that it's been at the \"wrong\" place since Friday. #ugh" "blakewilhelm37" FALSE FALSE 1417563841
+"102" "539927943389011968" "@UPS @SalvationArmyUS #UPSSwag #WishesDelivered they haev a tree at my work I try to get 1 or more every year such a blessing to help them" "stephen_radford" FALSE FALSE 1417563827
+"103" "539927803685122048" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "ssacharko" TRUE FALSE 1417563794
+"104" "539927780700336128" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "armysneakerhead" TRUE FALSE 1417563788
+"105" "539927689629401088" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "nomrqxy" TRUE FALSE 1417563767
+"106" "539927679491788800" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "kumiduwoqug" TRUE FALSE 1417563764
+"107" "539927646830739456" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "vinnypallone21" TRUE FALSE 1417563757
+"108" "539927639411019776" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "aly_louque" TRUE FALSE 1417563755
+"109" "539927509840580608" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "keeshaaun" TRUE FALSE 1417563724
+"110" "539927364323393537" "@UPS your drivers need to learn how to deliver to the right addresses" "1017dan_" FALSE FALSE 1417563689
+"111" "539927247549788160" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "eoJ_mocaM" TRUE FALSE 1417563661
+"112" "539927247419756544" "@UPS terrible customer service" "1017dan_" FALSE FALSE 1417563661
+"113" "539927230004994048" "@BestBuySupport Can you work w @UPS to make a change? They say if up the shipper calls &amp; makes adj they will allow it." "NaturallyNitaNC" FALSE FALSE 1417563657
+"114" "539927215199117314" "Yall better bring me my package by tonight @UPS http://t.co/F1AAw2B51o" "DD__Inc" FALSE FALSE 1417563654
+"115" "539927151370182658" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Bfab98" TRUE FALSE 1417563638
+"116" "539927120797896704" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "qanovucedygo" TRUE FALSE 1417563631
+"117" "539927088434655232" "Good job @UPS for delivering my package to the wrong house" "DuongDerrick" FALSE FALSE 1417563623
+"118" "539927068373303296" "\"@UPS: http://t.co/2mJuNHTBxy #WishesDelivered
+https://t.co/qs3lAaoWjE\" why can't my ups guy be like this . lol" "ImBacu" FALSE FALSE 1417563619
+"119" "539927063889596416" "@UPS package says out for delivery, where they at doe?" "JamesWeather" FALSE FALSE 1417563618
+"120" "539927007828516864" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "SheeitDawg" TRUE FALSE 1417563604
+"121" "539926865339637760" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "_nassermusa" TRUE FALSE 1417563570
+"122" "539926851120939008" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "mckindleberry" TRUE FALSE 1417563567
+"123" "539926772498706437" "Yo @UPS i order online so I dont have to go out and about, why you be bringing my packages to the post office...." "Shadow4MVP" FALSE FALSE 1417563548
+"124" "539926701552062466" "@UPS plays some serious mind games telling you your package is out for delivery and then not delivering it..." "lanceund" FALSE FALSE 1417563531
+"125" "539926554047180800" "@UPS THAT IS LITERALLY TOO CUTE!!!!" "claire_a_beth" FALSE FALSE 1417563496
+"126" "539926530957139969" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "madison51" TRUE FALSE 1417563490
+"127" "539926527073583104" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Nbfc1993" TRUE FALSE 1417563490
+"128" "539926478298021888" "@UPS you mad frekan " "_cocoa_LOVE" FALSE FALSE 1417563478
+"129" "539926472191127553" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "IdealTheories" TRUE FALSE 1417563476
+"130" "539926457925914624" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "claire_a_beth" TRUE FALSE 1417563473
+"131" "539926362711003136" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "askavosr" TRUE FALSE 1417563450
+"132" "539926247518650369" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "SarahTamargo" TRUE FALSE 1417563423
+"133" "539926208914276355" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "NiallMarry_Me" TRUE FALSE 1417563414
+"134" "539926189188472833" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "manders203" TRUE FALSE 1417563409
+"135" "539926150110126080" "Ah, 'tis the season for thieves to prowl behind @USPS and @UPS trucks." "thatshea" FALSE FALSE 1417563400
+"136" "539926117742673920" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "haybabby_" TRUE FALSE 1417563392
+"137" "539926090492297217" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "erniebasilio831" TRUE FALSE 1417563385
+"138" "539926075086618624" "@UPS @MiKeBoTz_  botz back in the day" "Lanza314" FALSE FALSE 1417563382
+"139" "539925967431430144" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Javz_R" TRUE FALSE 1417563356
+"140" "539925890566594560" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "jesusdelgado_9" TRUE FALSE 1417563338
+"141" "539925873969733632" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "fycedakyxoba" TRUE FALSE 1417563334
+"142" "539925839219929088" "“@UPS: Carson, 4, wants to be like his UPS driver, Ernie. wish. http://t.co/SzL4ouh7y4 #WishesDelivered
+https://t.co/7b0JT1ii6V” that's cute" "zfisher13" FALSE FALSE 1417563326
+"143" "539925752133607424" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "yodas_disciple" TRUE FALSE 1417563305
+"144" "539925657313370112" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "merrrrh" TRUE FALSE 1417563282
+"145" "539925577222733825" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "reqehupeweb" TRUE FALSE 1417563263
+"146" "539925560684605445" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "avroseti" TRUE FALSE 1417563259
+"147" "539925546075815936" "This is pathetic @UPS" "EvePartDeux" FALSE FALSE 1417563256
+"148" "539925497762025472" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "EvePartDeux" TRUE FALSE 1417563244
+"149" "539925485497905152" "@UPS @UPSHelp My package has been delayed for 5 days at your warehouse in Koeln, Germany; I'm wondering why. I have emailed help@ups.com" "0lufemii" FALSE FALSE 1417563241
+"150" "539925471056498690" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "fisylelemeva" TRUE FALSE 1417563238
+"151" "539925452073086977" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "tyrulytesywi" TRUE FALSE 1417563233
+"152" "539925442740760576" "RT @weyhrauchlaw: PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPS…" "lakykajacofy" TRUE FALSE 1417563231
+"153" "539925397354209280" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "MariaBoccia32" TRUE FALSE 1417563220
+"154" "539925393679974400" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Kitty_Katt0312" TRUE FALSE 1417563219
+"155" "539925392950173698" "PILOTS, the FAA is trying to hoodwink u. Don't fall for the HIMS scam. Know your rights! http://t.co/WNA6Nf2Qj2 @UPS @UPSHelp" "weyhrauchlaw" FALSE FALSE 1417563219
+"156" "539925371798294528" "Our @UPS driver is awesome! Been raining all day and Came home to see he protected our delivery for us. Kudos! http://t.co/2s4GjaDnfC" "kcalderw" FALSE FALSE 1417563214
+"157" "539925352588390402" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "ashlen2355" TRUE FALSE 1417563210
+"158" "539925280429592576" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "nmatarazzo2" TRUE FALSE 1417563192
+"159" "539925234754007040" "@UPS has two different addresses on the box b! Mines and the Texas Chainsaw Massacre crib! How do you do that!  I definitely got pictures b!" "StylesLowe" FALSE FALSE 1417563181
+"160" "539925123591966721" "RT @lizzthebiz: “@UPS: Carson, 4, wants to be like his UPS driverhttp://bit.ly/1xV85Y5 #WishesDelivered
+https://t.co/kDBje8zima”
+
+I literal…" "Veemoraaa_" TRUE FALSE 1417563155
+"161" "539925025646583810" "Still waiting…Just another typical UPS delivery. @UPS http://t.co/4RrXpsJK3o" "BlazeFusky" FALSE FALSE 1417563132
+"162" "539924975444963328" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "acalamco" TRUE FALSE 1417563120
+"163" "539924940926251008" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "MackAttackSmith" TRUE FALSE 1417563111
+"164" "539924930356183040" "I was scared for dear life! Yo @nikestore I'm looking at the packing slip now and it doesn't have my full address. But @UPS ! You Messed up2" "StylesLowe" FALSE FALSE 1417563109
+"165" "539924855739543552" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "take__caree" TRUE FALSE 1417563091
+"166" "539924818896773120" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "HeartsFor_PA" TRUE FALSE 1417563082
+"167" "539924798885752832" "“@UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/Q2dCZTN7gB
+https://t.co/UieM6ZaZZb” so cute " "mitchitymitch" FALSE FALSE 1417563078
+"168" "539924734323220480" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "YarringtonDavid" TRUE FALSE 1417563062
+"169" "539924710289444865" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "paige_219" TRUE FALSE 1417563056
+"170" "539924462129651712" "@UPSHelp @UPS how come even after I signed the info tag, the driver left me a second one next to the first one?" "piratejedi77" FALSE FALSE 1417562997
+"171" "539924376477368321" "@UPS This is the cutest thing ever" "Caitt135" FALSE FALSE 1417562977
+"172" "539924335343833090" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "lynnb2516" TRUE FALSE 1417562967
+"173" "539924329442848768" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Caitt135" TRUE FALSE 1417562966
+"174" "539924280532672512" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Matt_D_Howell" TRUE FALSE 1417562954
+"175" "539924025711927297" "“@UPS: Carson, 4, wants to be like his UPS driverhttp://bit.ly/1xV85Y5 #WishesDelivered
+https://t.co/kDBje8zima”
+
+I literally died ❤️" "lizzthebiz" FALSE FALSE 1417562893
+"176" "539923945789460481" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "AshleyRoy17" TRUE FALSE 1417562874
+"177" "539923771256098818" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "jordan_hufford" TRUE FALSE 1417562833
+"178" "539923759596339200" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "MollyElena12" TRUE FALSE 1417562830
+"179" "539923708911943681" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "fisherdaniel851" TRUE FALSE 1417562818
+"180" "539923634312470528" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "_Successively" TRUE FALSE 1417562800
+"181" "539923528477585408" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "ASweetTweetRose" TRUE FALSE 1417562775
+"182" "539923507551813633" "My signed @12WillPower helmet From @PaddockInsider was an empty box. Came through Alton, IL @UPS , can't say I'm surprised. #AltonEstLouis" "macBobmac" FALSE FALSE 1417562770
+"183" "539923503894384640" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "FittyShadez_Gay" TRUE FALSE 1417562769
+"184" "539923461393481729" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "bonjovi2001" TRUE FALSE 1417562759
+"185" "539923266777796609" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "LAWDPIZZUH" TRUE FALSE 1417562712
+"186" "539923097273368576" "Yo @nikestore , you and @UPS will definitely be receiving a letter/email from me! This is unacceptable! Especially this time of year." "StylesLowe" FALSE FALSE 1417562672
+"187" "539923086267940864" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "aaronrivero32" TRUE FALSE 1417562669
+"188" "539923078596157440" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "VivaLaCaLeah" TRUE FALSE 1417562667
+"189" "539923020526022656" "@StylesLowe @nikestore @UPS  don't fuck with the j's" "Sleepybaggs" FALSE FALSE 1417562654
+"190" "539922977710542848" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "Soniia_arteaga" TRUE FALSE 1417562643
+"191" "539922911188893696" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "J_drans4" TRUE FALSE 1417562627
+"192" "539922904050192386" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "djmatlow" TRUE FALSE 1417562626
+"193" "539922850489311232" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "christymariex4" TRUE FALSE 1417562613
+"194" "539922710441521152" "Yo word to God @nikestore and @UPS delivered my #Infared6s #Jordan to the wrong address! Called @UPS for the wrong address and found them!" "StylesLowe" FALSE FALSE 1417562580
+"195" "539922548780048385" "HURRY TF UP @UPS" "Raidger4" FALSE FALSE 1417562541
+"196" "539922339710791680" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "kidcurry112" TRUE FALSE 1417562491
+"197" "539922234865754113" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "meganviganola" TRUE FALSE 1417562466
+"198" "539922234320490497" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "VicTedder" TRUE FALSE 1417562466
+"199" "539922155857653760" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "BrownBear253" TRUE FALSE 1417562447
+"200" "539922110089793536" "RT @UPS: Carson, 4, wants to be like his UPS driver, Ernie. So we gave him his wish. http://t.co/LjnVxMfTGC #WishesDelivered
+https://t.co/0…" "carlykbad" TRUE FALSE 1417562436

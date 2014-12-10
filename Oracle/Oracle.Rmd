@@ -1,0 +1,108 @@
+Oracle Sentiment Analysis
+========================================================
+Below is the code for sentiment Analysis
+
+```{r message = FALSE}
+library("twitteR")
+library("wordcloud")
+library("tm")
+library("ggplot2")
+library("reshape2")
+```
+
+```{r eval=FALSE}
+
+my.key <-"2gebysTjrBzc2R5afsfDTJ9or"
+my.secret <-"zUeJ4uy97vPmG4WaWcxQV8fGveKi8N5inDXzLV6IQNcJaj61hU"
+
+cred <- OAuthFactory$new(consumerKey=my.key,
+                         consumerSecret=my.secret,
+                         requestURL='https://api.twitter.com/oauth/request_token',
+                         accessURL='https://api.twitter.com/oauth/access_token',
+                         authURL= 'https://api.twitter.com/oauth/authorize')
+
+save(cred, file="twitter_authentication.Rdata")
+
+cred$handshake()
+
+registerTwitterOAuth(cred)
+
+tweets <- searchTwitter("@Oracle",n=200, lang="en", since='2014-12-04', until='2014-12-05')
+
+length(tweets)
+
+tweets.id <- sapply(tweets, function(x) x$getId())
+tweets.text <- sapply(tweets, function(x) x$getText())
+tweets.screenname <- sapply(tweets, function(x) x$getScreenName())
+tweets.isretweet <- sapply(tweets, function(x) x$getIsRetweet())
+tweets.retweeted <- sapply(tweets, function(x) x$getRetweeted())
+tweets.created <- sapply(tweets, function(x) x$getCreated())
+
+head(tweets.text)
+
+df <- data.frame(tweets.id, tweets.text, tweets.screenname, tweets.isretweet, tweets.retweeted, tweets.created)
+names(df) <-c("id", "text", "screenname", "isretweet", "retweeted", "created")
+write.table(df, file = "oracle4.txt", append = TRUE)
+
+pos <- scan("positive-words.txt",what="character",comment.char=";")
+neg <- scan("negative-words.txt",what="character",comment.char=";")
+
+tweets.corpus <- Corpus(VectorSource(tweets.text))
+
+tweets.corpus <- tm_map(tweets.corpus, tolower) 
+tweets.corpus <- tm_map(tweets.corpus, removePunctuation)
+tweets.corpus <- tm_map(tweets.corpus, function(x) removeWords(x,stopwords()))
+
+corpus.split <- lapply(tweets.corpus,strsplit,"\\s+")
+
+matches <- lapply(corpus.split,function(x) {
+  match.pos <- match(x[[1]],pos)
+  match.neg <- match(x[[1]],neg) 
+  
+  
+  list(length(which(!is.na(match.pos))),length(which(!is.na(match.neg))))
+})
+
+match.matrix <- matrix(unlist(matches),nrow=length(matches),ncol=2,byrow=T)
+
+simple.sentiment <- match.matrix[,1] - match.matrix[,2]
+
+hist(simple.sentiment)
+
+sum(simple.sentiment)
+
+
+
+```
+
+You can also embed plots, for example:
+
+```{r}
+
+df <-read.csv(file="ORACLE.csv")
+
+ORACLEdata <- read.csv(file = "ORACLE.csv")
+
+ORACLEdata$Start <- NULL
+ORACLEdata$End <- NULL
+
+ORACLEdata
+```
+
+
+``` {r fig.width=7, fig.height=6 }
+ORACLEdata$Stock.Price <- NULL
+ORACLEdata$Sentiment.Score <- NULL
+molten.ORACLEdata <- melt(ORACLEdata, id.vars = c("Day", "Tweets"), 
+                       measure.vars = c("Sentiment.Prediction", "Actual"))
+
+ggplot(data = molten.ORACLEdata, aes(x = Day, y = value, fill = variable)) +
+  geom_bar(stat = "identity", position = position_dodge()) + 
+  ggtitle("Oracle Stock Sentiment Analysis") +
+  scale_fill_manual(values=c("blue", "red"))
+
+```
+
+Summary 
+ 
+As we have collected the data for five days. After observing the data for five days here is the summary of the whole analysis. For the very first day on 30 Nov to Dec 1st we tried to gathered about 200 tweets.But actually we could gather 51 tweets. The stock price for the day was 42.08 and the sentiment score was 11.Since the sentiment score was positive and the tweets predicted the stock price to go up but when looking at the actual stock price the next day it actually went down. Similarly collecting 200 tweets the next day we actually got 169 tweets. The sentiment score was 5 which was again positive which means R predicted the stock price to go UP but again the stock price went down. For the third day the tweets collected were 200 and following two days it was 100. Out of 5 only two days prediction was right while three days it was wrong. Therefore for oracle the sentiment analysis did not work.

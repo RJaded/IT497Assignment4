@@ -1,0 +1,104 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539930543203180544" ".  @Eloqua users: check out #cloudwords on the @Oracle Partner Bridge! http://t.co/MrhlYdit0n #OMC #globalization #contentmarketing" "cloudwordsinc" FALSE FALSE 1417564447
+"2" "539923689903366144" "RT @SoniaLeliiTT: New @Oracle #ZFS Storage Appliance adds speed, encryption http://t.co/EaiYgrpcZ5" "GkTTStorage" TRUE FALSE 1417562813
+"3" "539921103804592129" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "LynnKaminski" TRUE FALSE 1417562197
+"4" "539920084894887936" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "ForkLiftsCanada" TRUE FALSE 1417561954
+"5" "539918447648321537" "RT @Oracle: Shelf Drilling is \"In Sync with the #Cloud\" via @OracleProfit - http://t.co/bNWjqos8Zw" "HyperionEPMInfo" TRUE FALSE 1417561563
+"6" "539918213530652672" "RT @Oracle: The Internet of Things 101 - http://t.co/DRAtrQIjch #IoT via @Oraclejavamag" "HyperionEPMInfo" TRUE FALSE 1417561507
+"7" "539916978261999617" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "oraclepartners" TRUE FALSE 1417561213
+"8" "539916704814747648" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "JonPaulDublin" TRUE FALSE 1417561148
+"9" "539916542142451713" "RT @keesvdhouten: See how @CTDI enhanced daily forecasting with @Oracle #Planning #Budgeting #Cloud Service http://t.co/T6rpzOHrRz
+#EPM" "HyperionEPMInfo" TRUE FALSE 1417561109
+"10" "539915212032188416" "RT @PeterBell: Here is @gauravpatni from @oracle presenting at the Melbourne @ctosummit http://t.co/6h6eQkJdio" "ctosummit" TRUE FALSE 1417560792
+"11" "539915051390763008" "Here is @gauravpatni from @oracle presenting at the Melbourne @ctosummit http://t.co/6h6eQkJdio" "PeterBell" FALSE FALSE 1417560754
+"12" "539912274140344320" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "trisetyarso" TRUE FALSE 1417560091
+"13" "539912213310734336" "RT @Oracle: RT @OracleTeamUSA: Just announced: The 35th #AmericasCup to be held in June 2017 in Bermuda. #OracleTeamUSA" "PaulBorisGE" TRUE FALSE 1417560077
+"14" "539911774661644288" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "trisetyarso" TRUE FALSE 1417559972
+"15" "539911675344736257" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "trisetyarso" TRUE FALSE 1417559949
+"16" "539908246484447232" "RT @miaurman: @odtug @oracle #MobileDay \"It's not  Mobile First it's Mobile PLUS\" Suhaus talks about need for enabled backend EBS. hello? @…" "YossiNakash" TRUE FALSE 1417559131
+"17" "539908195796262912" "RT @miaurman: @odtug #MobileDay @oracle Reston headquarters hearing Suhaus Uliyar talking about too fears of our generation http://t.co/vOl…" "YossiNakash" TRUE FALSE 1417559119
+"18" "539908128394215426" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "digiscopeonline" TRUE FALSE 1417559103
+"19" "539908017668755456" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "sonyaya1" TRUE FALSE 1417559077
+"20" "539907906494537728" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "RamonitaBisset" TRUE FALSE 1417559050
+"21" "539907750890074114" "RT @Patrice_HCM: What does innovation mean in the world of #HR ? An interview w/ @Oracle’s Henry Barenholz http://t.co/0xNFlkw7ru" "Shamsia_Oracle" TRUE FALSE 1417559013
+"22" "539907551043657728" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "UNATCOBionicMan" TRUE FALSE 1417558965
+"23" "539907056837603329" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "Shamsia_Oracle" TRUE FALSE 1417558847
+"24" "539906917905477633" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "Shamsiaa" TRUE FALSE 1417558814
+"25" "539906759641407489" "RT @Oracle: #Oracle is advancing education, protecting the environment, &amp; enriching community life. #GivingTuesday http://t.co/Ml9T3wabUj" "HyperionEPMInfo" TRUE FALSE 1417558777
+"26" "539904357316456448" "Don't miss our \"Ask the @Oracle Experts\" webcasts for December. Register now! #compsci #education http://t.co/Bwp51US9Pd" "OracleAcademy" FALSE FALSE 1417558204
+"27" "539903453091614720" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "MarilenOliver" TRUE FALSE 1417557988
+"28" "539899950818394113" "RT @soacommunity: Sysco excellent @Oracle Middleware partner http://t.co/80r69kxN7k in Norway - thanks! looking for a local partners http:/…" "fvikings" TRUE FALSE 1417557153
+"29" "539897856815927296" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "oraclesvcs" TRUE FALSE 1417556654
+"30" "539897155130241024" "New @Oracle #ZFS Storage Appliance adds speed, encryption http://t.co/EaiYgrpcZ5" "SoniaLeliiTT" FALSE FALSE 1417556487
+"31" "539896340344369153" "New high-end #ZFS storage appliance from @Oracle supports pluggable database analytics, beefs up performance http://t.co/9IVROzHFjO" "SearchStorageTT" FALSE FALSE 1417556292
+"32" "539895625219719169" "RT @Oracle: The Who, What and Chatter of
+Holiday Electronics Shoppers: http://t.co/xr8OuAkSj8 #BlackFriday #CyberMonday http://t.co/Fup41Ym…" "Krola14" TRUE FALSE 1417556122
+"33" "539895612901056512" "RT @Oracle: How are #mobile purchases playing a role in #holidayshopping this year? [#STUDY] http://t.co/DgXZBDSFS4 http://t.co/LqxKeRxCWC" "Krola14" TRUE FALSE 1417556119
+"34" "539895600469143553" "RT @Oracle: What does innovation mean in the world of #HR ? Interview w/ @Oracle’s Henry Barenholz http://t.co/QHt2ht7yuC via @OracleHCM" "Krola14" TRUE FALSE 1417556116
+"35" "539895592592236544" "RT @Oracle: Consumer behavior around #holidayshopping and the latest gadgets revealed. [#STUDY] http://t.co/9K6XM9Bsqm http://t.co/DKyf7146…" "Krola14" TRUE FALSE 1417556114
+"36" "539895588633198593" "Visit with @Oracle in the Technology Showcase #Gilbane" "gilbane" FALSE FALSE 1417556113
+"37" "539895577664684032" "RT @Oracle: Are your organization's training needs being met? [#Infographic] via @Oracle_Edu http://t.co/AvgCMKuaup" "Krola14" TRUE FALSE 1417556111
+"38" "539895564230344704" "RT @Oracle: An innovative mix of hosted and #cloud solutions helps Shelf Drilling succeed in new waters - http://t.co/JG13g48GSa via @Oracl…" "Krola14" TRUE FALSE 1417556107
+"39" "539895556936462336" "RT @Oracle: Wishing everyone a happy and safe weekend. #givethanks
+#thanksgiving #oracle http://t.co/rzLD2WTSMg" "Krola14" TRUE FALSE 1417556106
+"40" "539895551480037377" "Visit with @Oracle in the Technology Showcase #Gilbane" "gilbaneboston" FALSE FALSE 1417556104
+"41" "539895544265449472" "RT @Oracle: Marketing #data needs to be carefully pruned like the finest of mustaches - http://t.co/lD7W8BqCIJ #Movember" "Krola14" TRUE FALSE 1417556103
+"42" "539895534719221760" "RT @Oracle: Why are consumers shopping #BlackFriday this year? [#STUDY] via @edisonresearch @Oracle - http://t.co/DgXZBDSFS4 http://t.co/td…" "Krola14" TRUE FALSE 1417556100
+"43" "539895521934983168" "RT @Oracle: Are consumers doing the bulk of their #holidayshopping today? #BlackFriday http://t.co/9K6XM9Bsqm http://t.co/JP10Cgqcmt" "Krola14" TRUE FALSE 1417556097
+"44" "539895512875282432" "RT @Oracle: Shelf Drilling is \"In Sync with the #Cloud\" via @OracleProfit - http://t.co/bNWjqos8Zw" "Krola14" TRUE FALSE 1417556095
+"45" "539895502188195840" "RT @Oracle: Are two HPs better than one? via @OracleHardware  http://t.co/wTjJekqSK9" "Krola14" TRUE FALSE 1417556093
+"46" "539895493099134976" "RT @Oracle: How closely do consumers stick to their #holidayshopping plans? [#STUDY] http://t.co/DgXZBDSFS4 via @edisonresearch @Oracle" "Krola14" TRUE FALSE 1417556090
+"47" "539895485033488384" "RT @Oracle: The Internet of Things 101 - http://t.co/DRAtrQIjch #IoT via @Oraclejavamag" "Krola14" TRUE FALSE 1417556089
+"48" "539895474308644864" "RT @Oracle: Where will @OracleTeamUSA be defending the 35th #AmericasCup? Location revealed today at 11:30am ET. Watch live: http://t.co/Nx…" "Krola14" TRUE FALSE 1417556086
+"49" "539895459691520000" "RT @Oracle: RT @OracleTeamUSA: Just announced: The 35th #AmericasCup to be held in June 2017 in Bermuda. #OracleTeamUSA" "Krola14" TRUE FALSE 1417556083
+"50" "539892146858635265" "RT @danieljpeter: .@salesforce, @NetSuite Tops in #Cloud Software, Says @jpmorgan; Starts @Oracle at a Sell http://t.co/46xvrglMZ8 via @bar…" "vnehess" TRUE FALSE 1417555293
+"51" "539889426701492224" "RT @Martin_NB: Lots of Space guys talking shot at #netbeansday at @Oracle in #munich http://t.co/5IWFp6534A" "JMibu" TRUE FALSE 1417554644
+"52" "539889303812575232" ".@salesforce, @NetSuite Tops in #Cloud Software, Says @jpmorgan; Starts @Oracle at a Sell http://t.co/46xvrglMZ8 via @barronsonline" "danieljpeter" FALSE FALSE 1417554615
+"53" "539888279966208001" "RT @Martin_NB: Large scale @netbeans applications don't exist? Here's one referenced at #netbeansday at @Oracle in Munich http://t.co/yUh3z…" "JMibu" TRUE FALSE 1417554371
+"54" "539888103377600512" "RT @Martin_NB: Orbit visualisation with #javafx in 2D and 3D at #netbeansday at @Oracle in #munich by @SvenNB http://t.co/PPwAeG6QyL" "JMibu" TRUE FALSE 1417554329
+"55" "539887110032228353" "RT @soacommunity: Sysco excellent @Oracle Middleware partner http://t.co/80r69kxN7k in Norway - thanks! looking for a local partners http:/…" "catoaune" TRUE FALSE 1417554092
+"56" "539886031370461186" "RT @Oracle: RT @OracleTeamUSA: Just announced: The 35th #AmericasCup to be held in June 2017 in Bermuda. #OracleTeamUSA" "mlinglart" TRUE FALSE 1417553835
+"57" "539885492914094080" "RT @soacommunity: Sysco excellent @Oracle Middleware partner http://t.co/80r69kxN7k in Norway - thanks! looking for a local partners http:/…" "Jphjulstad" TRUE FALSE 1417553706
+"58" "539885225028108288" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "JAGERSP1" TRUE FALSE 1417553642
+"59" "539883031860084736" "This is why @Kwik_Fit chose @Oracle to improve its POS and business Support http://t.co/EosXkjYdvt http://t.co/RVjzBvHtHb" "ChetanDutta" FALSE FALSE 1417553119
+"60" "539881442852241409" "RT @BigData_Review: @Oracle #GoldenGate 12c Announces New Features which Enhance #DataIntegration Across Sources. #bigdata #ETL http://t.co…" "NoSQLDigest" TRUE FALSE 1417552741
+"61" "539876670828978176" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "rafaelmnatali" TRUE FALSE 1417551603
+"62" "539876461575176193" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "AppitudeUk" TRUE FALSE 1417551553
+"63" "539876004429586433" "RT @smworldbigdata: Posted @TanejaGroup | App-Aware Storage Evolves: @Oracle ZS4-4 NAS Sees 10,000+ DB Containers  http://t.co/e7JRaqhKYu" "michjenkins" TRUE FALSE 1417551444
+"64" "539875743845867521" "RT @rvoland: See how @CTDI enhanced daily forecasting with @Oracle #Planning #Budgeting #Cloud Service http://t.co/hAP4QD99ry" "EscotRodrigues" TRUE FALSE 1417551382
+"65" "539874191810756610" "RT @Eloqua: RT @vidyard: How @Oracle, @Deltek (and Vidyard!) Use Video Analytics in Real Campaigns: http://t.co/6AB4UdMTk2 http://t.co/BQli…" "PaulSavelsbergh" TRUE FALSE 1417551012
+"66" "539872484032790528" "RT @Oracle: RT @OracleTeamUSA: Just announced: The 35th #AmericasCup to be held in June 2017 in Bermuda. #OracleTeamUSA" "dpooley" TRUE FALSE 1417550605
+"67" "539872108864868352" "@rwang0 interviews @MarkVHurd about his vision for @Oracle   future of enterprise software http://t.co/3bzRgPFdWF @OracleMktgCloud #Digita…" "PaulSavelsbergh" FALSE FALSE 1417550515
+"68" "539871826433024000" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "Storybyrory" TRUE FALSE 1417550448
+"69" "539871691066048512" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "Krola14" TRUE FALSE 1417550416
+"70" "539871663501094912" "RT @IntelITCenter: What kind of colab does it take to deliver the latest @Oracle servers for #bigdata &amp; #database? http://t.co/EEalGUvVci" "faith6357" TRUE FALSE 1417550409
+"71" "539871651731898369" "RT @BigData_Review: @Oracle #GoldenGate 12c Announces New Features which Enhance #DataIntegration Across Sources. #bigdata #ETL http://t.co…" "faith6357" TRUE FALSE 1417550406
+"72" "539871395359244288" "@Oracle #GoldenGate 12c Announces New Features which Enhance #DataIntegration Across Sources. #bigdata #ETL http://t.co/YKmlYl7BJu" "BigData_Review" FALSE FALSE 1417550345
+"73" "539871209861959680" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "Krola14" TRUE FALSE 1417550301
+"74" "539870932840751107" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "oroblast1" TRUE FALSE 1417550235
+"75" "539870748580786176" "RT @IntelITCenter: What kind of colab does it take to deliver the latest @Oracle servers for #bigdata &amp; #database? http://t.co/EEalGUvVci" "NoSQLDigest" TRUE FALSE 1417550191
+"76" "539869360446504960" "RT @Martin_NB: Orbit visualisation with #javafx in 2D and 3D at #netbeansday at @Oracle in #munich by @SvenNB http://t.co/PPwAeG6QyL" "javafx3d" TRUE FALSE 1417549860
+"77" "539869313617108992" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "paniaguai" TRUE FALSE 1417549849
+"78" "539868237262225408" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "paniaguai" TRUE FALSE 1417549592
+"79" "539867872122925056" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "nmeydan" TRUE FALSE 1417549505
+"80" "539867565447991296" "The @Oracle #Visio collection has added their new X5-2, X5-2L and ZFS ZS4-4 products http://t.co/UMXBGzUPBe" "VisioCafe" FALSE FALSE 1417549432
+"81" "539866301599350785" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "vimalrajktm" TRUE FALSE 1417549131
+"82" "539865813977939968" "RT @IntelITCenter: What kind of colab does it take to deliver the latest @Oracle servers for #bigdata &amp; #database? http://t.co/EEalGUvVci" "RayAccusoft" TRUE FALSE 1417549014
+"83" "539865794109538304" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "danielrpco" TRUE FALSE 1417549010
+"84" "539865643240407040" "RT @Oracle: The Internet of Things 101 - http://t.co/DRAtrQIjch #IoT via @Oraclejavamag" "melipillanejo" TRUE FALSE 1417548974
+"85" "539865605202247680" "RT @IntelITCenter: What kind of colab does it take to deliver the latest @Oracle servers for #bigdata &amp; #database? http://t.co/EEalGUvVci" "veronicalynnp" TRUE FALSE 1417548965
+"86" "539865392521691136" ".@rwang0 interviews @MarkVHurd about his vision for @Oracle and the future of enterprise software @ConstellationRG http://t.co/UPqJU2iLNs" "ORCLSalesCloud" FALSE FALSE 1417548914
+"87" "539865333797253120" "What kind of colab does it take to deliver the latest @Oracle servers for #bigdata &amp; #database? http://t.co/EEalGUvVci" "IntelITCenter" FALSE FALSE 1417548900
+"88" "539864186751557634" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "AShamlawi" TRUE FALSE 1417548626
+"89" "539864015682686976" "RT @smworldbigdata: Posted @TanejaGroup | App-Aware Storage Evolves: @Oracle ZS4-4 NAS Sees 10,000+ DB Containers  http://t.co/e7JRaqhKYu" "ArunTanejaGroup" TRUE FALSE 1417548586
+"90" "539863815786356737" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "digiscopeonline" TRUE FALSE 1417548538
+"91" "539863789798453249" "RT @Oracle: The Internet of Things 101 - http://t.co/DRAtrQIjch #IoT via @Oraclejavamag" "alyssaEBS" TRUE FALSE 1417548532
+"92" "539863683632234496" "RT @Oracle: The Internet of Things 101 - http://t.co/DRAtrQIjch #IoT via @Oraclejavamag" "oraclepartners" TRUE FALSE 1417548507
+"93" "539863669656801281" "RT @smworldbigdata: Posted @TanejaGroup | App-Aware Storage Evolves: @Oracle ZS4-4 NAS Sees 10,000+ DB Containers  http://t.co/e7JRaqhKYu" "TanejaGroup" TRUE FALSE 1417548503
+"94" "539863363980111872" "RT @Oracle: .@OracleAcademy &amp; @Oracle Women's Leadership teach high school girls @Java using #Alice in Bucharest, Romania. http://t.co/u0Li…" "flederbine" TRUE FALSE 1417548430
+"95" "539863198162513921" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "jmehtaj" TRUE FALSE 1417548391
+"96" "539863086724038660" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "MKEanalyzer" TRUE FALSE 1417548364
+"97" "539862776127447041" "Posted @TanejaGroup | App-Aware Storage Evolves: @Oracle ZS4-4 NAS Sees 10,000+ DB Containers  http://t.co/e7JRaqhKYu" "smworldbigdata" FALSE FALSE 1417548290
+"98" "539862607143141376" "RT @Oracle: Which gadgets are predicted to be the top electronics among consumers? #holidayshopping http://t.co/9K6XM9Bsqm http://t.co/gvhJ…" "sonyaya1" TRUE FALSE 1417548250
+"99" "539861539550162944" "RT @Eloqua: RT @vidyard: How @Oracle, @Deltek (and Vidyard!) Use Video Analytics in Real Campaigns: http://t.co/6AB4UdMTk2 http://t.co/BQli…" "DokectBi" TRUE FALSE 1417547995
+"100" "539860768280170496" "Its raining buckets today. It'll be raining #MoBuckets tonight @Oracle @Warriors @Mospeights16" "klew_P6" FALSE FALSE 1417547811

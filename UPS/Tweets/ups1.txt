@@ -1,0 +1,211 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539569633482002433" "RT @UPS: It’s Cyber Monday–do you have UPS My Choice?Choose the delivery options that fit your life&amp;keep shopping hassle-free!http://t.co/j…" "MelissaTippie" TRUE FALSE 1417478399
+"2" "539569619624026112" "RT @UPS: Join us tomorrow at 2 PM EST for a #TwitterChat on #GivingTuesday with @ToysforTots_USA, @SalvationArmyUS &amp; @BGCA_Clubs. #WishesDe…" "MelissaTippie" TRUE FALSE 1417478396
+"3" "539569501625659392" "@UPS what exactly is delivery by \"end of day\"? It's 7pm and the package hasn't arrived." "CusstomerSrvce" FALSE FALSE 1417478368
+"4" "539569413591011328" "@UPS @USPS deliver my package tonight. I know you have it!" "MimiCakesx" FALSE FALSE 1417478347
+"5" "539569075270475776" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "premslata" TRUE FALSE 1417478266
+"6" "539569067754258433" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "ismihake" TRUE FALSE 1417478265
+"7" "539568821234049026" "...@UPS, @amazon, why did my package go from your distro in West Columbia, to NC, if it is going to come back to Columbia?" "Mijder" FALSE FALSE 1417478206
+"8" "539568788144799745" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "osdkush026" TRUE FALSE 1417478198
+"9" "539568409571491840" "@UPS 12 hours fam " "Pauly_831" FALSE FALSE 1417478108
+"10" "539568290545537024" "@UPS we'd love to learn what it's like to work there, care to share with us at http://t.co/EpSiXjn6Vs?" "JobbuhNetwork" FALSE FALSE 1417478079
+"11" "539568045849456643" "@UPS you guys are a joke. Your customer service is horrible and the past 5 packages I've received have been late. Tighten up" "ItsJubaa" FALSE FALSE 1417478021
+"12" "539567966707535873" "2 @ups trucks are at my apartment building at the same time #badplanning" "alexandrakk" FALSE FALSE 1417478002
+"13" "539567932401938433" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "cvletuxh" TRUE FALSE 1417477994
+"14" "539567795185258496" "So not cool by @UPS driver @UPSHelp 
+
+RT @ShareefJackson 
+
+\"But damnit I hate being told I \"look\" like my name. NEVER appropriate. EVER\"" "richarddjordan" FALSE FALSE 1417477961
+"15" "539567757306507264" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "ncenczus" TRUE FALSE 1417477952
+"16" "539567513194209280" "@UPS 7.5 hours" "davon_a" FALSE FALSE 1417477894
+"17" "539567428577939456" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "ouklynba" TRUE FALSE 1417477874
+"18" "539567381727551489" "@UPS #mychoice is of no help. The will call for packages on area code 94132 is impossible to get there on public transit." "mfosterempire" FALSE FALSE 1417477863
+"19" "539567318662414336" "Thanks @ups.  You call and tell me I can pickup my package, I fight traffic only for you to tell me it isn't ready yet." "drose0" FALSE FALSE 1417477848
+"20" "539567144569405440" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "Jenelle9187" TRUE FALSE 1417477806
+"21" "539567057575362562" "Just got our new printer delivered to us by @UPS and they actually delivered to our apartment door! A+ job!" "flyergrad09" FALSE FALSE 1417477785
+"22" "539566272275419136" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "tadifho" TRUE FALSE 1417477598
+"23" "539565640093167618" "@UPS is reliable and @FedEx isn't." "TwerkingGod" FALSE FALSE 1417477447
+"24" "539565454831124481" "Where is my package @UPS !!!!" "yonggvks" FALSE FALSE 1417477403
+"25" "539565255807234048" "@UPS Could you please explain to me what a \"theoretical scan\" is? Is seems like tracking my package is you lying to me" "The1Valentine" FALSE FALSE 1417477356
+"26" "539565248714661890" "@FedEx ain't never did me dirty, for future I'm not buying online if they don't ship FEDEX! @UPS consistently disappoints me." "GOLDntattood" FALSE FALSE 1417477354
+"27" "539565211850932224" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "Help4Instagram" TRUE FALSE 1417477345
+"28" "539565189801070592" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "insball40" TRUE FALSE 1417477340
+"29" "539565135086768128" "@Sethrogen @UPS hahaha I read this and with Seths help, had the best visual. How would that look driving aroun" "rafejolixyb" FALSE FALSE 1417477327
+"30" "539565100294995968" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "WildRetweeters" TRUE FALSE 1417477319
+"31" "539565059375366144" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "promderby2" TRUE FALSE 1417477309
+"32" "539564867410083841" "Calling bullshit on this @UPS access point business. Now instead of getting my package delivered, I have to go pick it up?! WTF." "silverbell" FALSE FALSE 1417477263
+"33" "539564800284438528" "RT @UPS: Join us tomorrow at 2 PM EST for a #TwitterChat on #GivingTuesday with @ToysforTots_USA, @SalvationArmyUS &amp; @BGCA_Clubs. #WishesDe…" "rubys_maria" TRUE FALSE 1417477247
+"34" "539564699931521024" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "Gwen7573" TRUE FALSE 1417477223
+"35" "539564560034717696" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "pogowucim" TRUE FALSE 1417477190
+"36" "539564289695031296" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "piebwtex" TRUE FALSE 1417477125
+"37" "539564286561902593" "RT @SalvationArmyUS: Join us tomorrow at 2 PM EST for a #TwitterChat on #GivingTuesday with @UPS, @ToysforTots_USA, &amp; @BGCA_Clubs. #WishesD…" "rubys_maria" TRUE FALSE 1417477125
+"38" "539564255024934913" "RT @BGCA_Clubs: How do you give back? Join #BGCA, @UPS @ToysforTots_USA @SalvationArmyUS for the #WishesDelivered #GivingTuesday chat tomor…" "rubys_maria" TRUE FALSE 1417477117
+"39" "539564191049588736" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "FacebookBlazer" TRUE FALSE 1417477102
+"40" "539563786731282433" "I'm writing corporate for both companies tomorrow. How @UPS don't have a department to handle @BestBuy situations?!" "GOLDntattood" FALSE FALSE 1417477006
+"41" "539563499979300865" "Newsflash: if you have a job with typical hours, don't buy shit from @BestBuy because they ship with @UPS and neither can help you" "GOLDntattood" FALSE FALSE 1417476937
+"42" "539563474662486016" "RT @UPS: 10 years since their last white Xmas, we delivered snow to Corpus Christi. http://t.co/tK4T1M5kDs #WishesDelivered
+https://t.co/ad…" "rosylenses" TRUE FALSE 1417476931
+"43" "539563174115409920" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "WebTraffickers" TRUE FALSE 1417476859
+"44" "539563172789624832" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "UniversalBuzzes" TRUE FALSE 1417476859
+"45" "539562734179082241" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "ppudah" TRUE FALSE 1417476755
+"46" "539562572085620736" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "askavosr" TRUE FALSE 1417476716
+"47" "539562388945911808" "@UWSuncoast @UnitedWay @UPS @RCSpinellas Not the star, but honored to be a part of this AMAZING community!" "melbtampa" FALSE FALSE 1417476672
+"48" "539562177976631296" "RT @HP_Enterprise: See how @UPS -the $55 billion shipping giant-has been redefining the #logistics business: http://t.co/yjYaZckRp1 http://…" "JillatHP" TRUE FALSE 1417476622
+"49" "539562160129458176" "Major, minor, aug, diminished, sus? How will you tune yours?
+Ship @ups with Helic @DMStrings https://t.co/96R9aRp2jQ http://t.co/tv5WwRnP3u" "Guitdoorbell" FALSE FALSE 1417476618
+"50" "539562104508796928" "RT @IncLiveEvents: Sign up for @Inc 's #IncLiveChat with @Quirky's @benkaufman Dec. 9 at 2PM ET! http://t.co/NayBAEndsb (Sponsored by @UPS)" "faith6357" TRUE FALSE 1417476604
+"51" "539562040286015488" "@Nippsy All but my Far Cry 4 copy.  Got stolen in transit with @UPS from the shipping package.  Tape was trashed." "notjerry" FALSE FALSE 1417476589
+"52" "539561982199091200" "@UPS worse service for the thanksgiving delivery... very irresponsible..could not confirm pickup and refuses to deliver then never use @UPS" "hwagle" FALSE FALSE 1417476575
+"53" "539561879610605569" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "cyfzeesh" TRUE FALSE 1417476551
+"54" "539561868889575424" "RT @weyhrauchlaw: PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp …" "nomrqxy" TRUE FALSE 1417476548
+"55" "539561693886820353" "Lol @UPS lost my phone I just went up there to find it they Forreal lost it" "Zack_Harris06" FALSE FALSE 1417476507
+"56" "539561577838440448" "PILOTS BE ADVISED, the FAA has condoned OFF-DUTY randomized testing of HIMS PILOTS: http://t.co/Il93S8TDaX @UPS @UPSHelp @UPS_News" "weyhrauchlaw" FALSE FALSE 1417476479
+"57" "539561496565383168" "@UPS must be busy the package my sis ordered came from a budget truck" "TheGridironTxn" FALSE FALSE 1417476460
+"58" "539561494417924097" "Let's welcome him @UPS @UPSers  \"@ScuderiaFerrari: More pictures of Sebastian.
+#ForzaFerrari http://t.co/pjwRWFE0Jt\"" "masdimsum" FALSE FALSE 1417476459
+"59" "539561345273053184" "I see one of my purchases is getting the grand tour of Ohio thanks to @UPS  Went from Cincy, to Toledo, to Columbus.  Hopefully Cle is next" "TomLarrow" FALSE FALSE 1417476423
+"60" "539561223449493504" "RT @IncLiveEvents: Sign up for @Inc 's #IncLiveChat with @Quirky's @benkaufman Dec. 9 at 2PM ET! http://t.co/NayBAEndsb (Sponsored by @UPS)" "Inc" TRUE FALSE 1417476394
+"61" "539560575140110336" "@UPS how lazy is your driver as they couldn't be arsed to put the notice IN the letter box and instead jammed it into the side of the door?" "Doughnut_Nips_M" FALSE FALSE 1417476240
+"62" "539560296667684864" "@GOLDntattood @BestBuy @UPS I totally agree with you." "koutureangela" FALSE FALSE 1417476173
+"63" "539560273871638528" "Know what @UPS should stop doing? Making stores that clearly aren't big enough to be UPS depots, UPS depots. #hint http://t.co/TOAvArD2OS" "musicdiv579" FALSE FALSE 1417476168
+"64" "539560194410176512" "@koutureangela @BestBuy @UPS absolutely its ridiculous! I refuse to buy from either company again." "GOLDntattood" FALSE FALSE 1417476149
+"65" "539559855569526784" "@UPS u delivered my packaged somewhere else" "CISN3ROS7" FALSE FALSE 1417476068
+"66" "539559665114566656" "@GOLDntattood @BestBuy @UPS smh that's ridiculous." "koutureangela" FALSE FALSE 1417476023
+"67" "539559478958358528" "@koutureangela @BestBuy @UPS I CANT GET WHAT I PURCHASED! I literally just added to their Black Friday sales to be forced into a refund!" "GOLDntattood" FALSE FALSE 1417475978
+"68" "539559288159862784" "@ups @UPSHelp ur site is down?! http://t.co/bFp4mbmcIg" "susan_cravero" FALSE FALSE 1417475933
+"69" "539559200389873664" "@UPS I guess fragile doesn't really mean anything http://t.co/LeOP1ucgwY" "EricaRose6587" FALSE FALSE 1417475912
+"70" "539559026481442817" "I LOVE @UPS" "JoeVan_NC" FALSE FALSE 1417475871
+"71" "539559016725479424" "RT @bluemarbledrms: Yay! @bluemarblebk selected as finalist in the @UPS / @good Giving Side of Business Contest -winner announced 12/10!  h…" "fpastorectwbdc" TRUE FALSE 1417475868
+"72" "539558898785468416" "Having a hard time understanding why my package arrived this morning to @UPS @UPSHelp but it's gonna be there a day? http://t.co/eCKchyZgbZ" "shortblondeguy" FALSE FALSE 1417475840
+"73" "539558789511655424" "RT @HP_Enterprise: See how @UPS -the $55 billion shipping giant-has been redefining the #logistics business: http://t.co/yjYaZckRp1 http://…" "WhelanAtHP" TRUE FALSE 1417475814
+"74" "539558692945793024" "@GOLDntattood @BestBuy @UPS soooooooo how do you get what you purchased ?!" "koutureangela" FALSE FALSE 1417475791
+"75" "539558667042181121" "@UPS I hope you recorded my call so you can address the issue of your outsourced customer service transferring people MID SENTENCE" "GOLDntattood" FALSE FALSE 1417475785
+"76" "539558426204856320" "It always feels like I'm the last house on the driver's route. @UPS" "JeffAlexanderN" FALSE FALSE 1417475727
+"77" "539558423424430082" "See how @UPS -the $55 billion shipping giant-has been redefining the #logistics business: http://t.co/yjYaZckRp1 http://t.co/AAvylACbr7" "HP_Enterprise" FALSE FALSE 1417475727
+"78" "539558186920189953" "Now I can't get a package I paid for unless @UPS sends it back and I reorder from @BestBuy ?! BACK ASSWARDS" "GOLDntattood" FALSE FALSE 1417475670
+"79" "539557955319136258" "I will NEVER buy from @BestBuy online and ship to home, @UPS refuses to let me pick up my shipment although I can't be home to receive" "GOLDntattood" FALSE FALSE 1417475615
+"80" "539557416476499968" "Awaiting @UPS to arrive with my @samsung region free Blu-Ray player!" "JeffAlexanderN" FALSE FALSE 1417475487
+"81" "539556239093403648" "My phone was supposed to be here today. Where it at tho @UPS. sitting here looking at the door like. http://t.co/khlhofnz4J" "WhereBaeAt" FALSE FALSE 1417475206
+"82" "539555910549385216" "Defend Pregnant Women’s Rights! @UPS is violating women's rights and everyone should know that http://t.co/TmGZwFtfbf @moveon" "PZuppo" FALSE FALSE 1417475128
+"83" "539555592059101184" "Thank you @sprint for my new Iphone6 that just came today and @UPS for speedy delivery  http://t.co/ZtPPfK8G93" "ImBeoWulf" FALSE FALSE 1417475052
+"84" "539555272142761984" "RT @bluemarbledrms: Yay! @bluemarblebk selected as finalist in the @UPS / @good Giving Side of Business Contest -winner announced 12/10!  h…" "AF_WB" TRUE FALSE 1417474975
+"85" "539554449572638720" "FUNNY! How Your Amazon Order Reaches You in 13 Steps: http://t.co/4pDIYsXkjS via @TheOnion #CyberMonday @amazon @BNBuzz @FedEx @UPS @USPS" "lilzekesbbonds" FALSE FALSE 1417474779
+"86" "539554153190547456" "My apologies to @UPS. The first one was late, but the other two weren't supposed to come until Wednesday &amp; Thursday. http://t.co/yjkjdE9toV" "likeajew" FALSE FALSE 1417474709
+"87" "539553901456789505" "Yay! @bluemarblebk selected as finalist in the @UPS / @good Giving Side of Business Contest -winner announced 12/10!  http://t.co/7Cn4EvHAkC" "bluemarbledrms" FALSE FALSE 1417474649
+"88" "539553862630125568" "@UPS thanks for just chucking my 2 boxes over my 5 foot tall fence.  100% not acceptable...just leave it at my front door. #worstdelivery" "makimc" FALSE FALSE 1417474639
+"89" "539553346584322048" "How @UPS uses #analytics to drive down costs (and no, it doesn’t call it #bigdata) by @JDNWW  via @networkworld http://t.co/DnCsB09FZH" "joe_caserta" FALSE FALSE 1417474516
+"90" "539553179508408321" "I feel like I need 2 give my @FedEx &amp; @UPS drivers lots of extra #holiday #gifts given how frequently they r delivering packages 2 my house" "CMMcIntire" FALSE FALSE 1417474477
+"91" "539552671720820736" "RT @IncLiveEvents: Sign up for @Inc 's #IncLiveChat with @Quirky's @benkaufman Dec. 9 at 2PM ET! http://t.co/NayBAEndsb (Sponsored by @UPS)" "Quirky" TRUE FALSE 1417474355
+"92" "539552278315687938" "RT @briddynicole: So done with @UPS. I needed my contact lenses last week, that's why I ordered next day shipping.. I love how next day mea…" "lovellybethany" TRUE FALSE 1417474262
+"93" "539552212297728000" "@UPS you are just testing my patience ~" "nah_frgtit" FALSE FALSE 1417474246
+"94" "539552132576206848" "Just used @UPS to chat with David L. Wow! that was easy! And super quick to get what I needed. Great employee #nailedit #customerservice" "mmbenidt" FALSE FALSE 1417474227
+"95" "539551961977470976" "Sign up for @Inc 's #IncLiveChat with @Quirky's @benkaufman Dec. 9 at 2PM ET! http://t.co/NayBAEndsb (Sponsored by @UPS)" "IncLiveEvents" FALSE FALSE 1417474186
+"96" "539551347172204544" "I give up. I only have 1 hour before I have to leave for work. I'm not waiting for @UPS any longer. I have other shit I have to do." "F_ckyeahGenna" FALSE FALSE 1417474040
+"97" "539550525680005122" "Hm. @UPS drivers yelling at people in cross walks. First I've seen. #atlanta wish I got the license." "hcenaoj" FALSE FALSE 1417473844
+"98" "539550366304829440" "Dealing with @UPS is about as frustrating as going trick or treating and getting nothing but Tootsie Rolls" "MehdiWorldPeace" FALSE FALSE 1417473806
+"99" "539549576429309952" "@UPS @SalvationArmyUS 
+so awesome " "HrH_Hamad" FALSE FALSE 1417473618
+"100" "539549562768490496" "Thanks for leaving the packages containing Christmas gifts sitting in the rain all day @UPS. That's exactly what I wanted. #unacceptable" "lmmarkes" FALSE FALSE 1417473614
+"101" "539548506466549760" "@UPS owner of 4 stores told me doesn't care \"cause all that matters is getting it from point a to point b\" &amp; UPS \"doesn't run\" him" "SocialWebYogi" FALSE FALSE 1417473362
+"102" "539548276576747521" "@UPS has several #jobfairs scheduled in #Williston this month. PT and FT positions available. http://t.co/RmW4Onswqc" "JobServiceND" FALSE FALSE 1417473308
+"103" "539548235090903042" "RT @UPS: We support the magic, joy and happiness @SalvationArmyUS Angel Tree brings to children and families in need.
+https://t.co/CYpFDdOo…" "HrH_Hamad" TRUE FALSE 1417473298
+"104" "539547650065203200" "Colorado friends, don't go to the @UPS store on Quebec &amp; County line by Safeway. Angry and heartbroken http://t.co/ITr4aIYDhL" "cheryltweedy" FALSE FALSE 1417473158
+"105" "539547637733937153" "@FedExHelp going on two hours since I sent the requested info. Still no response. Should have used @UPS" "melishill" FALSE FALSE 1417473155
+"106" "539547351200043008" "@UPS thanks for delivering my sons Christmas present while he was home. It didn't come in a plain box. Description written on both sides!!" "MCrueElla" FALSE FALSE 1417473087
+"107" "539547151396003840" "The Owler community added a new company profile: @UPS. Available here: http://t.co/2ew970P2An" "SpiderOrangeOwl" FALSE FALSE 1417473039
+"108" "539546951751335936" "Hey thanks @UPS for your lazy ass driver again dumping my package at the management office instead of my condo" "iFit_Tyler" FALSE FALSE 1417472992
+"109" "539546359448489985" "Thanks @UPS for destroying family crystal. Packed well but not when box was thrown around &amp; dropped 20x. Disgusted http://t.co/BQfdXPSYIJ" "JohnnyG711" FALSE FALSE 1417472851
+"110" "539546047790735362" "My dad coming in clutch mode with the security camera system. @UPS better quit it with your false delivery status updates" "collmemaybe_" FALSE FALSE 1417472776
+"111" "539545623092293633" "@JohnGrahamGolf @UPS What did you invest in JG? Christmas came early in Rochester?" "DonalScott" FALSE FALSE 1417472675
+"112" "539545052687892480" "@UPS your UK parcel service let me down , my parcel is out for delivery, have been tracking today, now it 22.20 in the UK #poorservice" "vinstar09" FALSE FALSE 1417472539
+"113" "539544521236054016" "@UPS an @amazon package dropped at the wrong house and after calling in, your nice driver ran by to quickly fix the mistake." "MattOMealey_" FALSE FALSE 1417472412
+"114" "539544372636033024" "k i get home and my singing bowls not here. wtf @UPS" "JazzyKeyz" FALSE FALSE 1417472377
+"115" "539544205346209792" "Starting to think that my house is at the very end of the @UPS route. #waiting #deliveryman #UPS" "Michael_J_Clark" FALSE FALSE 1417472337
+"116" "539544135234232320" "Stop by the @ulintramurals SRC today to learn about @UPS seasonal jobs! #HireACardinal http://t.co/aGSH7l0Pj0" "UofLCareers" FALSE FALSE 1417472320
+"117" "539544099024830465" "RT @DoggieDooAll: Taking Daisy #dog on errands. Shipping out Doggie Doo All's @UPS @UPS_News http://t.co/IiqrqnTLQc" "DennyActon" TRUE FALSE 1417472312
+"118" "539543929059037184" "Perfect timing @UPS package arrived just in time for flight. Happy to try out new SAM toy." "JohnGrahamGolf" FALSE FALSE 1417472271
+"119" "539543421799919616" "@UPS very poor and rude customer service at your 3101 ne 29th ave hollywood florida site" "mfsolomon" FALSE FALSE 1417472150
+"120" "539542923419734017" "Taking Daisy #dog on errands. Shipping out Doggie Doo All's @UPS @UPS_News http://t.co/IiqrqnTLQc" "DoggieDooAll" FALSE FALSE 1417472031
+"121" "539542192709058561" "@UPS Drivers need to quit driving like bats outta hell down our small street. Kids and pets at risk,  and no sidewalks. #sodangerous" "RLScott1" FALSE FALSE 1417471857
+"122" "539542082088472577" "RT @UPS: Join us tomorrow at 2 PM EST for a #TwitterChat on #GivingTuesday with @ToysforTots_USA, @SalvationArmyUS &amp; @BGCA_Clubs. #WishesDe…" "mkvanslyke" TRUE FALSE 1417471831
+"123" "539541753175764993" "Good thing I haven't received my package that I did 2-day shipping on placed 13 days ago... #WeOut @UPS" "C_Melito1" FALSE FALSE 1417471752
+"124" "539540625733849089" "Come on @UPS guy...where are you???" "NotThatSRoss" FALSE FALSE 1417471484
+"125" "539540407764680704" "@UPS where my package at doe?" "CocoDion" FALSE FALSE 1417471432
+"126" "539539963852103680" "How @UPS uses #analytics to drive down costs http://t.co/oJAcgzKs8P" "SkytreeHQ" FALSE FALSE 1417471326
+"127" "539539830300880896" "What's the point of paying for shipping when @UPS won't deliver the package to my address?.... I just want my @andrewchristian underwear!" "AlbumConfession" FALSE FALSE 1417471294
+"128" "539539535172882432" "Expecting my espresso machine from @UPS today. Knock on door, jump up excited... And it's the JW's. #nope #coffeemeplease" "MSLifeSkills" FALSE FALSE 1417471224
+"129" "539539305492795393" "I've been waiting all damn day for this @UPS package! They're now an hour late after they said it would be delivered! Where the hell is it?" "LauraoftheLight" FALSE FALSE 1417471169
+"130" "539538894443008000" "Came home, @UPS delivered a package and left little dog treats for our labs, too!  How awesome sauce was that?! Thank you!!" "AmyColetta" FALSE FALSE 1417471071
+"131" "539538639953625089" "where is my hard drive @UPS" "JunkLABs" FALSE FALSE 1417471010
+"132" "539538392783257601" "RT @WhartonSchoolPR: Pregnant Pause? Our profs avail re: #SCOTUS @UPS case--female driver w/big delivery issue. @wsjcareers http://t.co/uCx…" "PennNewsGuy" TRUE FALSE 1417470951
+"133" "539538289594601472" "So a @uhaul driver just rang my doorbell delivering a package. Love the new @UPS trucks!" "Chanur64" FALSE FALSE 1417470927
+"134" "539538253515591680" "How @UPS uses #analytics to drive down costs (and no, it doesn’t call it #bigdata) by @JDNWW  via @networkworld http://t.co/LJRbxyI1Gp" "CasertaConcepts" FALSE FALSE 1417470918
+"135" "539537666770219008" "I cannot wait to sleep with my @Casper tonight! Just received my @UPS delivery notice" "ddiamondtweets" FALSE FALSE 1417470778
+"136" "539537509366394880" "It was great, a little over 2 weeks after my Papa died, to open that box and to see his favorite cars in pieces @UPS http://t.co/pSGJ2RF8Ym" "cheryltweedy" FALSE FALSE 1417470741
+"137" "539535879681761280" "@USPS There really could not have been a worse envelope to destroy. I am extremely sad and will use @FedEx and @UPS http://t.co/Em8C39oaWN" "GtrPicksGalore" FALSE FALSE 1417470352
+"138" "539535868642746368" "@SteveMahoney_ @Uber @FedEx @UPS @Recode @forrester I think it's very focused on doing so for its own services. Be a platform or not?" "Jessicalessin" FALSE FALSE 1417470349
+"139" "539535825131032577" "RT @ISpeakAnalytics: How @UPS is using #analytics to drive down costs and increase operating efficiencies http://t.co/qJjHiRC8Dm via @JDNWW" "paul73p" TRUE FALSE 1417470339
+"140" "539535717274513408" ". @dhlsupplychain : @UPS has just been identified as your competitor. View profile: http://t.co/xsLy3heMaT" "MileyOrangeOwl" FALSE FALSE 1417470313
+"141" "539535713428328448" "@UPS @UPSHelp saying that receiver requested a new dlvry date &amp; receiver DID NOT request 1.. Is that your way of covering yourselves? #shady" "TrojanNationTX" FALSE FALSE 1417470312
+"142" "539535679416315904" "@ups I’m not sure following the cable company process of a 4 hour window and not showing up is the right path to success. #WaitingToSign" "spleck" FALSE FALSE 1417470304
+"143" "539535342110789632" "@UPS Thanks for leaving an electronic item on my doorstep in the rain, even though it required a signature.  #sheesh" "waitinontheend" FALSE FALSE 1417470224
+"144" "539535321738645504" "My @UPS driver is so nice! Always so friendly and helpful! #skidmore #Tx" "ACAHOB1" FALSE FALSE 1417470219
+"145" "539535179917045760" "Thank you to the @UPS on Quebec and County Line for destroying 50-75 cars of my Papa's model car collection. http://t.co/mlDz4ZqBEx" "cheryltweedy" FALSE FALSE 1417470185
+"146" "539534844318216192" "RT @mgulledge: Just watched the @UPS guy walk up to my door from the truck, drop the package and leave without knocking. #customerservice" "GripeO_Feed" TRUE FALSE 1417470105
+"147" "539534382412070912" "Ordered Sunday dlvry of Xmas tree stand @amazon @UPS  sig required. Waiting all day so no work. Xmas tree is sad. http://t.co/ZK7a7H7IF1" "shnynyn" FALSE FALSE 1417469995
+"148" "539534173115908096" ".@UPS completely TRASHED my autographed booklet of cheek to cheek and I'm livid" "brandonhormuth" FALSE FALSE 1417469945
+"149" "539533971886186496" "@UPS I see one of your drivers taking a left turn SMH http://t.co/MheruCSXyp" "mashfreak" FALSE FALSE 1417469897
+"150" "539533835067985921" "@theupsstorecare I suppose you now want me to feel grateful for my partial refund. You guys still owe me $90. @UPS @TheUPSStore #viastories" "BGRHYMES" FALSE FALSE 1417469864
+"151" "539533468800405505" "Pretty disappointed in @UPS rn I turned 20 in OCTOBER and it's DECEMBER with like 2 packages missing" "emmajsmoot" FALSE FALSE 1417469777
+"152" "539533333881823232" "An unfortunate search result for @UPS. http://t.co/irrGltNxLh" "dannygarcia" FALSE FALSE 1417469745
+"153" "539533008605564928" "Who #hires the #worst #delivery truck #drivers=@UPS Anyone else having #problems with them lately? #Wish companies would #stop using them!" "a8exander" FALSE FALSE 1417469667
+"154" "539532892003905537" "@UPS @UPSHelp package that didn't need a signature wasn't delivered—are we going to have a repeat of last year?" "j223art1" FALSE FALSE 1417469640
+"155" "539532095958159360" "Wish I had something better to tweet about then how much @UPS #sucks! Was home waiting 4 package and they didn't bother buzzing. #warning" "a8exander" FALSE FALSE 1417469450
+"156" "539531290308259840" "@UPS so thankful that our package arrived on time &amp; in such wonderful condition #Fail #Fragile #ChristmasIsRuined http://t.co/oegcIRZg4f" "OleMissSAA" FALSE FALSE 1417469258
+"157" "539530655986880512" "@ups please don't let trucks [license tag number 47  x2 1952] park in the Bike Lanes. Meridian Street #Huntsville #AL http://t.co/2TjIcQhxn5" "BicycleHsv" FALSE FALSE 1417469107
+"158" "539530577016520704" "I love @UPS --&gt; We'll be in your area and will deliver your UPS SurePost package instead of the post office. | and One day in advance" "ShML_" FALSE FALSE 1417469088
+"159" "539530108709920768" "@UPS AND please believe it will promptly be distributed to all media outlets! Sorry asses! It's a wonder you've managed to stay in business" "dlite912" FALSE FALSE 1417468976
+"160" "539530077852434434" "RT @BGCA_Clubs: How do you give back? Join #BGCA, @UPS @ToysforTots_USA @SalvationArmyUS for the #WishesDelivered #GivingTuesday chat tomor…" "MiddletonOM" TRUE FALSE 1417468969
+"161" "539529982280613888" "insync staffing email about Helper Coordinator-0195 job in Oregon -client is @UPS they asked my gender &amp; citizenship http://t.co/R8pXSlJw5l" "Wildstraw79" FALSE FALSE 1417468946
+"162" "539529866883108864" "This may be a sign that I have a problem...@UPS #shippinglove http://t.co/lmxEe7pvRQ" "meredithspidel" FALSE FALSE 1417468918
+"163" "539529856657416192" "Hmm... This is what my delivery looked like upon arrival. Careful, @UPS @amazon - this is a #Xmas present! http://t.co/lN87ozTlHN" "Drhulsman" FALSE FALSE 1417468916
+"164" "539529710632726528" "@UPS you can be rest assured that I will be positioning a security camera to catch you next \"newly hired\" prick in the act of taking my shit" "dlite912" FALSE FALSE 1417468881
+"165" "539529594965983232" "Thanks @UPS, you're the best. http://t.co/ubCBfefEWk" "joshansiel" FALSE FALSE 1417468854
+"166" "539529413357211649" "@UPS which should make this person stop and think, Hey! maybe I shouldn't leave this package because it doesn't look like anyone's HOME!!!!" "dlite912" FALSE FALSE 1417468810
+"167" "539529198038429696" "@UPS Pretty sure it was the \"newly hired\" driver who took it, since there were several infonotices posted on the front door" "dlite912" FALSE FALSE 1417468759
+"168" "539528857712594944" "@UPS When I got home my package was no where to be found and the much sought after DB 8's, which I bought for my husband have gone buh bye" "dlite912" FALSE FALSE 1417468678
+"169" "539528582931165184" "@UPS Thx to all your \"newly hired\" drivers who thinks it's ok to leave packages at the front door over the Thanksgiving Holiday!" "dlite912" FALSE FALSE 1417468612
+"170" "539528461480493056" "Um @UPS notice the 2:55 pm timestamp on this email? http://t.co/IIC1mwn5Gr" "orangelamb" FALSE FALSE 1417468583
+"171" "539528235919638528" "@judicialnetwork aljazeeraenglish wants to speak w/carrie severino re @peggyyoung vs @ups @SCOTUS 202-247-5225 james.hamilton@aljazeera.net" "hamiltja" FALSE FALSE 1417468530
+"172" "539527987281264640" "RT @mgulledge: Just watched the @UPS guy walk up to my door from the truck, drop the package and leave without knocking. #customerservice" "GripeO_Outreach" TRUE FALSE 1417468470
+"173" "539527358827347968" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "ShotsTo1Million" TRUE FALSE 1417468320
+"174" "539527352380710912" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "jbeliebersonly" TRUE FALSE 1417468319
+"175" "539527350623272960" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "Shotties_" TRUE FALSE 1417468318
+"176" "539527343635566592" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "JBizzleFace" TRUE FALSE 1417468317
+"177" "539527341643280386" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "SirBizzleLoveU" TRUE FALSE 1417468316
+"178" "539527333976088576" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "b0ylieber01" TRUE FALSE 1417468315
+"179" "539527333120446465" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "UnderNaiaNation" TRUE FALSE 1417468314
+"180" "539527326082428928" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "gotmybieberface" TRUE FALSE 1417468313
+"181" "539527325591674882" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "WatchOutBizzle" TRUE FALSE 1417468313
+"182" "539526754252357632" "You know it's @UPS temp. worker season when they put small packages right in front of your garage door to run over. #tiremarks" "nekono" FALSE FALSE 1417468176
+"183" "539526661197156352" "RT @ToysForTots_USA: @UPS chats with @ToysForTots_USA @salvationarmy and @BGCA_Clubs tomorrow 2-3pm EST. #WishesDelivered #GivingTuesday ht…" "simplymarcoo" TRUE FALSE 1417468154
+"184" "539526560236457984" "RT @UPS: Join us tomorrow at 2 PM EST for a #TwitterChat on #GivingTuesday with @ToysforTots_USA, @SalvationArmyUS &amp; @BGCA_Clubs. #WishesDe…" "MommyMusings" TRUE FALSE 1417468130
+"185" "539525476511780864" "Ordered a fairly expensive bracelette from @Groupon . @UPS lost it and now no one will help me! I am out the money and have nothing" "Smiley_Bandana" FALSE FALSE 1417467872
+"186" "539525020700405762" "#CyberMonday reminds us of our role in #lighting the way for #logistics leaders like @UPS http://t.co/ZniqEgnWez http://t.co/6Vmu5UOIJA" "AEILighting" FALSE FALSE 1417467763
+"187" "539524201636700160" "@UPS what's going on man??? http://t.co/rhhGhTzhPw" "Dropshot_v2" FALSE FALSE 1417467568
+"188" "539524064650346496" "@BGRHYMES @TheUPSStore @UPS ok... I'll let Amazon know that. " "41DMBPhotog" FALSE FALSE 1417467535
+"189" "539523450428088320" "RT @UPS: Join us tomorrow at 2 PM EST for a #TwitterChat on #GivingTuesday with @ToysforTots_USA, @SalvationArmyUS &amp; @BGCA_Clubs. #WishesDe…" "runitbymom" TRUE FALSE 1417467389
+"190" "539523333658652673" "Pregnant Pause? Our profs avail re: #SCOTUS @UPS case--female driver w/big delivery issue. @wsjcareers http://t.co/uCxuZAbznC" "WhartonSchoolPR" FALSE FALSE 1417467361
+"191" "539523027604885505" "Thanks @UPS for leaving my packages in the driveway for over six hours and not have the common courtesy to bag them to keep them dry." "artpenguinpoop" FALSE FALSE 1417467288
+"192" "539522991399636992" "RT @UPS: Join us tomorrow at 2 PM EST for a #TwitterChat on #GivingTuesday with @ToysforTots_USA, @SalvationArmyUS &amp; @BGCA_Clubs. #WishesDe…" "nikkibankert34" TRUE FALSE 1417467279
+"193" "539522925599391744" "@UPS @TheRebelChick @ToysForTots_USA @SalvationArmyUS @BGCA_Clubs #WishesDelivered is there a rsvp?" "conner_mrs" FALSE FALSE 1417467263
+"194" "539522584065216512" "RT @UPS: Join us tomorrow at 2 PM EST for a #TwitterChat on #GivingTuesday with @ToysforTots_USA, @SalvationArmyUS &amp; @BGCA_Clubs. #WishesDe…" "TheRebelChick" TRUE FALSE 1417467182
+"195" "539522448761569280" "@UPS you guys are hype" "justinfetzer" FALSE FALSE 1417467150
+"196" "539522420327985152" "#UPS probably #discriminates if they use staffing companies that ask about gender, citizenship status up front. Why even ask that? @ups" "Wildstraw79" FALSE FALSE 1417467143
+"197" "539521730960568320" "I got an email from a staffing agency recruiting for @UPS job, they wanted to know my gender and if I was a citizen, GC holder or #h1b." "Wildstraw79" FALSE FALSE 1417466979
+"198" "539521670281584640" "Boycott @UPS for their disgusting position on pregnant employees!" "sdinup" FALSE FALSE 1417466964
+"199" "539520991442272256" "RT @UPS: Can you guess how many hours it took to create our winter wonderland? #WishesDelivered http://t.co/oVoTzPTZnr
+https://t.co/q0ROq9i…" "jend420" TRUE FALSE 1417466802
+"200" "539520545579364354" "Been waiting all day for @UPS to show up. I know as soon as I leave they will come and I will get that stupid \"we missed you \" note" "F_ckyeahGenna" FALSE FALSE 1417466696

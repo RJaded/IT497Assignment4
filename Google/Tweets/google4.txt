@@ -1,0 +1,207 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "540656760797683712" "RT @google: 5 Google Maps tips for a better commute → http://t.co/P5ZYWUznWE http://t.co/FT8Hz2WiQ2" "someshpan" TRUE FALSE 1417737591
+"2" "540656742775136257" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "BrettStark" TRUE FALSE 1417737587
+"3" "540656727679832064" "RT @google: 5 Google Maps tips for a better commute → http://t.co/P5ZYWUznWE http://t.co/FT8Hz2WiQ2" "jornalistavitor" TRUE FALSE 1417737583
+"4" "540656714245505024" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "pedro_valiente" TRUE FALSE 1417737580
+"5" "540656706523779072" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "jornalistavitor" TRUE FALSE 1417737578
+"6" "540656703126388736" "@TheNationalTree @google If only Python worked like that" "Baspower_" FALSE FALSE 1417737577
+"7" "540656683572527105" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "jornalistavitor" TRUE FALSE 1417737572
+"8" "540656668372398080" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "Sasha_Koloskov" TRUE FALSE 1417737569
+"9" "540656660683829249" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "flizskibish" TRUE FALSE 1417737567
+"10" "540656420794793985" "@OYR2007 @google @byandreachang Silicon South Bay! ... There goes the neighborhood ;)" "belkin" FALSE FALSE 1417737510
+"11" "540656404382883840" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "iamvladlad" TRUE FALSE 1417737506
+"12" "540656367456243712" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "zetonhobatata" TRUE FALSE 1417737497
+"13" "540656350263406592" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "semwisdom" TRUE FALSE 1417737493
+"14" "540656322694643712" "Oh my gosh, @Google #Nexus4. NO. I DON'T WANT TO UPDATE TO ANDROID 5. STOP ASKING ME. YES, I KNOW IT WAS DOWNLOADED. #CantWaitForAnIphone6" "dgreichert" FALSE FALSE 1417737486
+"15" "540656159095812098" "@google since most computers have a mic, it would be nice if we could initiate the Google app by just saying \"Ok Google,\"" "PeteyPablo623" FALSE FALSE 1417737447
+"16" "540656086034829312" "@TheNationalTree @google Awesome!" "DarleneRivet" FALSE FALSE 1417737430
+"17" "540656056750600192" "RT @CommonSense: Starting next year, @Google will release kid-friendly &amp; kid-safe versions of their popular products: http://t.co/PWbGSchjB…" "SarahGretter" TRUE FALSE 1417737423
+"18" "540655978404773889" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "darkbigta" TRUE FALSE 1417737404
+"19" "540655926382837760" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "Karin_Nishijima" TRUE FALSE 1417737392
+"20" "540655917419606016" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "Rhxo0" TRUE FALSE 1417737390
+"21" "540655844510023680" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "htchelpdesk" TRUE FALSE 1417737372
+"22" "540655738646183937" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "GREGGWEEDON" TRUE FALSE 1417737347
+"23" "540655689715044352" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "studioego" TRUE FALSE 1417737335
+"24" "540655667397152768" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "KenKChow" TRUE FALSE 1417737330
+"25" "540655667237761024" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "NancyHo" TRUE FALSE 1417737330
+"26" "540655667216781312" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "DrEdwardKo" TRUE FALSE 1417737330
+"27" "540655667204210688" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "PatrickWeeks" TRUE FALSE 1417737330
+"28" "540655667204198400" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "KeensDesign" TRUE FALSE 1417737330
+"29" "540655603178160128" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "google" TRUE FALSE 1417737315
+"30" "540655600859095040" "The beautiful view from @google SF office  look forward to rocking yall holiday party t... http://t.co/MdzyE5wxqC http://t.co/fSVwn0VyAX" "DjIsaacJordan" FALSE FALSE 1417737314
+"31" "540655556520718336" "AppGyver Releases Supersonic, Bridging Native-Grade UI and Data to HTML5 ... - App Developer… http://t.co/2zJkqweVl9  via @google #html5" "MikeHTML" FALSE FALSE 1417737304
+"32" "540655397275963392" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "sutterella" TRUE FALSE 1417737266
+"33" "540655342267273216" "My @google @madewithcode tree light pattern is complete! Make yours with the awesome program here: https://t.co/NpGuYdxk4f" "sagrasmo" FALSE FALSE 1417737253
+"34" "540655325117165568" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "kirstinestewart" TRUE FALSE 1417737249
+"35" "540655316363640833" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "cathsedilliere" TRUE FALSE 1417737246
+"36" "540655313004003328" "RT @google: 5 Google Maps tips for a better commute → http://t.co/P5ZYWUznWE http://t.co/FT8Hz2WiQ2" "mariocorona19" TRUE FALSE 1417737246
+"37" "540655282406174720" "RT @google: 5 Google Maps tips for a better commute → http://t.co/P5ZYWUznWE http://t.co/FT8Hz2WiQ2" "timmapuramreddy" TRUE FALSE 1417737238
+"38" "540654648479457280" "RT @CommonSense: Starting next year, @Google will release kid-friendly &amp; kid-safe versions of their popular products: http://t.co/PWbGSchjB…" "lukevan12" TRUE FALSE 1417737087
+"39" "540654579822895105" "Love the minimalistic treatment on @google material design gets the print treatment http://t.co/aJQcgedjzr" "hchoi37" FALSE FALSE 1417737071
+"40" "540654443038248960" "@gostatego3 @google should buy them and connect it with the self driving cars plus @googlemaps they could takeover transportation biz" "dboivin5" FALSE FALSE 1417737038
+"41" "540654301308153856" "RT @CommieCrusherJM: @GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #…" "truckerbooman" TRUE FALSE 1417737004
+"42" "540654268764520448" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "COMOLOVEOYO" TRUE FALSE 1417736997
+"43" "540653822671331328" "@google that wasnt my answer - at all :)" "ravnmads" FALSE FALSE 1417736890
+"44" "540653801896558593" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "Azhiie_vHt" TRUE FALSE 1417736885
+"45" "540653531569864706" "Why @Mozilla is scared of @Google http://t.co/Obx39Egunn" "Maxamegalon2000" FALSE FALSE 1417736821
+"46" "540653447876718593" "RT @STEMsolutions: At the #NationalChristmasTreeLighting? This year's tree features light patterns created by @google #madewithcode http://…" "setnstem" TRUE FALSE 1417736801
+"47" "540653290921279488" "RT @Fistula_Fdtn: We're a featured org at @google's #ggive week! The team is here today to chat with googlers about fistula. @yuwu http://t…" "ZoeMullendore" TRUE FALSE 1417736764
+"48" "540653183740030976" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "kranirudha" TRUE FALSE 1417736738
+"49" "540653085228793856" "officially abandoning @google #chrome. Can’s keep up with #MAC5k" "Bzykoo" FALSE FALSE 1417736715
+"50" "540652793456250880" "Real Estate News: @Google buys 12 acres in Playa Vista, vastly expands presence in L.A. http://t.co/uYOg1okRkH" "Will_Consuegra" FALSE FALSE 1417736645
+"51" "540652748640120832" "RT @CommonSense: Starting next year, @Google will release kid-friendly &amp; kid-safe versions of their popular products: http://t.co/PWbGSchjB…" "SWalker012" TRUE FALSE 1417736634
+"52" "540652628871741440" "RT @sengineland: What has changed with the new @Google #local page quality guidelines? Find out here: http://t.co/em3HjWMfTg" "sauld" TRUE FALSE 1417736606
+"53" "540652562949492736" "Tell @googlepubpolicy @google that it's time for them to act like they really support #NetNeutrality. http://t.co/ux1TU6iKr2 #CallOnGoogle" "murphylives" FALSE FALSE 1417736590
+"54" "540652453583388672" "Nailed this years ago @GLG. But why'd @GOOGLE hold back???? Any ideas @matt_mcgowan? http://t.co/Dcy0s0o79t… #wearables #ar" "1TracyWood" FALSE FALSE 1417736564
+"55" "540652449892036608" "Making the unconscious conscious: http://t.co/CrNptQgf9q  #UnconsciousBias via @Google" "ybisk" FALSE FALSE 1417736563
+"56" "540652257986228224" "@DLoLobo RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/4QhYgV8PgN http://t.co/CY8X2ecXzB" "VEEisCool3" FALSE FALSE 1417736517
+"57" "540651797304451073" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "POSmateAU" TRUE FALSE 1417736407
+"58" "540651797254139904" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "ridyllic" TRUE FALSE 1417736407
+"59" "540651654102540290" "@RegexCrossword @Yahoo and @google please! Fun puzzles, thanks!" "jgurtz" FALSE FALSE 1417736373
+"60" "540651629024776192" "“we want to do 4K and 8K over time,” @google tells Digital Trends. High-def-a-palooza! Nice scoop, @ryanwaniata! | http://t.co/MbCJGGATUU" "SmashDawg" FALSE FALSE 1417736367
+"61" "540651577603002368" "Finally got my @google #chromecast and I'm more than impressed plus 3 months #NOWtv  sorted!" "JordanHaleB" FALSE FALSE 1417736355
+"62" "540651229836488704" "RT @CommonSense: Starting next year, @Google will release kid-friendly &amp; kid-safe versions of their popular products: http://t.co/PWbGSchjB…" "THLibrariZen" TRUE FALSE 1417736272
+"63" "540651224706461696" "OMG @google Santa does not live in the North Pole?! Everyone knows he lives in FINLAND! What is wrong with you?! #SantaTracker" "SusieQEsq" FALSE FALSE 1417736271
+"64" "540650941351882752" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "billykei" TRUE FALSE 1417736203
+"65" "540650906149085185" "@google No, I'm stumped as to why my Nexus 7 hasn't gotten Android 5.0 OTA yet. Oh look, 5.0.1 is now out. #FallingFurtherBehind" "HonestlyClever" FALSE FALSE 1417736195
+"66" "540650756752150528" "@google Ah, awesome! Though I solved most of it, there were still some hidden parts I hadn't found. Great puzzle, loved solving it! :D" "gapper100" FALSE FALSE 1417736159
+"67" "540650735780642817" "@AlfredPerezJr @google I figured maybe just MAYBE my friends would be nice enough to tell me what it was GEEZ!" "kristyna_mariee" FALSE FALSE 1417736154
+"68" "540650585461387264" "@google Hello Google!" "_Zeque" FALSE FALSE 1417736119
+"69" "540650532059090944" "@google Galaxy Nexus, so vintage hahaha" "MorGo109" FALSE FALSE 1417736106
+"70" "540650477671559169" "@kristyna_mariee ever heard of @google? " "AlfredPerezJr" FALSE FALSE 1417736093
+"71" "540650407778058242" "RT @MrsBethanyT: .@Adweek: @Target turns stores into one big mobile game for the holidays w/ @Google; @StJude benefits. http://t.co/geEVTta…" "K2Virgilio" TRUE FALSE 1417736076
+"72" "540650397149319169" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "Domainer" TRUE FALSE 1417736074
+"73" "540650305130463233" "RT @jasonwhitney: One of the most amazing commercials I've ever seen. @Google is just too good. Who's the agency? #advertising http://t.co/…" "quentification" TRUE FALSE 1417736052
+"74" "540650289607757824" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/Hfosp0rDsS http://t.co/KPFiUuIdp8" "rkiker" FALSE FALSE 1417736048
+"75" "540650181478612992" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "Tiihaw" TRUE FALSE 1417736022
+"76" "540650038884454400" "Brava! RT @TheNationalTree Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014" "theycallmeViv" FALSE FALSE 1417735988
+"77" "540649888665862144" "@Google Never mind the self driving cars and fiber internet. Just stop overriding my .com to .hu
+#stillhaventlearnedhungarian #fwp" "harrison_cook" FALSE FALSE 1417735952
+"78" "540649532082499584" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "ken_sugar" TRUE FALSE 1417735867
+"79" "540649395583070208" "RT @FortuneMagazine: .@Google CEO Larry Page on why dominant tech companies falter http://t.co/phTX5nFVOl http://t.co/npw1JSxXxz" "DenisPKoci" TRUE FALSE 1417735835
+"80" "540649336439578624" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "ThomasJOnline" TRUE FALSE 1417735821
+"81" "540649254541197312" "@GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #UsefulIdiots #Dupes" "CommieCrusherJM" FALSE FALSE 1417735801
+"82" "540649241803120640" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "mahyar_k" TRUE FALSE 1417735798
+"83" "540648990291660800" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "gurublack" TRUE FALSE 1417735738
+"84" "540648878258020352" "Dear @google, please make chrome less of a harlot, and stop it from allowing every stupid hijacker from jumping on. Really" "mloxton" FALSE FALSE 1417735712
+"85" "540648860306386944" "RT @google: 5 Google Maps tips for a better commute → http://t.co/P5ZYWUznWE http://t.co/FT8Hz2WiQ2" "ivan_kay" TRUE FALSE 1417735707
+"86" "540648845760163840" "@google 
+The Japanese mass media become a cyber crime syndicate." "2takora6" FALSE FALSE 1417735704
+"87" "540648572853575680" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "tristar1011" TRUE FALSE 1417735639
+"88" "540648460832088064" "@ChefLizzieB @GovivaLife @sprint @google @stephgreenkc It was so nice to meet you today Elizabeth! Food looked &amp; smelled delicious!" "csemerdj" FALSE FALSE 1417735612
+"89" "540648359263223808" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "solomonrafeal1" TRUE FALSE 1417735588
+"90" "540648126957092864" "#Google @Google #streamlines seller programs for Work, Education cloud apps http://t.co/u7wMTZKlt1" "rocksteadesign" FALSE FALSE 1417735532
+"91" "540647913928810496" "@joancurtis continues her book tour w/ a @Google Hangout with @LyndaBrown of Author Chat. Grab a coffee and join in. https://t.co/dj3gTSBGgZ" "BernadetteBoas" FALSE FALSE 1417735482
+"92" "540647901462937600" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "sarunote" TRUE FALSE 1417735479
+"93" "540647898946355202" "RT @Thomas_Husson: According to Olivier Madelenat @google 50% of traffic for YouTube is coming from mobile. If I am correct it was only 6% …" "lisahopeking" TRUE FALSE 1417735478
+"94" "540647831694872579" "@dashawns2cents @CedricAlexander @ringofhonor @facebook OK thanks Shawn.  Must @google @Terminal5NYC 2 find out #WhereItIs #NeverHeardOfIt" "GrandMastaRich" FALSE FALSE 1417735462
+"95" "540647793166401536" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "eduurs_" TRUE FALSE 1417735453
+"96" "540647281112793088" "How #musiceducation inspired @google http://t.co/eZVFaompJG VIA @ArtsPro #artsadmin #artsed" "communityartsed" FALSE FALSE 1417735331
+"97" "540647054574637056" ".@Adweek: @Target turns stores into one big mobile game for the holidays w/ @Google; @StJude benefits. http://t.co/RDkVe3Bthe #TargetScoop" "Kari_Thompson" FALSE FALSE 1417735277
+"98" "540646998936784896" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "sheri_khann" TRUE FALSE 1417735263
+"99" "540646953600966656" "RT @ThinkwithGoogle: .@Google teamed up with @Target to build a unique mobile in-store experience. Check it out: http://t.co/9fdMnOPGsu htt…" "debestmath" TRUE FALSE 1417735253
+"100" "540646899720531968" "Thank U @google 4 sending me D awesome B'daY wishes http://t.co/HF810D82hA" "imMohammedFazil" FALSE FALSE 1417735240
+"101" "540646846234767360" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "TechDigest360" TRUE FALSE 1417735227
+"102" "540646536875483136" "RT @Umfuld: Any honest study predicts future societies will view @google @stevejobs @BillGates @pierre and the rest as the greatest thieves…" "yashalevine" TRUE FALSE 1417735153
+"103" "540646527664783360" "Supreme Court Will Not Entertain Challenge To @Google 's Use of @Android #Trademark - http://t.co/zg1E4wEtME http://t.co/sJJ20OWPuA" "karenhbromberg" FALSE FALSE 1417735151
+"104" "540646436426489856" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "sportparadise" TRUE FALSE 1417735129
+"105" "540646259661357058" "RT @google: 5 Google Maps tips for a better commute → http://t.co/P5ZYWUznWE http://t.co/FT8Hz2WiQ2" "scovie" TRUE FALSE 1417735087
+"106" "540646180624297984" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "CorettaJackson" TRUE FALSE 1417735068
+"107" "540646155898462208" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "LinkedMedia" TRUE FALSE 1417735062
+"108" "540646119781711872" "RT @PaulNemitz: .@Google #Netherlands new data center: http://t.co/29D4XNUsBF #FDI http://t.co/IMRdOe3OEF #safeharbor #privacy #nsa #fdi #d…" "sumolaw" TRUE FALSE 1417735054
+"109" "540646041133924352" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "Nidrona" TRUE FALSE 1417735035
+"110" "540645962532675585" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "hanzexu990323" TRUE FALSE 1417735016
+"111" "540645933982023681" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "MissQueenJonas" TRUE FALSE 1417735010
+"112" "540645874531971073" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "KumarBeniwal2" TRUE FALSE 1417734995
+"113" "540645804034117634" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "mokhtarghrimil" TRUE FALSE 1417734979
+"114" "540645706114289666" "RT @CommonSense: Starting next year, @Google will release kid-friendly &amp; kid-safe versions of their popular products: http://t.co/PWbGSchjB…" "TheCoffeeKlatch" TRUE FALSE 1417734955
+"115" "540645701311807488" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "JasonZigrino" TRUE FALSE 1417734954
+"116" "540645684488069120" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "metaquest" TRUE FALSE 1417734950
+"117" "540645657548038144" "RT @google: Still stumped by our #ImitationGame puzzle? Get the solution here → https://t.co/8r35HQNkCr http://t.co/7vkninDQVi" "the__f" TRUE FALSE 1417734944
+"118" "540645170341883904" "Any honest study predicts future societies will view @google @stevejobs @BillGates @pierre and the rest as the greatest thieves in history." "Umfuld" FALSE FALSE 1417734827
+"119" "540644895325970432" "Why still no #lollipop for the nexus 7 (2013)? @google" "gtluver05" FALSE FALSE 1417734762
+"120" "540644874534391808" "MT Starting next year, @Google will release kid-friendly safe versions of their products: http://t.co/bWpezqsiQe” #fpsttwt @CynthiaStogdill" "darinkelberlau" FALSE FALSE 1417734757
+"121" "540644825104912384" "yessss thank you @Google for FINALLY allowing us to change our youtube and google+ url! now i can rid of this stupid \"dreamwithdi\" for good!" "whoisDANDRA" FALSE FALSE 1417734745
+"122" "540644774135361536" "RT @google: What’s #madewithcode? The lights at this year’s National Christmas Tree Lighting ceremony → http://t.co/RTWR6J70r7 http://t.co/…" "SAHOWARA" TRUE FALSE 1417734733
+"123" "540644716354600960" "RT @STEM_Works: @Google launches #Santa tracker to teach kids how to code http://t.co/vmp9oHwtku #STEM #education #technology" "trishac818" TRUE FALSE 1417734719
+"124" "540644392411729920" "Fuck @google Chrome! This shit fucking shut off me! I have to start and entire new @wattpad account!" "msholyangels17" FALSE FALSE 1417734642
+"125" "540644335268950016" "RT @conradhackett: @Google has an in-house philosopher 
+
+http://t.co/1Xmd6RCdSk" "jjaimemiranda" FALSE FALSE 1417734628
+"126" "540644291748855808" "@StJude benefits from @Target turning stores into one big mobile game for the holidays w/ @Google. http://t.co/4v0y28Iah1 #TargetScoop" "marariordan" FALSE FALSE 1417734618
+"127" "540644291249709057" ".@Adweek: @Target turns stores into one big mobile game for the holidays w/ @Google; @StJude benefits. http://t.co/w7O8JcK6I3 #TargetScoop" "Jill4Target" FALSE FALSE 1417734618
+"128" "540644288812818432" ".@Adweek: @Target turns stores into one big mobile game for the holidays w/ @Google; @StJude benefits. http://t.co/geEVTta4el #TargetScoop" "MrsBethanyT" FALSE FALSE 1417734617
+"129" "540643617627324417" "RT @google: 5 Google Maps tips for a better commute → http://t.co/P5ZYWUznWE http://t.co/FT8Hz2WiQ2" "js3plus" TRUE FALSE 1417734457
+"130" "540643561184563200" "@google i created almost 4 years ago. would that account get  deactivate" "blackchevy28" FALSE FALSE 1417734444
+"131" "540643418519515137" "@bbcquestiontime Why not make a start by making sure @google @Starbucks @amazon @VodafoneUK @TheSunNewspaper pay their fair share of taxes?!" "Joefowler_" FALSE FALSE 1417734410
+"132" "540643414426279936" ".@Google #Netherlands new data center: http://t.co/29D4XNUsBF #FDI http://t.co/IMRdOe3OEF #safeharbor #privacy #nsa #fdi #datacenter #google" "PaulNemitz" FALSE FALSE 1417734409
+"133" "540643248109518848" "RT @CommonSense: Starting next year, @Google will release kid-friendly &amp; kid-safe versions of their popular products: http://t.co/PWbGSchjB…" "QueenChrystyne" TRUE FALSE 1417734369
+"134" "540643112415416320" "Thanks to @EnvatoMarket for showing me another new @google product #webdesigner 
+
+http://t.co/BqjLP2DWJ7" "thetwosents" FALSE FALSE 1417734337
+"135" "540643078785486848" "RT @MsTechGroup: “@nicoleyeary: So excited to talk #2015TechTrends at @google with @ChicagolandCmbr @JLFlavin1 @ChicagoCIE http://t.co/g7Wg…" "IL_IT_LEx" TRUE FALSE 1417734329
+"136" "540642860362903552" "@sheedy10 @google no I don't have time for that lmao I'm just to good!" "XhorxhLeco" FALSE FALSE 1417734277
+"137" "540642600827781120" "RT @google: Introducing “No CAPTCHA reCAPTCHA,” a simple solution to a simple question: Are you a robot? http://t.co/DvTF1cul87 http://t.co…" "beppeg" TRUE FALSE 1417734215
+"138" "540642592950878208" "RT @CommonSense: Starting next year, @Google will release kid-friendly &amp; kid-safe versions of their popular products: http://t.co/PWbGSchjB…" "MDEschool" TRUE FALSE 1417734213
+"139" "540642509320232961" "RT @tubefilter: .@Google Will Build A Version Of @YouTube For Kids http://t.co/D6c4FgsUVs" "EmCAnderson" TRUE FALSE 1417734193
+"140" "540642402742960128" "RT @linkpointmedia: Great news: @google has substantially improved CAPTCHA! http://t.co/Bej4CiGDos" "swgeek4ever" TRUE FALSE 1417734168
+"141" "540642114338832385" "Apple @Google BD @Intel @Kohls Among Winners of EPA #Green Power Partnership Awards @justmeans http://t.co/2rNb6a7xxX http://t.co/F9jesFRgZI" "future500" FALSE FALSE 1417734099
+"142" "540642051126484992" "Bartender at @google event gives a hearty white wine pour #networking #businesstime" "steph2point0" FALSE FALSE 1417734084
+"143" "540642002996846592" "@XhorxhLeco you got like 5 characters in one round... Hmmmm @google" "sheedy10" FALSE FALSE 1417734072
+"144" "540641993517322240" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "StudioKnitSF" TRUE FALSE 1417734070
+"145" "540641550628577280" "RT @KSAPR: Driverless cars. Mobile everything. Telemedicine. 3D printing. Women in tech. These are the #TopTrends via @google @ChicagolandC…" "ChicagolandCmbr" TRUE FALSE 1417733964
+"146" "540641483154403328" "RT @ThinkwithGoogle: .@Google teamed up with @Target to build a unique mobile in-store experience. Check it out: http://t.co/9fdMnOPGsu htt…" "LinkedMedia" TRUE FALSE 1417733948
+"147" "540641213725310976" "Area where @twitter is superior to @google in 'Search' is Real Time search and it is wonderful. Should have a dedicated webpage. @dickc Note" "Neuschwan" FALSE FALSE 1417733884
+"148" "540641141604253697" "Driverless cars. Mobile everything. Telemedicine. 3D printing. Women in tech. These are the #TopTrends via @google @ChicagolandCmbr" "KSAPR" FALSE FALSE 1417733867
+"149" "540640924162736131" "Looks like @google's new no-captcha still doesn't address issues of accessibility. http://t.co/9Y539GUzFR" "gridsat" FALSE FALSE 1417733815
+"150" "540640855036813313" "@Google listening to \"emerging digital trends for 2015\". Fascinating. Filtered answer:  Mobile, Mobile, Mobile http://t.co/A0sRYv9Vwt" "BrianWaterkotte" FALSE FALSE 1417733799
+"151" "540640659569655808" "RT @ChicagolandCmbr: Some big names in Chicago tech get our panel started @google! @tedsouder @LindaMaclac @nicoleyeary @JLFlavin1 http://t…" "SadeMichelle" TRUE FALSE 1417733752
+"152" "540640581601746944" "@google How can I make my Google Slides presentation private? Does the feature exist?" "refineddesigner" FALSE FALSE 1417733733
+"153" "540640575624466432" "Don't bubble us!! http://t.co/onEQoySktH @duckduckgo &gt; @google" "philsmithdesign" FALSE FALSE 1417733732
+"154" "540640463007793152" "RT @MikeHTML: AppGyver Releases Supersonic, Bridging Native-Grade UI and Data to HTML5 ... - App Developer… http://t.co/W4tZnOPOuo  via @go…" "HTML5Digest1" TRUE FALSE 1417733705
+"155" "540640438018113536" ".@Google's Material Design philosophy is transformed into a physical form    http://t.co/vohzA38DRO via @psfk #Design for #Print" "Gerry_Cleary" FALSE FALSE 1417733699
+"156" "540640373249691648" "RT @ScriptEdOrg: In honor of our upcoming #hackathon on 12/13 at @google, #tbt to our last awesome, \"random()\" hackathon in May! http://t.c…" "ThaNotoriousJOE" TRUE FALSE 1417733684
+"157" "540640347085619201" "RT @Smartsheet: This Thanksgiving, we're #thankful for our amazing partners including @Google, @Salesforce, @Evernote, @DocuSign, @Dropbox …" "MarvinSeb" TRUE FALSE 1417733678
+"158" "540640341221593088" "Good news, web developers. @Google kills #CAPTCHAs with new artificial intelligence (#AI) system https://t.co/GJpl0MmarX via @gigaom" "CyberEdge1" FALSE FALSE 1417733676
+"159" "540639959871270913" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "NewsNetNews" TRUE FALSE 1417733585
+"160" "540639811711684608" "RT @AlexsLemonade: Special thanks to @google employees for including ALSF in their holiday giving week, G-Give! #lemonforce #ggive http://t…" "PatriciaLynn757" TRUE FALSE 1417733550
+"161" "540639657378467840" "@google Head of Industry: \"It is highly likely that consumers will interact with a business for the first time on a mobile device.\"" "KatyaSiddall" FALSE FALSE 1417733513
+"162" "540639595721797632" "RT @google: 5 Google Maps tips for a better commute → http://t.co/P5ZYWUznWE http://t.co/FT8Hz2WiQ2" "SunNy_WithLoVe" TRUE FALSE 1417733498
+"163" "540639557570424833" "I often like to update my @GooglePlay reviews. This one says a lot without saying much at all. @googlenexus @google http://t.co/PRq6dGbcWc" "nickervision" FALSE FALSE 1417733489
+"164" "540639184688386048" "AppGyver Releases Supersonic, Bridging Native-Grade UI and Data to HTML5 ... - App Developer… http://t.co/W4tZnOPOuo  via @google #html5" "MikeHTML" FALSE FALSE 1417733400
+"165" "540639051884154880" "RT @AlexsLemonade: Special thanks to @google employees for including ALSF in their holiday giving week, G-Give! #lemonforce #ggive http://t…" "WildAngel6" TRUE FALSE 1417733369
+"166" "540638939413897216" "What can I say, I've got #JamesBond fever already! If you haven't yet, just @google #SPECTRE and you'll catch my drift." "coastal_livin" FALSE FALSE 1417733342
+"167" "540638783926837248" "@google How can I get into contact with a person at google? I would like to do something with my school and google. #help" "Dachinmaster" FALSE FALSE 1417733305
+"168" "540638700007620608" "RT @AlexsLemonade: Special thanks to @google employees for including ALSF in their holiday giving week, G-Give! #lemonforce #ggive http://t…" "spunky3825" TRUE FALSE 1417733285
+"169" "540638682307645440" "RT @jfalkingham: @JSLinehan rocking the audience on why @google and @Microsoft should be scared! #NewWayToWork #boston #IrisGallery http://…" "cjbaits" TRUE FALSE 1417733281
+"170" "540638666868424704" "RT @jfalkingham: @Google Inbox and @Microsoft Clutter are not a #NewWaytoWork its just lipstick on a pig. There is a better way now:  https…" "cjbaits" TRUE FALSE 1417733277
+"171" "540638574584926209" "We are the only chess page who don't care if you are on @Twitter, @Facebook, or @Google. We got it covered.... http://t.co/K0DEX91SqD" "ChessClubLive" FALSE FALSE 1417733255
+"172" "540638569933832192" "RT @ChicagolandCmbr: Some big names in Chicago tech get our panel started @google! @tedsouder @LindaMaclac @nicoleyeary @JLFlavin1 http://t…" "stacefstathiou" TRUE FALSE 1417733254
+"173" "540638556553633792" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "nexuslondon" TRUE FALSE 1417733251
+"174" "540638545820778496" "RT @CAREEREALISM: When you're not @Google, you need this...http://t.co/QppAKSWQ1p #careeradvice" "peyton123_r" TRUE FALSE 1417733248
+"175" "540638537561804800" "RT @anton1s: Going down the #Google way! @google #mountainview, amazing campus http://t.co/kBs6FIXBrY" "gpapatsaras" TRUE FALSE 1417733246
+"176" "540638526962823168" "RT @ThinkwithGoogle: .@Google teamed up with @Target to build a unique mobile in-store experience. Check it out: http://t.co/9fdMnOPGsu htt…" "mighty55" TRUE FALSE 1417733244
+"177" "540638419010199552" "RT @AlexsLemonade: Special thanks to @google employees for including ALSF in their holiday giving week, G-Give! #lemonforce #ggive http://t…" "sblowey" TRUE FALSE 1417733218
+"178" "540638348772380674" ".@Adweek: @Target turns stores into one big mobile game for the holidays w/ @Google; @StJude benefits. http://t.co/EAZzn9qmWf #TargetScoop" "cjniesen" FALSE FALSE 1417733201
+"179" "540638339326427137" "@markhill Totally worth it. Cc: @google (as if you didn't see it already. Oh, you.)" "asuter" FALSE FALSE 1417733199
+"180" "540638130773041152" "Yes! @Google: \"..creating an environment for people who...want to do things that are really impactful for the world\" http://t.co/orlCn8uWxX" "BritFarly" FALSE FALSE 1417733149
+"181" "540638008861802496" "So this is how @Google Now wishes you on your birthday. Nice! http://t.co/6G4BZsAUkH" "jshinde" FALSE FALSE 1417733120
+"182" "540638002708357122" "Special thanks to @google employees for including ALSF in their holiday giving week, G-Give! #lemonforce #ggive http://t.co/EHwemmhyQ6" "AlexsLemonade" FALSE FALSE 1417733119
+"183" "540637905387941888" "@Froggytv @PillowGamerYT its an @google address and the link was legit" "PillowGamerYT" FALSE FALSE 1417733095
+"184" "540637860542423040" "RT @ThinkwithGoogle: .@Google teamed up with @Target to build a unique mobile in-store experience. Check it out: http://t.co/9fdMnOPGsu htt…" "JudRoV" TRUE FALSE 1417733085
+"185" "540637726291525632" "RT @AntSkilton: Thank you to everyone involved today at #include and to @uk_ie @marmaladeapps and to @google too! #gamedev http://t.co/mVk3…" "marmaladeapps" TRUE FALSE 1417733053
+"186" "540637683035279360" "RT @edutech20: The 12 Digital Days of Christmas: Tech Treasure #3 http://t.co/mtWCX7DHBG #edtech #edtechchat @google" "EdTechRetweet" TRUE FALSE 1417733042
+"187" "540637466173394944" "Why can't I mirror my Sony Z2 tablet screen to the Google chromecast? Answers please @sonyxperia @Sony @google @googlechrome @GooglePlay" "TheMADG17" FALSE FALSE 1417732991
+"188" "540637407365050369" "RT @ThinkwithGoogle: .@Google teamed up with @Target to build a unique mobile in-store experience. Check it out: http://t.co/9fdMnOPGsu htt…" "denisM2609" TRUE FALSE 1417732977
+"189" "540637217425985539" "Some big names in Chicago tech get our panel started @google! @tedsouder @LindaMaclac @nicoleyeary @JLFlavin1 http://t.co/LUvxZjrd8q" "ChicagolandCmbr" FALSE FALSE 1417732931
+"190" "540637057639800832" "RT @CommonSense: Starting next year, @Google will release kid-friendly &amp; kid-safe versions of their popular products: http://t.co/PWbGSchjB…" "CalZunt" TRUE FALSE 1417732893
+"191" "540637037934968832" ".@Google Science Fair winner, #WHScienceFair attendee @BrittanyMWenger just explained @madewithcode at #NationalChristmasTree ceremony #STEM" "ScripDonnaDC" FALSE FALSE 1417732889
+"192" "540637008616771584" "@Motorola you really need to fix up your moto listening technology. It messes up just about everything I say. @Google and does it just fine." "sparty569" FALSE FALSE 1417732882
+"193" "540636969123184640" "RT @TheNationalTree: Wow! Thanks to all of the girls out there who made my tree friends sparkle! @Google #MadeWithCode #NCTL2014 http://t.c…" "SloaneEsq" TRUE FALSE 1417732872
+"194" "540636930439139329" ".@Google Will Build A Version Of @YouTube For Kids http://t.co/D6c4FgsUVs" "tubefilter" FALSE FALSE 1417732863
+"195" "540636928941387777" "Tell @googlepubpolicy @google that it's time for them to act like they really support #NetNeutrality. http://t.co/4ASbbjf90H #CallOnGoogle" "ClaytonSeverson" FALSE FALSE 1417732863
+"196" "540636895630221312" "RT @IJNet: The 10 @google tools investigative journalist @suchitchavez uses to find information: http://t.co/fuYJiw3OYC" "medianut" TRUE FALSE 1417732855
+"197" "540636748125335552" "RT @GoogleCampaign: Another day in court for @Google coming up: on Monday they will try to prevent British consumers being able to sue them…" "blepharon" TRUE FALSE 1417732819
+"198" "540636737736040448" "Talking top trends and innovation at @google! You heard it here first... http://t.co/b7F9N87jTx" "SmallBizKatie" FALSE FALSE 1417732817
+"199" "540636714684121088" "Why @Google halted its research into renewable energy http://t.co/meBb9Sx9KL  #cleanenergy #carbontax @voxdotcom via @cleantechopen" "ZonditsEE" FALSE FALSE 1417732811
+"200" "540636682958434304" ".@Google Introduces ‘#Mobile Friendly’ Labels (@future_medialab) - http://t.co/qQEVdUQg5B" "S32Day" FALSE FALSE 1417732804

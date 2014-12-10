@@ -1,0 +1,223 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539931721131511808" "RT @getlikeChip_q: @Walmart instead of killing price matching try having cashiers look it up in a brower on your register #easyfix" "happiroses" TRUE FALSE 1417564728
+"2" "539931436598321153" "RT @RedCrossCRC: Thx for giving in support of @RedCross relief! @RedHawkRewards @Walmart @VanirCM @CircleKWest @Nugget_Market @Elephant_Bar…" "VanirCM" TRUE FALSE 1417564660
+"3" "539931423159754752" "RT @tee501: Thanks @walmart for sending my order way across town instead of the store right by my place. Really appreciate that. " "MrC2daG" TRUE FALSE 1417564657
+"4" "539931293484470272" "Thanks @walmart for sending my order way across town instead of the store right by my place. Really appreciate that. " "tee501" FALSE FALSE 1417564626
+"5" "539931172696895488" "RT @FrugalPhillyMom: #FREE 5x7 with Santa at @Walmart this weekend &amp; next from 10a-2p by the Photo Center at your nearest location http://t…" "flitterby79" TRUE FALSE 1417564597
+"6" "539931092338221058" "@Walmart if I was lazy enough to ask twitter what I should eat for dinner you should expect me to be too lazy to look through that list" "whatevszarry" FALSE FALSE 1417564578
+"7" "539930999946104833" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "MarcelaPirola" TRUE FALSE 1417564556
+"8" "539930951678042114" "#FREE 5x7 with Santa at @Walmart this weekend &amp; next from 10a-2p by the Photo Center at your nearest location http://t.co/UmQmWWPOrF" "FrugalPhillyMom" FALSE FALSE 1417564544
+"9" "539930938566643713" "@fitzco @CocaCola @Walmart That's my boy! You guys are amazing!" "Darlene4NY" FALSE FALSE 1417564541
+"10" "539930835030253569" "RT @Walmart: @smile_its_over We really should, but hey, we really like Hannah Montana! Thank you for letting us know, Haley! ~WalmartElves" "smile_its_over" TRUE FALSE 1417564517
+"11" "539930696953765888" "@Walmart  I am a MA teacher, will you retweet my project for my Special Education Students? @DonorsChoose http://t.co/J51aLy36Gc" "aimeeEgalloway" FALSE FALSE 1417564484
+"12" "539930616377004032" "RT @RedCrossCRC: Thx for giving in support of @RedCross relief! @RedHawkRewards @Walmart @VanirCM @CircleKWest @Nugget_Market @Elephant_Bar…" "RedHawkRewards" TRUE FALSE 1417564465
+"13" "539930591324405760" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "CANIFFLACROU" TRUE FALSE 1417564459
+"14" "539930332405850113" "RT @RandomMommy1: AD: Don't wait!  Go to @Walmart and get unlimited text, talk and 3GB of data for just $45 with #StraightTalkWireless http…" "quirkyinspired" TRUE FALSE 1417564397
+"15" "539929974287781888" "@Walmart I HEArd. Yall don't pay yall employees shit neither half dead ass MfZ fuck Walmart" "__MISSLMAO" FALSE FALSE 1417564311
+"16" "539929818859458562" "@Walmart yall some cheap ass disrespectful ass bitches I'm in fuckin line right now and it's like three lines open thats bullshit" "__MISSLMAO" FALSE FALSE 1417564274
+"17" "539929808759582721" "@Walmart way to drop the ball Walmart, site to store promised 12/3, changed to 12/11 w/o even notification. Should have just gone to target" "KanniaSays" FALSE FALSE 1417564272
+"18" "539929668850184192" "@Walmart you sorry ass MfZ need to hire more fuckin workers man" "__MISSLMAO" FALSE FALSE 1417564239
+"19" "539929600373972994" ". @Walmart is trying to sell me a Galaxy S3 on @Verizon by offering 2x data.
+
+Even though I've got an S5 on @tmobile - best network EVER" "cranky_unfun_1" FALSE FALSE 1417564222
+"20" "539929292239433728" "@cagegirl1 @Walmart this is nothing new at this location." "memphismikey" FALSE FALSE 1417564149
+"21" "539929249730142208" "@Walmart and is this Twitter for all Walmart stores all over the world because I live in Canada" "PYRONIIC" FALSE FALSE 1417564139
+"22" "539929176900268032" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "twdselena" TRUE FALSE 1417564121
+"23" "539929022742814720" "RT @nbc: John, Wendy, &amp; Michael: Meet the Darling family in #PeterPanLive presented by @Walmart. Join us Dec 4 at 8/7c.
+https://t.co/cy2BME…" "abigailscastle" TRUE FALSE 1417564085
+"24" "539928912134811648" "@Walmart I dunno I've been sitting at the http://t.co/CyfPPzuUkM services forever waiting for my item." "memphismikey" FALSE FALSE 1417564058
+"25" "539928805859545088" "@Walmart I'm get one for Christmas " "PYRONIIC" FALSE FALSE 1417564033
+"26" "539928729825189888" "@Walmart thanks u guys are the best" "PYRONIIC" FALSE FALSE 1417564015
+"27" "539928474639536128" "Thanks to the generosity of @deseanjacksonD1, 50 kids are @Walmart for a special shopping trip with @Redskins http://t.co/opqGOTvIup" "Hortons_Kids" FALSE FALSE 1417563954
+"28" "539928212965318658" "RT @UncreativeMommy: Do you love Honey Nut Cheerios? Get a $1 off coupon @Walmart here as well as an exclusive song by @Usher:#ad http://t.…" "SoutheastMidwes" TRUE FALSE 1417563892
+"29" "539927954499723264" "FRIDAY: Great money-saving tips for your holiday shopping from Stephanie Sherman @DavidZylaStyle  @walmart and more | http://t.co/plOIse5FGp" "krollcallshow" FALSE FALSE 1417563830
+"30" "539927913173225472" "@Walmart yes I did" "centman2003" FALSE FALSE 1417563820
+"31" "539927783837687811" "@Walmart do u guys have a grand theft auto 5 bundle or no" "PYRONIIC" FALSE FALSE 1417563789
+"32" "539927622914813952" "We helped our friends at @cocacola and @walmart create this sweet holiday spot. #MakeSomeoneHappy http://t.co/qnpxH7H4GY" "lizdaney" FALSE FALSE 1417563751
+"33" "539927529507655680" "I love @Walmart but they have to admit... This is funny. #Walmart #BlackFriday #ChristmasCountdown #holidayhuddle http://t.co/NL0iBjVBQs" "tyler11_tyler" FALSE FALSE 1417563729
+"34" "539927517017018368" "Enter to #Win a @Walmart $100 Gift Card for a new @DaisyOutdoor Gun for the Holidays - RT and enter! http://t.co/2YJXSh91qK" "saxon6732" FALSE FALSE 1417563726
+"35" "539927321700884482" "Treat your animals right and feed them properly or don't fucking have them. Simple as that @Walmart http://t.co/omrXzEBZZM" "emilyy_parr" FALSE FALSE 1417563679
+"36" "539927311420649472" "I've been in this @Walmart store an hour to pick up a freaking air mattress. I'm hotter than fish grease right now" "memphismikey" FALSE FALSE 1417563677
+"37" "539926914324889602" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "grazimedeiros94" TRUE FALSE 1417563582
+"38" "539926885325479937" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/I4TyPZgSVR" "Jonnymovgamer" FALSE FALSE 1417563575
+"39" "539926266338885632" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "FlorenciaPaz4" TRUE FALSE 1417563427
+"40" "539926251591315456" "RT @RandomMommy1: AD: Don't wait!  Go to @Walmart and get unlimited text, talk and 3GB of data for just $45 with #StraightTalkWireless http…" "CinnyBBS" TRUE FALSE 1417563424
+"41" "539926225834475520" "That's why I don't have any money I'm always shopping online at work. @Walmart has most of my paycheck." "KingKillerBee" FALSE FALSE 1417563418
+"42" "539926058808512512" "RT @AshleyKMPH: #HellsAngels of Fresno wait in line for 5 days @Walmart to buy ALL its bikes for needy kids. @KMPHFOX26 #LiveonFox26 http:/…" "GabrielaMcNiel" TRUE FALSE 1417563378
+"43" "539925880244412417" "\"Santa gave me that random gift that was on our porch!\"
+
+Is this what you strive for? You stole my daughter's innocence!
+
+@Walmart" "Buzzquotes" FALSE FALSE 1417563335
+"44" "539925786690461696" "RT @luckybuddhabeer: Have you seen our #LuckyBuddhaBeer rack in stores? We spotted this one at @Walmart! http://t.co/xaPXDKuu8w" "theRileyDickens" TRUE FALSE 1417563313
+"45" "539925776792322048" "Saw @andym1952 at @Walmart picking up some nice fresh fruits and veggies." "itsbenbitchh" FALSE FALSE 1417563311
+"46" "539925720781160449" "RT @nbc: John, Wendy, &amp; Michael: Meet the Darling family in #PeterPanLive presented by @Walmart. Join us Dec 4 at 8/7c.
+https://t.co/cy2BME…" "MelanieWelc" TRUE FALSE 1417563297
+"47" "539925641785643008" "@Walmart Full Set, less than $300" "Saria__" FALSE FALSE 1417563278
+"48" "539925548927950850" "@Walmart not even sure if I can register now. I waited 15 mins after asking to speak mgr but roger never showed." "jeffc_miller" FALSE FALSE 1417563256
+"49" "539925268777795584" "@Walmart I know it's probably automated, but because of this suggestion I got 2 books ordered and sent to deliver before xmas... Thank you!!" "bradderstine" FALSE FALSE 1417563190
+"50" "539925230198607873" "It's just not the #Christmas/#Holiday season without walking out of @Walmart and @Target with bruised ankles and legs. Ouch! #painful" "abparrish083" FALSE FALSE 1417563180
+"51" "539925082890444800" "I WITNESSED A LADY AT @Walmart OPEN A LIPSTICK TUBE USE IT AND PUT IT BACK! DONO'T BUY LIPSTICKS THAT AREN'T CLOSED!!! FUCKING DISGUSTING!" "IAMEVERYTHINGW" FALSE FALSE 1417563145
+"52" "539925032445566976" "RT @abcactionnews: Holiday party food idea: Get recipe for Mac&amp;Cheese Bacon Bowls from @Walmart #HolidaySavings: http://t.co/yqeWSh8efR htt…" "EverydayGene" TRUE FALSE 1417563133
+"53" "539924918742171648" "@Walmart bought 1 hr guarantee item. Changed mind. Never registered online per store Told 2 bring rcpt to store 4 refund told no at store" "jeffc_miller" FALSE FALSE 1417563106
+"54" "539924884910903296" "@lindsey_kutach just go to @Walmart  &amp; buy 2 packages of oreos cream cheese &amp;hershey's milk chocolate bars" "mjtirto5" FALSE FALSE 1417563098
+"55" "539924752081498112" "You realize you dummies wrote all over the front of the box in black marker too? Do any of you have a brain above your fat asses?
+
+@Walmart" "Buzzquotes" FALSE FALSE 1417563066
+"56" "539924712357261312" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "louischeroso" TRUE FALSE 1417563057
+"57" "539924602042851328" "AD: Three moms. Fantastic changes. Watch the @Pampers #MomsFirst web series for stories from moms  like you @Walmart http://t.co/vn8mzx18Ls" "DazzlingDeal" FALSE FALSE 1417563031
+"58" "539924356818673664" "@xobeckky @Walmart I don't fuck with Walmart #ghettoshit" "msbebecee" FALSE FALSE 1417562972
+"59" "539924235460677633" "@YahooNews @Walmart IS OBAMA THE NEW HITLER OF OLD/ A HOLOCAUST SURVIVOR SPEAKS OUT 2014 https://t.co/E9lB5Nkf1P" "rthorne2" FALSE FALSE 1417562943
+"60" "539924217051873280" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "JustOfLove_5H" TRUE FALSE 1417562939
+"61" "539924095358337024" "RT @Walmart: @sandramend0za Thanks for the support! Enjoy! -Glen" "sandramend0za" TRUE FALSE 1417562910
+"62" "539924048625815552" "What's the matter, @Walmart? You only respond to people that kiss your ass?" "Buzzquotes" FALSE FALSE 1417562899
+"63" "539923841527468032" "@Walmart Jen Glen Ridiculous experience!  #worstcustomerserviceever Why respond if you aren't going to follow through?" "oliver_melody" FALSE FALSE 1417562849
+"64" "539923767669952512" "Nothing screams \"trying too hard\" like walking into a @Walmart and saying \"Where is the fragrance section?\"" "GordonFrame" FALSE FALSE 1417562832
+"65" "539923723101691904" "RT @RetailMeNot: Kick off your Cyber Monday shopping at @Walmart with these best online specials!  http://t.co/SenJpp4KGe http://t.co/BRJ7Y…" "SammiesMommy77" TRUE FALSE 1417562821
+"66" "539923112683638784" "@Walmart @childrensplace #RanaPlaza victims have waited long enough for fair and full compensation http://t.co/eiBtVKPUHR" "joanbushur" FALSE FALSE 1417562676
+"67" "539923005623660545" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "B_SCrazy" TRUE FALSE 1417562650
+"68" "539922947452833792" "@Walmart
+After 22 minutes on hold, your customer service rep HUNG UP. I wanted to speak to someone I could understand!  #EnglishOnlyPlease" "oliver_melody" FALSE FALSE 1417562636
+"69" "539922874635538432" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "katnisstwerk" TRUE FALSE 1417562619
+"70" "539922843127906304" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "tomlinsooff" TRUE FALSE 1417562611
+"71" "539922706330693632" "Dear @Walmart I hate you!!" "KristiDillon" FALSE FALSE 1417562579
+"72" "539922566731673600" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "fixalylas" TRUE FALSE 1417562545
+"73" "539922523068960768" "@DaniWood74 @Walmart SMH ASSHAT" "tbhogs" FALSE FALSE 1417562535
+"74" "539922517071106048" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "AleDavila95" TRUE FALSE 1417562534
+"75" "539922333880680449" "@Walmart 
+How about a call center in the USA?  #Americansneedjobstoo" "oliver_melody" FALSE FALSE 1417562490
+"76" "539922289903403008" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "GrandeDrewCyrus" TRUE FALSE 1417562479
+"77" "539922273377857536" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "Carolinny7Anny" TRUE FALSE 1417562475
+"78" "539922234731929600" "@Walmart get some better cases" "_pvm__" FALSE FALSE 1417562466
+"79" "539922230382047232" "RT @YahooNews: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/…" "cp24co" TRUE FALSE 1417562465
+"80" "539922204876472320" "RT @SnotBloomquist: RT if you pulled some slidejobs in aisles @Walmart and then crotch chopped your victim afterward." "WrightLightnin" TRUE FALSE 1417562459
+"81" "539922158978220032" "RT @YahooNews: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/…" "call210" TRUE FALSE 1417562448
+"82" "539922081249386497" "RT @Yahoo: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/mVS8…" "YahooCentre" TRUE FALSE 1417562430
+"83" "539922060470796289" "@jljacobson @Plutocracy2 @Walmart @WaltonFamilyFdn the why do people line up to apply for jobs? #tcot" "truthdetector15" FALSE FALSE 1417562425
+"84" "539921858317922304" "RT @RandomMommy1: AD: Don't wait!  Go to @Walmart and get unlimited text, talk and 3GB of data for just $45 with #StraightTalkWireless http…" "StacieinAtlanta" TRUE FALSE 1417562376
+"85" "539921789485199361" "RT @YahooNews: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/…" "EAosher" TRUE FALSE 1417562360
+"86" "539921675022659586" "@Walmart just heard an associate say she enters all she can as \"not in stock\" so ppl just order it online. Kind of screws ppl w/ specials" "troumbladon" FALSE FALSE 1417562333
+"87" "539921654046945280" "@YahooNews @Walmart The Walmart Drive admitted falling asleep Walmart should of stepped up admitted responsibility settled w Tracy,not this!" "NightclubGenius" FALSE FALSE 1417562328
+"88" "539921614927060992" "@Walmart Question re: layaway; I have 4 items on layaway, &amp; now only need 1 of them. Can I remove the other 3 items without penalty?" "amber_cntrygrl" FALSE FALSE 1417562318
+"89" "539921553014550528" "Flashback to our fishing trip on August 12th when #ApparentlyKid, @Walmart brand ice-cream &amp; #KatyPerry were cool:  
+https://t.co/xTkyaYlpuF" "Didja_See_That" FALSE FALSE 1417562304
+"90" "539921513135079424" "RT @YahooNews: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/…" "pollomaldonado" TRUE FALSE 1417562294
+"91" "539921501592371200" "@Walmart I'm currently making $180 a day from my list. Everything started from http://t.co/CBM7QQJQzD" "feranovenyca" FALSE FALSE 1417562291
+"92" "539921480856133633" "RT @nbc: John, Wendy, &amp; Michael: Meet the Darling family in #PeterPanLive presented by @Walmart. Join us Dec 4 at 8/7c.
+https://t.co/cy2BME…" "syd_spike" TRUE FALSE 1417562286
+"93" "539921331244908544" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "AllyRaparigando" TRUE FALSE 1417562251
+"94" "539921293458821121" "S/O to @Walmart #FamilyMobile for NOT helping me fix my issue with sending picture mail. " "AshtenSpeaks" FALSE FALSE 1417562242
+"95" "539921242669985792" "RT @YahooNews: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/…" "TanveerQasimPK" TRUE FALSE 1417562230
+"96" "539921231953154048" "@diverdown48 @SEIU @Walmart Democrats DON'T want its voters OFF social welfare programs!  They do everything to EXPAND that sector" "tandrewallace" FALSE FALSE 1417562227
+"97" "539921178492559361" "Amazing Fireside Chat with Wendy Bergh from @Walmart!  Thank you @retailwire @locationcontext #LoconWorld" "locationcontext" FALSE FALSE 1417562214
+"98" "539921165788405760" "Shout out to @Walmart for their cold subs" "sandramend0za" FALSE FALSE 1417562211
+"99" "539921118400770048" "I didn't buy one Christmas present from @Walmart this year." "DaniWood74" FALSE FALSE 1417562200
+"100" "539921041863110656" "RT @Yahoo: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/mVS8…" "thruine" TRUE FALSE 1417562182
+"101" "539920966789259266" "RT @YahooNews: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/…" "Phillygirl1441" TRUE FALSE 1417562164
+"102" "539920830147596288" "RT @YahooNews: .@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/…" "KONAhaze" TRUE FALSE 1417562131
+"103" "539920785263964162" ".@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/3Hk0V2cq56" "YahooNews" FALSE FALSE 1417562121
+"104" "539920782764150788" ".@Walmart denies stalling in lawsuit over crash that killed man, seriously injured actor-comedian Tracy Morgan: http://t.co/mVS80BM9v4" "Yahoo" FALSE FALSE 1417562120
+"105" "539920779513569281" ".@walmart: $20 off apple ipad mini 16gb wi-fi online http://t.co/Y931VG8PWD Expires 12/16" "BeFrugal" FALSE FALSE 1417562119
+"106" "539920779303845889" "One thing I love about going to @Walmart is the range of foods that you don't see in @AsdaServiceTeam. Like different flavours of @Quaker" "GTWaites" FALSE FALSE 1417562119
+"107" "539920607673319424" "@Walmart @SamsungSupport So yall niggaz just finna ignore me?" "BennieTOOSMOOVE" FALSE FALSE 1417562078
+"108" "539920561934041090" "The PR Win of 2014... @walmart @justinbieber ? @iamdiddy ? @kanyewest ? presented by @ginidietrich http://t.co/qDkDjuddN0 via @SpinSucks" "howiegoldfarb" FALSE FALSE 1417562067
+"109" "539920474927398913" "@Walmart so I wasted 60 mins of driving and now have to wait 3-5 days to get my $ back. Super disappointed that somebody didn't do their job" "shedding45" FALSE FALSE 1417562047
+"110" "539920279166664705" "So @Walmart thinks it's OK to ship a @NintendoAmerica 3DS XL in this. A giant large padded envelope.  Not happy. http://t.co/5K62XeH0hi" "coleandress" FALSE FALSE 1417562000
+"111" "539920166944276480" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "byby_weren" TRUE FALSE 1417561973
+"112" "539920161558376448" "@Walmart Yep, site 2 store &amp; got the email saying my items were ready." "shedding45" FALSE FALSE 1417561972
+"113" "539920022047428608" "@walmart Your management, training, customer service are really failing. Not what my expectations are from you. BTW I'm usually a big fan." "jeffc_miller" FALSE FALSE 1417561939
+"114" "539919878980128768" "@Walmart Thank you so much!" "Lizax97" FALSE FALSE 1417561905
+"115" "539919872986075137" "@Walmart in Stow has the longest return line and only two people working to take returns #typical #shopTarget" "nmulrick" FALSE FALSE 1417561903
+"116" "539919834188742656" "@walmart get to know what Kids want and youll score like a  #hellsangels does  http://t.co/uxyCTCOgyv …  The gang called him the Pied piper" "YourGuiltyUPig" FALSE FALSE 1417561894
+"117" "539919755079991296" "@knuf1985 @Walmart Then out of curiosity...why did you tag them???" "shaggysmith" FALSE FALSE 1417561875
+"118" "539919732057452545" "@Walmart @SamsungSupport I need answers dawg." "BennieTOOSMOOVE" FALSE FALSE 1417561870
+"119" "539919708552581120" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "shipley2019" TRUE FALSE 1417561864
+"120" "539919666022715392" ".@Walmart new biz plan. Refund a toy  Purchase at $40 saying toy is unavailable. Then increase price of said toy 24 hours later. #nice" "JimmySW" FALSE FALSE 1417561854
+"121" "539919482857459712" "Closest thing I could find to grape juice in a bottle at @walmart. Replying to this tweet is impossible #Blocked http://t.co/q7tRN8BdMc" "knuf1985" FALSE FALSE 1417561810
+"122" "539919471839023105" "Earn 1000 points &amp; Get a $10 Gift Card of your choice @Walmart, @Albertsons or Rebel Gas! Max of 5 per #Tuesday in #December" "TuscanyCasino" FALSE FALSE 1417561807
+"123" "539919435205595140" "@AskTarget Amazed that @Walmart provides better support!" "code650" FALSE FALSE 1417561799
+"124" "539919405124440064" "@Walmart this store in my neighborhood is going down. Open more freaking lines! This is a shame" "memphismikey" FALSE FALSE 1417561792
+"125" "539919261670445057" "@Walmart I loved Benny's scene with the spaceship. SPACESHIP!!" "KyoHyon" FALSE FALSE 1417561757
+"126" "539919207622643712" "@Walmart Thank you so much, this takes a load off my mind. I'll be ordering from you soon!" "IllumEgo" FALSE FALSE 1417561744
+"127" "539919156225662976" "@Walmart @SamsungSupport It really puts me in the holiday spirit when I open the brand new TV I purchased and there's a crack in the screen." "BennieTOOSMOOVE" FALSE FALSE 1417561732
+"128" "539919148482969601" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "fandoms01" TRUE FALSE 1417561730
+"129" "539918984553172992" "RT @michaelwsmith: If you’re planning on stuffing stockings with #TheSpiritOfChristmas CDs, stop by @FamilyChristian @Mardel @Lifeway @Walm…" "regisfunk" TRUE FALSE 1417561691
+"130" "539918875979419648" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "deliriodaAny" TRUE FALSE 1417561665
+"131" "539918848942567425" "RT @fitzco: We helped our friends at @cocacola and @walmart create this sweet holiday spot. #MakeSomeoneHappy http://t.co/GLlPPhPTo5" "sethmcwhorter" TRUE FALSE 1417561659
+"132" "539918592024657921" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "A_Gonzalez5D" TRUE FALSE 1417561598
+"133" "539918574111174656" "@Walmart Are you guys going to sell the Where We Are Tour DVD?" "Lizax97" FALSE FALSE 1417561593
+"134" "539918405667540993" "@ciaoobelllaxo these are super cute! And they are from @Walmart ! http://t.co/o5Cxo3sHEx" "HaleyCArnold1" FALSE FALSE 1417561553
+"135" "539918384997998592" "RT @nbc: John, Wendy, &amp; Michael: Meet the Darling family in #PeterPanLive presented by @Walmart. Join us Dec 4 at 8/7c.
+https://t.co/cy2BME…" "emjewel" TRUE FALSE 1417561548
+"136" "539918211991367680" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "ziampervertida" TRUE FALSE 1417561507
+"137" "539918163564318721" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "selenabroken" TRUE FALSE 1417561496
+"138" "539918114507350017" "@Walmart thanks I'll do that. Glad to have someone so nice to work on issues." "StoryAddict69" FALSE FALSE 1417561484
+"139" "539918113366478848" "@Walmart so glad I wasted 30 mins to drive across to discover you didn't have items in stock that I paid for online 3 days ago." "shedding45" FALSE FALSE 1417561484
+"140" "539918076108488704" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "allissonsouza_9" TRUE FALSE 1417561475
+"141" "539917804129234944" "RT @mcwhittemore: @facebook in the front. @Walmart in the back. http://t.co/pGkoX6b0Ft /cc @reactjs @hapijs" "tylerbriles" TRUE FALSE 1417561410
+"142" "539917724856881152" "@Walmart when should I expect information on my one hour guarantee. I registered my code on Thursday" "centman2003" FALSE FALSE 1417561391
+"143" "539917667650371585" "Great #holidayhome gift idea: @stanleytools mechanics tools rolling cabinet, less than $100 @Walmart exclusive http://t.co/kcCMamnkp7" "moneypit" FALSE FALSE 1417561377
+"144" "539917666203336704" "RT @darkskyfilms: THE HOUSE AT THE END OF TIME gets an \"A\" from @shockya! http://t.co/Lw6UJv0Tjt 
+
+Now on DVD @Walmart and VOD @AmazonVideo…" "ZedKosnar" TRUE FALSE 1417561377
+"145" "539917352947970048" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "nightchangews" TRUE FALSE 1417561302
+"146" "539917222219505665" "THE HOUSE AT THE END OF TIME gets an \"A\" from @shockya! http://t.co/Lw6UJv0Tjt 
+
+Now on DVD @Walmart and VOD @AmazonVideo &amp; @iTunesMovies!" "darkskyfilms" FALSE FALSE 1417561271
+"147" "539916870967906305" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "dontharrystyIes" TRUE FALSE 1417561187
+"148" "539916848708722688" "@Walmart we did. I had to ask one more person and they finally got someone that showed up to help us." "karly_najaka" FALSE FALSE 1417561182
+"149" "539916773697794050" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "mahomiedead" TRUE FALSE 1417561164
+"150" "539916759482892289" "@Walmart Also, an employee of yours threw a tantrum, in-store, for having to do work which she was being paid to do. WOW, just WOW." "Forza_Maggiore" FALSE FALSE 1417561161
+"151" "539916681439899648" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "dinahjoint" TRUE FALSE 1417561142
+"152" "539916676821966848" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "Lary695" TRUE FALSE 1417561141
+"153" "539916658434117632" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "cabeYoTops" TRUE FALSE 1417561137
+"154" "539916606575357952" "@Walmart He was really nice. You need more workers like sales associate Travis at the walmart in Salem IL." "StoryAddict69" FALSE FALSE 1417561124
+"155" "539916558777081856" "RT @Portland_SA: Fighting for a 15 dollar min wage outside the @Walmart on SE 82nd in Portland!  #FightFor15 #BlackFriday http://t.co/mROCw…" "EricLisa457" TRUE FALSE 1417561113
+"156" "539916558685188096" "In @Walmart. They should hand you a gun at the front entrance. #thissucks #thisisboring " "thatemokid_josh" FALSE FALSE 1417561113
+"157" "539916437960134657" "@Walmart I hated waiting 2 hrs yesterday and 1 hr today,but I have to say my sales associate Travis worked tirelessly to fix the issue." "StoryAddict69" FALSE FALSE 1417561084
+"158" "539916407396638720" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "somostdsmacacos" TRUE FALSE 1417561077
+"159" "539916342271295489" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "madeinfifth" TRUE FALSE 1417561061
+"160" "539916226252640257" "@Walmart My Sales Associate Travis has been working out the problem. Apparently there was some order issues,and its being delivered." "StoryAddict69" FALSE FALSE 1417561034
+"161" "539916118090321920" "Nothing like cussing out a Walmart employee . No one fuckin disrespect my mom ! Get your shit together @Walmart !!" "xobeckky" FALSE FALSE 1417561008
+"162" "539916101925478400" "RT @NoonCorleone: Fuck @Walmart. Y'all the Opps" "thefattybanger" TRUE FALSE 1417561004
+"163" "539915801009352704" "@Walmart never ceases to amaze me  (and for some reason this shirt smells like pickles) http://t.co/CXLU93Eeh3" "ouijaclifford" FALSE FALSE 1417560932
+"164" "539915701662658561" ".@Walmart I need a date for my company Christmas party" "Erik_himself" FALSE FALSE 1417560909
+"165" "539915623003070465" "Fuck @Walmart. Y'all the Opps" "NoonCorleone" FALSE FALSE 1417560890
+"166" "539915433764462593" "@Walmart it took us almost 30 minutes to get help at one of your stores and I had to ask 3 different people for help. #stepitup" "karly_najaka" FALSE FALSE 1417560845
+"167" "539915345100673025" "Thanks to my marketing class I know I can blame @Walmart supply chain for my tv not coming in yet  #BlackFriday" "RadioRyan19" FALSE FALSE 1417560824
+"168" "539915295305908224" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "felipecrvv" TRUE FALSE 1417560812
+"169" "539915157431148547" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "drewharmonyy" TRUE FALSE 1417560779
+"170" "539915082314960897" "RT @RandomMommy1: AD: Don't wait!  Go to @Walmart and get unlimited text, talk and 3GB of data for just $45 with #StraightTalkWireless http…" "txtypeamom" TRUE FALSE 1417560761
+"171" "539914939365076992" "@Walmart if 8 open lanes is more than ever before as you claim you waisted 20 lanes. #FalseAdvertising" "tbat08" FALSE FALSE 1417560727
+"172" "539914783244713984" "@Walmart Canceled my order b/c tires were unavailable @ store, called store &amp; they r avail #horriblecustomerservice #nevershoppinghereagain" "Forza_Maggiore" FALSE FALSE 1417560690
+"173" "539914765045620736" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "iwpossible" TRUE FALSE 1417560685
+"174" "539914719700590592" "@Walmart Instead of tripling efforts, please disregard, as I've found Michele Watson's email and will slide it down the ladder from there" "TGLars" FALSE FALSE 1417560674
+"175" "539914656874106880" "RT @Walmart: #SavingsCatcher is easy breezy! Just ask @MyCountryNation’s @MeganandLiz. http://t.co/inuqlT1Zm0" "thelindseyconn" TRUE FALSE 1417560659
+"176" "539914656421539840" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "rocksregui" TRUE FALSE 1417560659
+"177" "539914471695974402" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "dopesdemi" TRUE FALSE 1417560615
+"178" "539914416632782848" "RT @nbc: John, Wendy, &amp; Michael: Meet the Darling family in #PeterPanLive presented by @Walmart. Join us Dec 4 at 8/7c.
+https://t.co/cy2BME…" "kade_olson" TRUE FALSE 1417560602
+"179" "539914064294858752" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "starpaynz" TRUE FALSE 1417560518
+"180" "539913943536664576" "@elenaneira @Walmart I think so too. Shifting a trend lead by retailers would make a huge leap forward for innovation." "tatsuoshi" FALSE FALSE 1417560489
+"181" "539913934674071554" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "niallzzsexzz" TRUE FALSE 1417560487
+"182" "539913746899304449" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "louisjealousboy" TRUE FALSE 1417560443
+"183" "539913727982964736" "@Walmart Still no service I see" "oliver_melody" FALSE FALSE 1417560438
+"184" "539913709053685760" "RT @michaelwsmith: If you’re planning on stuffing stockings with #TheSpiritOfChristmas CDs, stop by @FamilyChristian @Mardel @Lifeway @Walm…" "MasaesCrafts" TRUE FALSE 1417560434
+"185" "539913643035340801" "Enter to #Win a @Walmart $100 Gift Card for a new @DaisyOutdoor Gun for the Holidays - RT and enter! http://t.co/HQ809ah1hd" "mijames82" FALSE FALSE 1417560418
+"186" "539913610282430464" "RT @rweingarten: .@walmart-Really? #Ham4Hanukah?  And @walmart is involved in education? http://t.co/nLt0I6Wwdo" "AlanLSimmons" TRUE FALSE 1417560410
+"187" "539913595451375616" "Thx for giving in support of @RedCross relief! @RedHawkRewards @Walmart @VanirCM @CircleKWest @Nugget_Market @Elephant_Bar #GivingTuesday" "RedCrossCRC" FALSE FALSE 1417560406
+"188" "539913574131326976" "RT @opusresearch: 35% of customers use “search my store” mobile app feature while in-store - Wendy Bergh w/ @Walmart #LoconWorld" "jrosen01" TRUE FALSE 1417560401
+"189" "539913462512500736" "35% of customers use “search my store” mobile app feature while in-store - Wendy Bergh w/ @Walmart #LoconWorld" "opusresearch" FALSE FALSE 1417560375
+"190" "539913366785900544" "RT @dwatchmedia: @Walmart @RickKaufman1 ATTENTION WALMART SHOPPERS! The #WalmartElves are on strike! http://t.co/Gh5R42nPPm http://t.co/N5X…" "ms_msmarshas" TRUE FALSE 1417560352
+"191" "539913276344115201" "@Walmart You made the list! #Top10Tuesday http://t.co/Tr5XV4jYxv" "BizReviewUSA" FALSE FALSE 1417560330
+"192" "539912933287809025" "@Walmart Week's end?!?!?! Starting to feel that Walmart just wanted to kill my shopping at other stores, by snagging my order, then cnxling" "TGLars" FALSE FALSE 1417560249
+"193" "539912884290342912" "RT @CarolWCPO: Who has the #BestPrices? @Amazon, @Target, or @Walmart? @JohnMatarese breaks it down, at 530 @WCPO. #SoYouDontWasteYourMoney…" "WCPO" TRUE FALSE 1417560237
+"194" "539912612444909568" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "httptroian" TRUE FALSE 1417560172
+"195" "539912462695673857" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "Airwrecka9" TRUE FALSE 1417560136
+"196" "539912397637435392" "Excuse me @Walmart WHAT AISLE IS THE PEANUT BUTTER IN????????" "claireNOTa_BEAR" FALSE FALSE 1417560121
+"197" "539912358572089344" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "lixaodalovato" TRUE FALSE 1417560112
+"198" "539912291698102272" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "vlsk_harmonizer" TRUE FALSE 1417560096
+"199" "539912262954524675" "Can @Walmart Stop its Downward Spiral in Grocery?           
+ http://t.co/bJM8rUlU6O" "adbachmann" FALSE FALSE 1417560089
+"200" "539912248958132224" "RT @Walmart: @emilytheenemy Did you know Christopher Walken will be starring in Peter Pan Live on NBC at 8/7PMc this Thursday? ~WalmartElves" "emilytheenemy" TRUE FALSE 1417560085

@@ -1,0 +1,864 @@
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "540656683153104897" "@Walmart Walmart #: 553107202 The 4th image which is a lens shows an \"IS\" lens,the one received is not an \"IS\" lens. Makes a HUGE difference" "bignater70" FALSE FALSE 1417737572
+"2" "540656651087667200" "RT @lilbrownpolgirl: @Walmart I've been on hold for 44 min about stuff we ordered that was suppose to be here today,but isn't. YOU'RE TERRI…" "URC_Bob" TRUE FALSE 1417737565
+"3" "540656647128231936" "This is awful, @WalMart. Get rid of this category. http://t.co/HqDIVBKDvE #gender #stereotype #toys #kids http://t.co/Mz2GnoKQ4E" "amandalea_b" FALSE FALSE 1417737564
+"4" "540656610549706752" "@Walmart It all worked out. Thank you." "manamitru" FALSE FALSE 1417737555
+"5" "540656545089220608" "- @Walmart supporting HORRIFIC pig treatment (again) http://t.co/efTNzX4QWH via @_AnimalAdvocate http://t.co/s0eNnv74JH" "Tequila_Club__" FALSE FALSE 1417737539
+"6" "540656443461206016" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "SocialSniper2" TRUE FALSE 1417737515
+"7" "540656107208052736" "RT @Walmart: @Isssaaacc How can we help you with your holiday shopping? Please give us another try. -Inge" "Isssaaacc" TRUE FALSE 1417737435
+"8" "540656065030160384" "@ddlovato  Can you please help @MercyForAnimals and Joaquin Phoenix against @Walmart cruelty with pigs ??http://t.co/Kxw2xwMROj" "thedigitaljoker" FALSE FALSE 1417737425
+"9" "540656035229233152" "RT @emilydeschanel: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch! h…" "lauracscaffidi" TRUE FALSE 1417737418
+"10" "540655917113827328" "Want a better plan? Unlimited text, talk and 3GB of data 4 just $45! #StraightTalkWireless @Walmart #ad http://t.co/6hPWISLSZw RT" "Shawn_UOMeTen" FALSE FALSE 1417737390
+"11" "540655830123945984" "RT @maryjblige: #TheLondonSessions is also at @Walmart with a different cover! You can grab your copy here http://t.co/S8pau4GXL4 http://t.…" "shemeher_jazz" TRUE FALSE 1417737369
+"12" "540655682094379008" "Meanwhile... @Walmart Supercenter  Cindy  @rmxdesigns (@ Walmart Supercenter) https://t.co/OSWuV0Ierh http://t.co/1glioeUDrm" "SoBeLIVE" FALSE FALSE 1417737334
+"13" "540655609465798656" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "chefwellness" TRUE FALSE 1417737316
+"14" "540655362362601472" "#LRT It was innocuous honestly but I can appreciate @Walmart taking the commercial down in light of the recent incident and case findings." "toure_burr" FALSE FALSE 1417737257
+"15" "540655313700278272" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "Betty_Winstead1" TRUE FALSE 1417737246
+"16" "540655301716754434" "RT @MomsWhoSave: Go online @Walmart for tips &amp; tricks from Crest @3DWhite for a brighter smile &amp; your best holiday photo #beauty  #ad http:…" "SusieQpon" TRUE FALSE 1417737243
+"17" "540655218674139136" "@thelittleidiot @KirstenHenry @Walmart @MercyForAnimals oh my God that was fucking disturbing how can we humans be so cruel God help us" "Becool088" FALSE FALSE 1417737223
+"18" "540655216379830272" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "mommy3sons" TRUE FALSE 1417737223
+"19" "540655018303836162" "This is disgusting @Walmart http://t.co/F9iHAKLYmI" "JackECheng" FALSE FALSE 1417737175
+"20" "540654301308153856" "RT @CommieCrusherJM: @GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #…" "truckerbooman" TRUE FALSE 1417737004
+"21" "540654278764150784" "I'm returning something @Walmart there may be a small country on line with me. " "manamitru" FALSE FALSE 1417736999
+"22" "540654119611289600" "@Walmart where's my Xbox one you said it'd be here by today and it's not" "SamuelV101" FALSE FALSE 1417736961
+"23" "540653854153781248" "@Walmart stop showing the elsa castle commercial.  U havent had in stock in weeks &amp; daughter cries she wants it every time she sees your ad" "T_Szczodrowski" FALSE FALSE 1417736898
+"24" "540653798663139328" "None of these stores, @Walmart @Kmart OR @Target, peddles anything &gt; 60Hz TVs... because Happy Holidays, 'Merica!
+#DontWasteYourMoney" "NonMotivated" FALSE FALSE 1417736885
+"25" "540653777993629697" "Fuck you, @Walmart. Giving in to these sensitive pussies. No backbone. You can't say \"I Can't Breathe\"? Seriously, fuck you. #ICantBreathe" "MisterOffensive" FALSE FALSE 1417736880
+"26" "540653701296574464" "@Walmart you're lucky you had it this time @onedirection  http://t.co/RIzgYNO93Y" "mericaidiot" FALSE FALSE 1417736861
+"27" "540653630043729920" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Zilla_Mon" TRUE FALSE 1417736844
+"28" "540653467938070529" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "BlannKate" TRUE FALSE 1417736806
+"29" "540653352133332992" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "ruth1722" TRUE FALSE 1417736778
+"30" "540653282415243264" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/ONg2vo6ajb" "MichelleBrione7" FALSE FALSE 1417736762
+"31" "540653050516758529" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "txgreekgirl72" TRUE FALSE 1417736706
+"32" "540652992005824513" "RT @Walmart: Today only, get My Little Pony for its 1983 price: just $5 on http://t.co/LFkX5xu6FW! #TBT http://t.co/VJpQ1C33di http://t.co/…" "tammie326" TRUE FALSE 1417736692
+"33" "540652847525019649" "@Walmart only 5 knots in this bag of 8 tonight made for a testy dinner table...#dinnerfail http://t.co/c4N0753Fjg" "gte762e" FALSE FALSE 1417736658
+"34" "540652822547550211" "@Rayfyst usually when I berate companies on twitter I like to tweet at them using their handle. @Walmart should personally hear your woes." "WarnUsGaming" FALSE FALSE 1417736652
+"35" "540652797390106624" "RT @ChuckGrantham No Christmas gifts from @Walmart today. And aren't you glad? http://t.co/R8Cw7TwbWJ:" "theologybot" FALSE FALSE 1417736646
+"36" "540652621355548673" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MacDazzla" TRUE FALSE 1417736604
+"37" "540652586940919808" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MirkaMaarit" TRUE FALSE 1417736596
+"38" "540652377401864193" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/H9Ttk70tb4" "GloriaL" FALSE FALSE 1417736546
+"39" "540652281956696065" ".@Walmart to host its largest in-store demo event with food tastings, free photos with Santa, more at select stores. Sat Dec 6 10a to 2p" "krollcallshow" FALSE FALSE 1417736523
+"40" "540652220732026880" "RT @chideo: .@MelissaJoanHart &amp; @anthonyanderson behind the scenes of their holiday @Walmart commercial http://t.co/n7KNGzWAXO http://t.co/…" "SBLACommunity" TRUE FALSE 1417736508
+"41" "540652208841187328" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/xNKLvu5nie" "sweepcoupon" FALSE FALSE 1417736506
+"42" "540652205582192640" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MagneticMiMi" TRUE FALSE 1417736505
+"43" "540652148225105922" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "PulpJane" TRUE FALSE 1417736491
+"44" "540652055602294785" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MagneticMi" TRUE FALSE 1417736469
+"45" "540651945653174272" "@KinderFynes @WalmartCanada @SuzanneAxelsson US Walmart @Walmart web site has nothing about gender in its 'specifications' of this product" "cashjim" FALSE FALSE 1417736443
+"46" "540651844754612224" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Ajeya_News" TRUE FALSE 1417736419
+"47" "540651769814990848" "RT @Isssaaacc: I love/hate @Walmart" "Lily_Arango" TRUE FALSE 1417736401
+"48" "540651689015914496" "RT @PrinceRoyce: Soy El Mismo Deluxe Edition will be out this Monday It includes 2 news songs! @Walmart http://t.co/O9WSrEUI0A" "AlondraCazarezV" TRUE FALSE 1417736382
+"49" "540651662033952769" "@makaylarose23 You can find some food at your local @walmart" "d1_jon559" FALSE FALSE 1417736375
+"50" "540651582489382912" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "KirstenHenry" TRUE FALSE 1417736356
+"51" "540651542462754816" "@Walmart Called online customer service, they said they would ship the same thing again, so I went to a store, and they didn't help either" "bignater70" FALSE FALSE 1417736347
+"52" "540651355631656960" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "DianeShears" TRUE FALSE 1417736302
+"53" "540651279651831808" "RT @SpinMasterToys: #DigiBirdsChat They're available at @Target (http://t.co/4osqQlMfZM), @ToysRUs (http://t.co/tfcTvdy3fT), @Walmart (http…" "MelissaTippie" TRUE FALSE 1417736284
+"54" "540651271468752896" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "MrCoolLooking75" TRUE FALSE 1417736282
+"55" "540651147199922176" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/4XBc7ky44F" "mishlovesj" FALSE FALSE 1417736252
+"56" "540651074638467072" "Play #SearchandSeek tonight during #PeterPanLive and keep your eyes peeled for the @Walmart commercial featuring @RazorWorldwide! " "Front_Row_Media" FALSE FALSE 1417736235
+"57" "540650900197363712" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/S2qxF2QM19" "gabdarez" FALSE FALSE 1417736194
+"58" "540650829980917760" "@Walmart Celeb Twitter Storm Erupts Over Walmart Pig Torture Video....
+
+Read!!!
+http://t.co/AEKqKBp1un
+#AnimalRights http://t.co/1MSvFHr3N6\"" "txgreekgirl72" FALSE FALSE 1417736177
+"59" "540650750964408320" "Although I am upset I can't stop laughing at how dumb that @walmart policy is.  Shame on me for trying to shop at Walmart anyway. My fault" "gstate55" FALSE FALSE 1417736158
+"60" "540650653878468611" "@thelittleidiot @Walmart @MercyForAnimals @elliegoulding Ellie, you should see this" "thedigitaljoker" FALSE FALSE 1417736135
+"61" "540650569015517184" "FREE PICTURE WITH #SANTA @Walmart 
+http://t.co/98smVmOeEz
+#Kids #photos #holidayseason #Christmas #family #moms #dads http://t.co/7rLpNNAm6R" "StackingCoinss" FALSE FALSE 1417736115
+"62" "540650483010912257" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/Jr5wcSPAVM" "anitamitchell32" FALSE FALSE 1417736094
+"63" "540650312080445441" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "Front_Row_Media" TRUE FALSE 1417736053
+"64" "540650217909923841" "RT @TheTipToeFairy: AD: Head to @Walmart  to check out your favorite @DespicableMe #Minion like Bee-Do Fireman!! http://t.co/GNchaiVnYl" "BabyLovingMama" TRUE FALSE 1417736031
+"65" "540650000452034561" "RT @RazorWorldwide: Tune in TONIGHT #PeterPanLive &amp; find the Razor Ride @Walmart ‘s #NeverGrowUp ad! TONIGHT 8/7 Central." "Front_Row_Media" TRUE FALSE 1417735979
+"66" "540649773339250690" "@Walmart store I was just at:
+Mgr: Sir we will price match with any store as long as you have paper ad but we won't match w/Walmart.com LOL!" "gstate55" FALSE FALSE 1417735925
+"67" "540649716422176768" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "NathanRunkle" TRUE FALSE 1417735911
+"68" "540649526785093633" "Join me tonight as I'll be live tweeting during #PeterPanLive thanks to @Walmart and @NBC! http://t.co/nblju4SfkG http://t.co/bdvV0ru09v" "AFrugalFriend" FALSE FALSE 1417735866
+"69" "540649479125204992" "@Walmart Thank you for responding, I felt lost! I purchased an item, the picture online shows something different than what I received." "bignater70" FALSE FALSE 1417735855
+"70" "540649455624941568" "PRESENTING level sponsors: @ArbellaIns @Walmart We are so lucky to have the support of such wonderful companies. We cannot thank you enough!" "FeedHungryGala" FALSE FALSE 1417735849
+"71" "540649448511377408" "…my last dying wish is that @walmart gets a click off my story. I will not have died in vain.  #ppcchat" "_kingjosiah_" FALSE FALSE 1417735847
+"72" "540649254541197312" "@GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #UsefulIdiots #Dupes" "CommieCrusherJM" FALSE FALSE 1417735801
+"73" "540649155543044098" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/wMAUIT4cxn" "Darla412" FALSE FALSE 1417735778
+"74" "540649138212581376" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "Fire_Box32" TRUE FALSE 1417735773
+"75" "540649131099033601" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/dFqWJhVTbZ" "saveone83" FALSE FALSE 1417735772
+"76" "540649058030063617" "RT @classymommy: Free Santa Photos @Walmart this Saturday &amp; Sunday 12/6 -12/7 #WMTMoms http://t.co/bOfTANW3CZ" "GrnEydCntryGirl" TRUE FALSE 1417735754
+"77" "540648794015035392" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/D8ynk6trKQ" "CamilleFleur" FALSE FALSE 1417735691
+"78" "540648613337391104" "RT @DealsCollege: #New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas #rt http:/…" "get_ur_freebies" TRUE FALSE 1417735648
+"79" "540648540033540096" "@AKATheMaskedMan gem at @Walmart http://t.co/enHCMVtZmY" "TheRealGutboy" FALSE FALSE 1417735631
+"80" "540648380431466497" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/lZNrYMjMp5" "cdkeen1977" FALSE FALSE 1417735593
+"81" "540648299317821440" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/yz7UZnOkay" "alloalba" FALSE FALSE 1417735573
+"82" "540648243697557504" "@baronhobo @Walmart it took me a few tries, but I FINALLY found someone who helped me..." "s_a_pitts" FALSE FALSE 1417735560
+"83" "540648240639508480" "finally got my iBuyPower PC from @Walmart and @iBUYPOWER. It's so sick I love it." "Geremy_Chandler" FALSE FALSE 1417735559
+"84" "540648072272183296" "Ummmm standing further back I had to do a double take at what kind of cookies these were @Walmart… http://t.co/yh2ZXql9SH" "Rob_Purvis" FALSE FALSE 1417735519
+"85" "540647985898459137" "@Walmart Oh the sounds of silence... I guess this is the level of customer service I can expect from @Walmart" "bignater70" FALSE FALSE 1417735499
+"86" "540647768348303361" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "MovieFreak89" TRUE FALSE 1417735447
+"87" "540647727596830721" "Want a better plan? Unlimited text, talk &amp; 3GB of data 4 just $45.00! #StraightTalkWireless @Walmart #ad http://t.co/6hPWISLSZw #RT" "Shawn_UOMeTen" FALSE FALSE 1417735437
+"88" "540647682797469696" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "toofabtorehab" TRUE FALSE 1417735426
+"89" "540647638623080448" "@Walmart's \"more registers\" policy is only good from 1-5. Leaving us after-work shoppers to wait in long lines. #GeeThanks" "Studio3d6" FALSE FALSE 1417735416
+"90" "540647357503643648" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "bradschmity" TRUE FALSE 1417735349
+"91" "540647302990282752" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/iIDaI3OXXV" "CouponingLSB" FALSE FALSE 1417735336
+"92" "540647284346978304" "RT @missmayim: Breaking... Joaquin Phoenix &amp; @MercyForAnimals expose animal cruelty at @Walmart pork supplier. Help end this: http://t.co/S…" "AngeTra" TRUE FALSE 1417735331
+"93" "540647130268831745" "RT @grouchyhugz: Head on over to @Walmart to get a #Minion Stuart from @DespicableMe today! #ad http://t.co/wcT650OijN" "stephanie_1959" TRUE FALSE 1417735295
+"94" "540646993823944704" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "hellomarlo" TRUE FALSE 1417735262
+"95" "540646978288226304" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "alexmk" TRUE FALSE 1417735259
+"96" "540646900383236096" "''@MaryJBlige 's London therapy session http://t.co/UmhkpGiSUu #OutNow #GetIt @iTunesMusic @Walmart @Target @BestBuy" "JustinHarris411" FALSE FALSE 1417735240
+"97" "540646854581428226" "#Save $1 @Walmart on new heat&amp;eat #PostGoodness Breakfast Bowls! Mmm bacon &amp;oats! #coupon: http://t.co/p3kP56PjYy #ad http://t.co/j1YXW0tTnx" "ChroniclesCardi" FALSE FALSE 1417735229
+"98" "540646719470727168" "The one place were you find the most real people you'll ever meat, Walmart!! @Walmart" "tfein27" FALSE FALSE 1417735197
+"99" "540646670917070848" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/zoKGfa57b9" "marillion13" FALSE FALSE 1417735185
+"100" "540646664285872128" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "MaryRaymond" TRUE FALSE 1417735184
+"101" "540646663748980737" "RT @CNNMoney: Did you snag any sweet #CyberMondaydeals? @Walmart says it was its best online day ever http://t.co/mi0oKZKW5a http://t.co/gz…" "seahealthmarket" TRUE FALSE 1417735184
+"102" "540646605851217920" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "P_Stacksz" TRUE FALSE 1417735170
+"103" "540646296236097536" "Christmas Shopping @WalMart :)." "MarylandGirl85" FALSE FALSE 1417735096
+"104" "540646210768359425" "RT @PrinceRoyce: Soy El Mismo Deluxe Edition will be out this Monday It includes 2 news songs! @Walmart http://t.co/O9WSrEUI0A" "yeseniha_Gzz" TRUE FALSE 1417735076
+"105" "540645965364203520" "@Walmart Any ideas what I should do now?" "bignater70" FALSE FALSE 1417735017
+"106" "540645264986738690" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "NatsAaron" TRUE FALSE 1417734850
+"107" "540645225626996736" ".@Walmart becomes this holiday season's most efficient advertiser earning 38% share of store visitor traffic. http://t.co/6XxSyrPWaT" "AOLCommunity" FALSE FALSE 1417734841
+"108" "540645225576673280" ".@Walmart becomes this holiday season's most efficient advertiser earning 38% share of store visitor traffic. http://t.co/nLaUWDqSk6" "AOLInterns" FALSE FALSE 1417734841
+"109" "540645220443258880" "Watch out... @Walmart gives out counterfeit $$ http://t.co/MaHEWWnIER #boycottwalmart #walmart #walmartstrikers" "isaac_eastwood" FALSE FALSE 1417734839
+"110" "540645135101755392" "@elliegoulding Ellie please help @MercyForAnimals and Joaquin Phoenix against @Walmart cruelty against pigs http://t.co/zfmiHAPuYU" "thedigitaljoker" FALSE FALSE 1417734819
+"111" "540645110199767040" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "JonLoki51" TRUE FALSE 1417734813
+"112" "540645097218772992" "@Walmart @wal is that an email?" "jessicag271" FALSE FALSE 1417734810
+"113" "540644926136930304" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "RCATablets" TRUE FALSE 1417734769
+"114" "540644896085139456" "Lookie lookie, I found a hookie at @Walmart #PeterPanLive #WOW http://t.co/o3yWJvaXwB" "MrEnt92" FALSE FALSE 1417734762
+"115" "540644885779329024" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "waitinginsanity" TRUE FALSE 1417734760
+"116" "540644826467692544" "If pressured by an online petition to pull a product, would you do so at the expense of your consumers?
+
+@Walmart @Costco @Dell @GameStop" "jkellytwit" FALSE FALSE 1417734745
+"117" "540644760848195585" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/WyCYfY9ZsN" "MeanieStranger" FALSE FALSE 1417734730
+"118" "540644428827082753" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "RScorpious" TRUE FALSE 1417734651
+"119" "540644381947359233" "@Walmart She looks so manly" "JoePianist" FALSE FALSE 1417734640
+"120" "540644250514644992" "No Christmas gifts from @Walmart today. And aren't you glad? http://t.co/kuXtV0NOzF" "ChuckGrantham" FALSE FALSE 1417734608
+"121" "540644199364718592" "RT @MobilityWise: Huge!  @Walmart sees 70% of Thanksgiving traffic from #mobile reflecting the growing role of #smartphones &amp; tablets in th…" "moniesha0" TRUE FALSE 1417734596
+"122" "540644132956692481" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "loveangel412" TRUE FALSE 1417734580
+"123" "540643823399862275" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "boricua222" TRUE FALSE 1417734506
+"124" "540643813052542976" "@Walmart Webster, at the Forney TX store, is awesome! Walked across the store to find an electric cart for my grandmother" "Valentimeline" FALSE FALSE 1417734504
+"125" "540643791405715457" "if you want to use @Walmart site to store,  make sure you factor a 20-30 min wait &amp; that's not because of the holidays ...it's always a wait" "teresa_taylor" FALSE FALSE 1417734499
+"126" "540643782920650752" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "SweeeetLilSuzy" TRUE FALSE 1417734497
+"127" "540643652964343808" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "AshleyKynessaR" TRUE FALSE 1417734466
+"128" "540643340652257280" "RT @AnnamaijaI: Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http:…" "Iservedrinks" TRUE FALSE 1417734391
+"129" "540643182296305664" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "juazzie" TRUE FALSE 1417734353
+"130" "540643140404002816" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "jersyemma" TRUE FALSE 1417734343
+"131" "540643086553317376" ".@Walmart: Up to 20% off clearance laptops online http://t.co/riUScdANoV" "BeFrugal" FALSE FALSE 1417734331
+"132" "540642798987268096" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/6P4Fy1Ojsl" "AnnamaijaI" FALSE FALSE 1417734262
+"133" "540642408199770113" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "ScullyNoreen" TRUE FALSE 1417734169
+"134" "540642304147472384" "RT @ZubaYipYip: Why hasn't @Walmart released the video footage of John Crawford being murdered to his family? Oh yea... #ICantBreathe #Aliv…" "ESTEE_ARIE" TRUE FALSE 1417734144
+"135" "540642160916172801" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "Rachelch35" TRUE FALSE 1417734110
+"136" "540642141521735681" "@s_a_pitts if your @Walmart store still won't match, then call their corporate customer service phone # and complain - with details!" "baronhobo" FALSE FALSE 1417734105
+"137" "540642016036528128" "RT @IowaHell: Still time to #win a $100 @Walmart gift card from @DaisyOutdoor &amp; @SahmReviews! http://t.co/MRE0JKeSNm #contest #sweepstakes …" "profesortbaker" TRUE FALSE 1417734075
+"138" "540641885484638208" ".@MelissaJoanHart &amp; @anthonyanderson behind the scenes of their holiday @Walmart commercial http://t.co/n7KNGzWAXO http://t.co/vzpolw4NWx" "chideo" FALSE FALSE 1417734044
+"139" "540641842488815616" "@s_a_pitts interesting as that's not @Walmart's policy. Have them lookup online SKU # 39443649 (on http://t.co/uQOPIHk0nV)" "baronhobo" FALSE FALSE 1417734034
+"140" "540641817365331968" "#New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas... http://t.co/BP0JJMv2RN" "DealsCollege" FALSE FALSE 1417734028
+"141" "540641773237059584" "@_KateMara @Walmart @MercyForAnimals @elliegoulding Ellie, you should see this !!" "thedigitaljoker" FALSE FALSE 1417734018
+"142" "540641768778510337" "#New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas #rt http://t.co/ZIVVZB3ZoI" "DealsCollege" FALSE FALSE 1417734016
+"143" "540641728689360896" "Shout out to the Niles fucking @Walmart who has had me on hold for twenty god damn minutes" "OhHaiPaigeee" FALSE FALSE 1417734007
+"144" "540641656933199872" "@Walmart do you guys have an IMac?" "queenchinanne" FALSE FALSE 1417733990
+"145" "540641625945669632" "@Walmart no, I was walking to my car when I overheard the conversation." "AshleyTPeterson" FALSE FALSE 1417733982
+"146" "540641383107665920" "I love/hate @Walmart" "Isssaaacc" FALSE FALSE 1417733925
+"147" "540641360164814849" "RT @MercyForAnimals: BREAKING! New MFA undercover video exposes horrific cruelty to pigs for @Walmart pork. http://t.co/h1LWPwcvBb http://t…" "tizztogg" TRUE FALSE 1417733919
+"148" "540641322835537920" "When you go to @Walmart for shaving cream and come out with lays pico de gallo chips smh." "Isssaaacc" FALSE FALSE 1417733910
+"149" "540641259896201216" "@Walmart its a shame that we have to stand this far back to get a prescription for a sick baby! Hire more people!!! http://t.co/Di47Dt444H" "brandi20012" FALSE FALSE 1417733895
+"150" "540641216220495872" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "Migliarrio" TRUE FALSE 1417733885
+"151" "540641147559768064" "Disappointed in @Walmart! The website has NO #ToyStoryThatTimeForgot items...thought it was \"exclusive\"?! #idontgetit" "MrColinDisney" FALSE FALSE 1417733868
+"152" "540641092626944000" "@Walmart Thanks! Got mine! My daughter is going to be thrilled!" "cliopatra" FALSE FALSE 1417733855
+"153" "540641039216676866" "RT @BetterBodyFoods: @amberly_r we sell our coconut oil at coconut oil at @SamsClub @WinCoFoods @BJsWholesale @Walmart #Kroger stores &amp; @am…" "amberly_r" TRUE FALSE 1417733843
+"154" "540640974796365824" "@amberly_r we sell our coconut oil at coconut oil at @SamsClub @WinCoFoods @BJsWholesale @Walmart #Kroger stores &amp; @amazon" "BetterBodyFoods" FALSE FALSE 1417733827
+"155" "540640915480522752" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "danita_dewey" TRUE FALSE 1417733813
+"156" "540640766649831425" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/AH3zISPaTo" "BaroqueSpace" FALSE FALSE 1417733778
+"157" "540640742239404032" "Have you told #Santa what you want for #Xmas? Come meet Santa at the Plainfield @Walmart with #theMix and @CocaCola! http://t.co/IDpnM9zJWV" "IndysMix" FALSE FALSE 1417733772
+"158" "540640721406291968" "@Walmart your site to store system is broken. Disorganized,makes it hard on these hardworking associates (whom are doing a great job!)" "jessicag271" FALSE FALSE 1417733767
+"159" "540640586609733632" "Dear @Walmart if I die waiting in the online pick up line please sprinkle my ashes over the Harry Potter books" "MaeghanCoco" FALSE FALSE 1417733735
+"160" "540640568724836352" "RT @leonalewis: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! http:/…" "danita_dewey" TRUE FALSE 1417733730
+"161" "540640523283742720" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Buddy2Blogger" TRUE FALSE 1417733720
+"162" "540640489503195136" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "amylwaz" TRUE FALSE 1417733711
+"163" "540640449359134721" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/M7ry45AZDO" "DrSMRobertsPhD" FALSE FALSE 1417733702
+"164" "540640342421151744" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "Buddy2Blogger" TRUE FALSE 1417733676
+"165" "540640330572238848" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "Buddy2Blogger" TRUE FALSE 1417733674
+"166" "540640313602084864" "RT @leonalewis: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! http:/…" "Buddy2Blogger" TRUE FALSE 1417733670
+"167" "540640300314931202" "RT @JVM: BREAKING Joaquin Phoenix &amp; @MercyForAnimals alleged animal cruelty at @Walmart pork supplier. Watch video &amp; decide. http://t.co/H8…" "Buddy2Blogger" TRUE FALSE 1417733666
+"168" "540640285835812864" "@Walmart I'll remember for next time! #stillwaiting" "SuperStartini" FALSE FALSE 1417733663
+"169" "540640206785753088" "RT @emilydeschanel: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch! h…" "danita_dewey" TRUE FALSE 1417733644
+"170" "540640115102875648" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "SusanGrainger1" TRUE FALSE 1417733622
+"171" "540640082038775808" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/I4TyPZgSVR" "Jonnymovgamer" FALSE FALSE 1417733614
+"172" "540640070508630016" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "danita_dewey" TRUE FALSE 1417733612
+"173" "540639903478845440" "RT @Walmart: Today only, get My Little Pony for its 1983 price: just $5 on http://t.co/LFkX5xu6FW! #TBT http://t.co/VJpQ1C33di http://t.co/…" "ericrileybrown" TRUE FALSE 1417733572
+"174" "540639868746227712" "@Walmart Tried that and they sent me to the store... The store said they can't help, so what do I do now?" "bignater70" FALSE FALSE 1417733563
+"175" "540639814429986816" "Thank you to @Walmart for having extra lanes open this time of year. #inandout" "jjcook24" FALSE FALSE 1417733551
+"176" "540639810751197184" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "grogreena" TRUE FALSE 1417733550
+"177" "540639809421574144" "Stock up your goodies at @DollarTree and @Walmart will take care of the rest. This will help improve both experience. http://t.co/gYBdbvWWWf" "ericrileybrown" FALSE FALSE 1417733549
+"178" "540639659919802368" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "5sosdirectixn" TRUE FALSE 1417733514
+"179" "540639631058804736" "@DollarTree and @Walmart have the same mono to help customers SAVE MONEY! LIVE BETTER. Combination shopping helps. http://t.co/2CtFq5iIUC" "ericrileybrown" FALSE FALSE 1417733507
+"180" "540639421616230400" "@DollarTree has small bottles of @CocaCola and @pepsi but no Dr. Pepper. @Walmart has 2 Liters of Dr. Pepper! TYK http://t.co/ihUOpYIREj" "ericrileybrown" FALSE FALSE 1417733457
+"181" "540639282416066560" "Over 40% of execs in this CROSSMARK-sponsored study believe @Walmart has the most viable long-term strategy. http://t.co/JPdyC3pOlK" "CROSSMARKInc" FALSE FALSE 1417733424
+"182" "540639121358589952" "@MercyForAnimals @Walmart @FDA_Drug_Info @GovChristie #GoVeg Thanks to all, especially big fan of @PamelaDAnderson long time activism!" "SalleyRick" FALSE FALSE 1417733385
+"183" "540639042795081728" "@Walmart ...still waiting! Hopefully my whole order is here for my nephew. I should have shipped to my house but it wasn't free." "SuperStartini" FALSE FALSE 1417733367
+"184" "540638985098629120" "“@10TV: Playing Santa: Anonymous donor pays for $15K worth of children's toys put on layaway at Ohio @Walmart - http://t.co/esCBWOkTpR”" "magnificentdap" FALSE FALSE 1417733353
+"185" "540638239338811392" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "_ConorNY" TRUE FALSE 1417733175
+"186" "540638093481885696" "Going to @Walmart is the definition of insanity.  Never enough lines open#preparetowait" "smay32" FALSE FALSE 1417733140
+"187" "540638056588791808" "@Walmart China restructures operations http://t.co/lT6Ft8BHOn" "BertoliniAnna" FALSE FALSE 1417733131
+"188" "540637937655103488" "RT @KdaleNC: A free shuttle is available for the Knightdale Christmas parade this Saturday. Picks up at @walmart http://t.co/KiUW4Z0trM" "KdaleParks" TRUE FALSE 1417733103
+"189" "540637699569643520" "RT @jackfowler: 17 good reasons why I am heading to @Walmart tonight. Thanks @bennyjohnson for the eye-opener http://t.co/okH4kTQWNA" "JaeOnasi" TRUE FALSE 1417733046
+"190" "540637679214673920" "My local @Walmart is FINALLY carrying organic apples...About time! " "thepyreflies" FALSE FALSE 1417733041
+"191" "540637593655078912" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/hSLvJwXF2w" "sumwin10" FALSE FALSE 1417733021
+"192" "540637497471279104" "@Walmart All I want for Christmas is for Walmart CEO's to stop condoning the animal cruelty that they buy and sell #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732998
+"193" "540637489778548737" "RT @secretlee_:        
+.@Walmart #Pork Suppliers Use #GestationCrates.
+Sign Petition: http://t.co/X03pnTp4ET  #AnimalCruelty http:…" "JewelNature" TRUE FALSE 1417732996
+"194" "540637484510482435" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "Arkeenta" TRUE FALSE 1417732995
+"195" "540637102065463296" "RT @Nataliekitro: Harrowing @mercyforanimals video accuses @Walmart of condoning pig torture, my bit w. @robertmackey http://t.co/zIZmkjnvFP" "TatankaMc" TRUE FALSE 1417732904
+"196" "540637056268251136" "@Walmart pigs are the 4th smartest animals on the planet including humans! #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732893
+"197" "540636943143276544" "RT @shimsher: @aplusk this pig farm supplies @Walmart for all their pork products. wee bit more torture on already exploited lives. http://…" "TatankaMc" TRUE FALSE 1417732866
+"198" "540636930883330048" "RT @Kayweethatsme: @TysonFoods http://t.co/SGXtlKhDfD
+@Walmart Never again purchasing Tyson products after seeing that. #tyson #walmart #pi…" "TatankaMc" TRUE FALSE 1417732863
+"199" "540636870326374400" "@Walmart i'm disgusted with the way you treat the pigs you sell at your companies  #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732849
+"200" "540636862155862016" "@DestinHarvest is in the running for $20,000 from @Walmart's Food Pantry Holiday Makeover. http://t.co/H2sE3QuIC0" "DestinLog" FALSE FALSE 1417732847
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "540656683153104897" "@Walmart Walmart #: 553107202 The 4th image which is a lens shows an \"IS\" lens,the one received is not an \"IS\" lens. Makes a HUGE difference" "bignater70" FALSE FALSE 1417737572
+"2" "540656651087667200" "RT @lilbrownpolgirl: @Walmart I've been on hold for 44 min about stuff we ordered that was suppose to be here today,but isn't. YOU'RE TERRI…" "URC_Bob" TRUE FALSE 1417737565
+"3" "540656647128231936" "This is awful, @WalMart. Get rid of this category. http://t.co/HqDIVBKDvE #gender #stereotype #toys #kids http://t.co/Mz2GnoKQ4E" "amandalea_b" FALSE FALSE 1417737564
+"4" "540656610549706752" "@Walmart It all worked out. Thank you." "manamitru" FALSE FALSE 1417737555
+"5" "540656545089220608" "- @Walmart supporting HORRIFIC pig treatment (again) http://t.co/efTNzX4QWH via @_AnimalAdvocate http://t.co/s0eNnv74JH" "Tequila_Club__" FALSE FALSE 1417737539
+"6" "540656443461206016" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "SocialSniper2" TRUE FALSE 1417737515
+"7" "540656107208052736" "RT @Walmart: @Isssaaacc How can we help you with your holiday shopping? Please give us another try. -Inge" "Isssaaacc" TRUE FALSE 1417737435
+"8" "540656065030160384" "@ddlovato  Can you please help @MercyForAnimals and Joaquin Phoenix against @Walmart cruelty with pigs ??http://t.co/Kxw2xwMROj" "thedigitaljoker" FALSE FALSE 1417737425
+"9" "540656035229233152" "RT @emilydeschanel: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch! h…" "lauracscaffidi" TRUE FALSE 1417737418
+"10" "540655917113827328" "Want a better plan? Unlimited text, talk and 3GB of data 4 just $45! #StraightTalkWireless @Walmart #ad http://t.co/6hPWISLSZw RT" "Shawn_UOMeTen" FALSE FALSE 1417737390
+"11" "540655830123945984" "RT @maryjblige: #TheLondonSessions is also at @Walmart with a different cover! You can grab your copy here http://t.co/S8pau4GXL4 http://t.…" "shemeher_jazz" TRUE FALSE 1417737369
+"12" "540655682094379008" "Meanwhile... @Walmart Supercenter  Cindy  @rmxdesigns (@ Walmart Supercenter) https://t.co/OSWuV0Ierh http://t.co/1glioeUDrm" "SoBeLIVE" FALSE FALSE 1417737334
+"13" "540655609465798656" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "chefwellness" TRUE FALSE 1417737316
+"14" "540655362362601472" "#LRT It was innocuous honestly but I can appreciate @Walmart taking the commercial down in light of the recent incident and case findings." "toure_burr" FALSE FALSE 1417737257
+"15" "540655313700278272" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "Betty_Winstead1" TRUE FALSE 1417737246
+"16" "540655301716754434" "RT @MomsWhoSave: Go online @Walmart for tips &amp; tricks from Crest @3DWhite for a brighter smile &amp; your best holiday photo #beauty  #ad http:…" "SusieQpon" TRUE FALSE 1417737243
+"17" "540655218674139136" "@thelittleidiot @KirstenHenry @Walmart @MercyForAnimals oh my God that was fucking disturbing how can we humans be so cruel God help us" "Becool088" FALSE FALSE 1417737223
+"18" "540655216379830272" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "mommy3sons" TRUE FALSE 1417737223
+"19" "540655018303836162" "This is disgusting @Walmart http://t.co/F9iHAKLYmI" "JackECheng" FALSE FALSE 1417737175
+"20" "540654301308153856" "RT @CommieCrusherJM: @GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #…" "truckerbooman" TRUE FALSE 1417737004
+"21" "540654278764150784" "I'm returning something @Walmart there may be a small country on line with me. " "manamitru" FALSE FALSE 1417736999
+"22" "540654119611289600" "@Walmart where's my Xbox one you said it'd be here by today and it's not" "SamuelV101" FALSE FALSE 1417736961
+"23" "540653854153781248" "@Walmart stop showing the elsa castle commercial.  U havent had in stock in weeks &amp; daughter cries she wants it every time she sees your ad" "T_Szczodrowski" FALSE FALSE 1417736898
+"24" "540653798663139328" "None of these stores, @Walmart @Kmart OR @Target, peddles anything &gt; 60Hz TVs... because Happy Holidays, 'Merica!
+#DontWasteYourMoney" "NonMotivated" FALSE FALSE 1417736885
+"25" "540653777993629697" "Fuck you, @Walmart. Giving in to these sensitive pussies. No backbone. You can't say \"I Can't Breathe\"? Seriously, fuck you. #ICantBreathe" "MisterOffensive" FALSE FALSE 1417736880
+"26" "540653701296574464" "@Walmart you're lucky you had it this time @onedirection  http://t.co/RIzgYNO93Y" "mericaidiot" FALSE FALSE 1417736861
+"27" "540653630043729920" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Zilla_Mon" TRUE FALSE 1417736844
+"28" "540653467938070529" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "BlannKate" TRUE FALSE 1417736806
+"29" "540653352133332992" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "ruth1722" TRUE FALSE 1417736778
+"30" "540653282415243264" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/ONg2vo6ajb" "MichelleBrione7" FALSE FALSE 1417736762
+"31" "540653050516758529" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "txgreekgirl72" TRUE FALSE 1417736706
+"32" "540652992005824513" "RT @Walmart: Today only, get My Little Pony for its 1983 price: just $5 on http://t.co/LFkX5xu6FW! #TBT http://t.co/VJpQ1C33di http://t.co/…" "tammie326" TRUE FALSE 1417736692
+"33" "540652847525019649" "@Walmart only 5 knots in this bag of 8 tonight made for a testy dinner table...#dinnerfail http://t.co/c4N0753Fjg" "gte762e" FALSE FALSE 1417736658
+"34" "540652822547550211" "@Rayfyst usually when I berate companies on twitter I like to tweet at them using their handle. @Walmart should personally hear your woes." "WarnUsGaming" FALSE FALSE 1417736652
+"35" "540652797390106624" "RT @ChuckGrantham No Christmas gifts from @Walmart today. And aren't you glad? http://t.co/R8Cw7TwbWJ:" "theologybot" FALSE FALSE 1417736646
+"36" "540652621355548673" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MacDazzla" TRUE FALSE 1417736604
+"37" "540652586940919808" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MirkaMaarit" TRUE FALSE 1417736596
+"38" "540652377401864193" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/H9Ttk70tb4" "GloriaL" FALSE FALSE 1417736546
+"39" "540652281956696065" ".@Walmart to host its largest in-store demo event with food tastings, free photos with Santa, more at select stores. Sat Dec 6 10a to 2p" "krollcallshow" FALSE FALSE 1417736523
+"40" "540652220732026880" "RT @chideo: .@MelissaJoanHart &amp; @anthonyanderson behind the scenes of their holiday @Walmart commercial http://t.co/n7KNGzWAXO http://t.co/…" "SBLACommunity" TRUE FALSE 1417736508
+"41" "540652208841187328" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/xNKLvu5nie" "sweepcoupon" FALSE FALSE 1417736506
+"42" "540652205582192640" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MagneticMiMi" TRUE FALSE 1417736505
+"43" "540652148225105922" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "PulpJane" TRUE FALSE 1417736491
+"44" "540652055602294785" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MagneticMi" TRUE FALSE 1417736469
+"45" "540651945653174272" "@KinderFynes @WalmartCanada @SuzanneAxelsson US Walmart @Walmart web site has nothing about gender in its 'specifications' of this product" "cashjim" FALSE FALSE 1417736443
+"46" "540651844754612224" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Ajeya_News" TRUE FALSE 1417736419
+"47" "540651769814990848" "RT @Isssaaacc: I love/hate @Walmart" "Lily_Arango" TRUE FALSE 1417736401
+"48" "540651689015914496" "RT @PrinceRoyce: Soy El Mismo Deluxe Edition will be out this Monday It includes 2 news songs! @Walmart http://t.co/O9WSrEUI0A" "AlondraCazarezV" TRUE FALSE 1417736382
+"49" "540651662033952769" "@makaylarose23 You can find some food at your local @walmart" "d1_jon559" FALSE FALSE 1417736375
+"50" "540651582489382912" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "KirstenHenry" TRUE FALSE 1417736356
+"51" "540651542462754816" "@Walmart Called online customer service, they said they would ship the same thing again, so I went to a store, and they didn't help either" "bignater70" FALSE FALSE 1417736347
+"52" "540651355631656960" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "DianeShears" TRUE FALSE 1417736302
+"53" "540651279651831808" "RT @SpinMasterToys: #DigiBirdsChat They're available at @Target (http://t.co/4osqQlMfZM), @ToysRUs (http://t.co/tfcTvdy3fT), @Walmart (http…" "MelissaTippie" TRUE FALSE 1417736284
+"54" "540651271468752896" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "MrCoolLooking75" TRUE FALSE 1417736282
+"55" "540651147199922176" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/4XBc7ky44F" "mishlovesj" FALSE FALSE 1417736252
+"56" "540651074638467072" "Play #SearchandSeek tonight during #PeterPanLive and keep your eyes peeled for the @Walmart commercial featuring @RazorWorldwide! " "Front_Row_Media" FALSE FALSE 1417736235
+"57" "540650900197363712" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/S2qxF2QM19" "gabdarez" FALSE FALSE 1417736194
+"58" "540650750964408320" "Although I am upset I can't stop laughing at how dumb that @walmart policy is.  Shame on me for trying to shop at Walmart anyway. My fault" "gstate55" FALSE FALSE 1417736158
+"59" "540650653878468611" "@thelittleidiot @Walmart @MercyForAnimals @elliegoulding Ellie, you should see this" "thedigitaljoker" FALSE FALSE 1417736135
+"60" "540650569015517184" "FREE PICTURE WITH #SANTA @Walmart 
+http://t.co/98smVmOeEz
+#Kids #photos #holidayseason #Christmas #family #moms #dads http://t.co/7rLpNNAm6R" "StackingCoinss" FALSE FALSE 1417736115
+"61" "540650483010912257" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/Jr5wcSPAVM" "anitamitchell32" FALSE FALSE 1417736094
+"62" "540650312080445441" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "Front_Row_Media" TRUE FALSE 1417736053
+"63" "540650217909923841" "RT @TheTipToeFairy: AD: Head to @Walmart  to check out your favorite @DespicableMe #Minion like Bee-Do Fireman!! http://t.co/GNchaiVnYl" "BabyLovingMama" TRUE FALSE 1417736031
+"64" "540650000452034561" "RT @RazorWorldwide: Tune in TONIGHT #PeterPanLive &amp; find the Razor Ride @Walmart ‘s #NeverGrowUp ad! TONIGHT 8/7 Central." "Front_Row_Media" TRUE FALSE 1417735979
+"65" "540649773339250690" "@Walmart store I was just at:
+Mgr: Sir we will price match with any store as long as you have paper ad but we won't match w/Walmart.com LOL!" "gstate55" FALSE FALSE 1417735925
+"66" "540649716422176768" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "NathanRunkle" TRUE FALSE 1417735911
+"67" "540649526785093633" "Join me tonight as I'll be live tweeting during #PeterPanLive thanks to @Walmart and @NBC! http://t.co/nblju4SfkG http://t.co/bdvV0ru09v" "AFrugalFriend" FALSE FALSE 1417735866
+"68" "540649479125204992" "@Walmart Thank you for responding, I felt lost! I purchased an item, the picture online shows something different than what I received." "bignater70" FALSE FALSE 1417735855
+"69" "540649455624941568" "PRESENTING level sponsors: @ArbellaIns @Walmart We are so lucky to have the support of such wonderful companies. We cannot thank you enough!" "FeedHungryGala" FALSE FALSE 1417735849
+"70" "540649448511377408" "…my last dying wish is that @walmart gets a click off my story. I will not have died in vain.  #ppcchat" "_kingjosiah_" FALSE FALSE 1417735847
+"71" "540649254541197312" "@GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #UsefulIdiots #Dupes" "CommieCrusherJM" FALSE FALSE 1417735801
+"72" "540649155543044098" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/wMAUIT4cxn" "Darla412" FALSE FALSE 1417735778
+"73" "540649138212581376" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "Fire_Box32" TRUE FALSE 1417735773
+"74" "540649131099033601" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/dFqWJhVTbZ" "saveone83" FALSE FALSE 1417735772
+"75" "540649058030063617" "RT @classymommy: Free Santa Photos @Walmart this Saturday &amp; Sunday 12/6 -12/7 #WMTMoms http://t.co/bOfTANW3CZ" "GrnEydCntryGirl" TRUE FALSE 1417735754
+"76" "540648794015035392" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/D8ynk6trKQ" "CamilleFleur" FALSE FALSE 1417735691
+"77" "540648613337391104" "RT @DealsCollege: #New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas #rt http:/…" "get_ur_freebies" TRUE FALSE 1417735648
+"78" "540648540033540096" "@AKATheMaskedMan gem at @Walmart http://t.co/enHCMVtZmY" "TheRealGutboy" FALSE FALSE 1417735631
+"79" "540648380431466497" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/lZNrYMjMp5" "cdkeen1977" FALSE FALSE 1417735593
+"80" "540648299317821440" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/yz7UZnOkay" "alloalba" FALSE FALSE 1417735573
+"81" "540648243697557504" "@baronhobo @Walmart it took me a few tries, but I FINALLY found someone who helped me..." "s_a_pitts" FALSE FALSE 1417735560
+"82" "540648240639508480" "finally got my iBuyPower PC from @Walmart and @iBUYPOWER. It's so sick I love it." "Geremy_Chandler" FALSE FALSE 1417735559
+"83" "540648072272183296" "Ummmm standing further back I had to do a double take at what kind of cookies these were @Walmart… http://t.co/yh2ZXql9SH" "Rob_Purvis" FALSE FALSE 1417735519
+"84" "540647985898459137" "@Walmart Oh the sounds of silence... I guess this is the level of customer service I can expect from @Walmart" "bignater70" FALSE FALSE 1417735499
+"85" "540647768348303361" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "MovieFreak89" TRUE FALSE 1417735447
+"86" "540647727596830721" "Want a better plan? Unlimited text, talk &amp; 3GB of data 4 just $45.00! #StraightTalkWireless @Walmart #ad http://t.co/6hPWISLSZw #RT" "Shawn_UOMeTen" FALSE FALSE 1417735437
+"87" "540647682797469696" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "toofabtorehab" TRUE FALSE 1417735426
+"88" "540647638623080448" "@Walmart's \"more registers\" policy is only good from 1-5. Leaving us after-work shoppers to wait in long lines. #GeeThanks" "Studio3d6" FALSE FALSE 1417735416
+"89" "540647357503643648" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "bradschmity" TRUE FALSE 1417735349
+"90" "540647302990282752" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/iIDaI3OXXV" "CouponingLSB" FALSE FALSE 1417735336
+"91" "540647284346978304" "RT @missmayim: Breaking... Joaquin Phoenix &amp; @MercyForAnimals expose animal cruelty at @Walmart pork supplier. Help end this: http://t.co/S…" "AngeTra" TRUE FALSE 1417735331
+"92" "540647130268831745" "RT @grouchyhugz: Head on over to @Walmart to get a #Minion Stuart from @DespicableMe today! #ad http://t.co/wcT650OijN" "stephanie_1959" TRUE FALSE 1417735295
+"93" "540646993823944704" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "hellomarlo" TRUE FALSE 1417735262
+"94" "540646978288226304" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "alexmk" TRUE FALSE 1417735259
+"95" "540646900383236096" "''@MaryJBlige 's London therapy session http://t.co/UmhkpGiSUu #OutNow #GetIt @iTunesMusic @Walmart @Target @BestBuy" "JustinHarris411" FALSE FALSE 1417735240
+"96" "540646854581428226" "#Save $1 @Walmart on new heat&amp;eat #PostGoodness Breakfast Bowls! Mmm bacon &amp;oats! #coupon: http://t.co/p3kP56PjYy #ad http://t.co/j1YXW0tTnx" "ChroniclesCardi" FALSE FALSE 1417735229
+"97" "540646719470727168" "The one place were you find the most real people you'll ever meat, Walmart!! @Walmart" "tfein27" FALSE FALSE 1417735197
+"98" "540646670917070848" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/zoKGfa57b9" "marillion13" FALSE FALSE 1417735185
+"99" "540646664285872128" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "MaryRaymond" TRUE FALSE 1417735184
+"100" "540646663748980737" "RT @CNNMoney: Did you snag any sweet #CyberMondaydeals? @Walmart says it was its best online day ever http://t.co/mi0oKZKW5a http://t.co/gz…" "seahealthmarket" TRUE FALSE 1417735184
+"101" "540646605851217920" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "P_Stacksz" TRUE FALSE 1417735170
+"102" "540646296236097536" "Christmas Shopping @WalMart :)." "MarylandGirl85" FALSE FALSE 1417735096
+"103" "540646210768359425" "RT @PrinceRoyce: Soy El Mismo Deluxe Edition will be out this Monday It includes 2 news songs! @Walmart http://t.co/O9WSrEUI0A" "yeseniha_Gzz" TRUE FALSE 1417735076
+"104" "540645965364203520" "@Walmart Any ideas what I should do now?" "bignater70" FALSE FALSE 1417735017
+"105" "540645264986738690" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "NatsAaron" TRUE FALSE 1417734850
+"106" "540645225626996736" ".@Walmart becomes this holiday season's most efficient advertiser earning 38% share of store visitor traffic. http://t.co/6XxSyrPWaT" "AOLCommunity" FALSE FALSE 1417734841
+"107" "540645225576673280" ".@Walmart becomes this holiday season's most efficient advertiser earning 38% share of store visitor traffic. http://t.co/nLaUWDqSk6" "AOLInterns" FALSE FALSE 1417734841
+"108" "540645220443258880" "Watch out... @Walmart gives out counterfeit $$ http://t.co/MaHEWWnIER #boycottwalmart #walmart #walmartstrikers" "isaac_eastwood" FALSE FALSE 1417734839
+"109" "540645135101755392" "@elliegoulding Ellie please help @MercyForAnimals and Joaquin Phoenix against @Walmart cruelty against pigs http://t.co/zfmiHAPuYU" "thedigitaljoker" FALSE FALSE 1417734819
+"110" "540645110199767040" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "JonLoki51" TRUE FALSE 1417734813
+"111" "540645097218772992" "@Walmart @wal is that an email?" "jessicag271" FALSE FALSE 1417734810
+"112" "540644926136930304" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "RCATablets" TRUE FALSE 1417734769
+"113" "540644896085139456" "Lookie lookie, I found a hookie at @Walmart #PeterPanLive #WOW http://t.co/o3yWJvaXwB" "MrEnt92" FALSE FALSE 1417734762
+"114" "540644885779329024" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "waitinginsanity" TRUE FALSE 1417734760
+"115" "540644826467692544" "If pressured by an online petition to pull a product, would you do so at the expense of your consumers?
+
+@Walmart @Costco @Dell @GameStop" "jkellytwit" FALSE FALSE 1417734745
+"116" "540644760848195585" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/WyCYfY9ZsN" "MeanieStranger" FALSE FALSE 1417734730
+"117" "540644428827082753" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "RScorpious" TRUE FALSE 1417734651
+"118" "540644381947359233" "@Walmart She looks so manly" "JoePianist" FALSE FALSE 1417734640
+"119" "540644250514644992" "No Christmas gifts from @Walmart today. And aren't you glad? http://t.co/kuXtV0NOzF" "ChuckGrantham" FALSE FALSE 1417734608
+"120" "540644199364718592" "RT @MobilityWise: Huge!  @Walmart sees 70% of Thanksgiving traffic from #mobile reflecting the growing role of #smartphones &amp; tablets in th…" "moniesha0" TRUE FALSE 1417734596
+"121" "540644132956692481" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "loveangel412" TRUE FALSE 1417734580
+"122" "540643823399862275" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "boricua222" TRUE FALSE 1417734506
+"123" "540643813052542976" "@Walmart Webster, at the Forney TX store, is awesome! Walked across the store to find an electric cart for my grandmother" "Valentimeline" FALSE FALSE 1417734504
+"124" "540643791405715457" "if you want to use @Walmart site to store,  make sure you factor a 20-30 min wait &amp; that's not because of the holidays ...it's always a wait" "teresa_taylor" FALSE FALSE 1417734499
+"125" "540643782920650752" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "SweeeetLilSuzy" TRUE FALSE 1417734497
+"126" "540643652964343808" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "AshleyKynessaR" TRUE FALSE 1417734466
+"127" "540643340652257280" "RT @AnnamaijaI: Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http:…" "Iservedrinks" TRUE FALSE 1417734391
+"128" "540643182296305664" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "juazzie" TRUE FALSE 1417734353
+"129" "540643140404002816" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "jersyemma" TRUE FALSE 1417734343
+"130" "540643086553317376" ".@Walmart: Up to 20% off clearance laptops online http://t.co/riUScdANoV" "BeFrugal" FALSE FALSE 1417734331
+"131" "540642798987268096" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/6P4Fy1Ojsl" "AnnamaijaI" FALSE FALSE 1417734262
+"132" "540642408199770113" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "ScullyNoreen" TRUE FALSE 1417734169
+"133" "540642304147472384" "RT @ZubaYipYip: Why hasn't @Walmart released the video footage of John Crawford being murdered to his family? Oh yea... #ICantBreathe #Aliv…" "ESTEE_ARIE" TRUE FALSE 1417734144
+"134" "540642160916172801" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "Rachelch35" TRUE FALSE 1417734110
+"135" "540642141521735681" "@s_a_pitts if your @Walmart store still won't match, then call their corporate customer service phone # and complain - with details!" "baronhobo" FALSE FALSE 1417734105
+"136" "540642016036528128" "RT @IowaHell: Still time to #win a $100 @Walmart gift card from @DaisyOutdoor &amp; @SahmReviews! http://t.co/MRE0JKeSNm #contest #sweepstakes …" "profesortbaker" TRUE FALSE 1417734075
+"137" "540641885484638208" ".@MelissaJoanHart &amp; @anthonyanderson behind the scenes of their holiday @Walmart commercial http://t.co/n7KNGzWAXO http://t.co/vzpolw4NWx" "chideo" FALSE FALSE 1417734044
+"138" "540641842488815616" "@s_a_pitts interesting as that's not @Walmart's policy. Have them lookup online SKU # 39443649 (on http://t.co/uQOPIHk0nV)" "baronhobo" FALSE FALSE 1417734034
+"139" "540641817365331968" "#New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas... http://t.co/BP0JJMv2RN" "DealsCollege" FALSE FALSE 1417734028
+"140" "540641773237059584" "@_KateMara @Walmart @MercyForAnimals @elliegoulding Ellie, you should see this !!" "thedigitaljoker" FALSE FALSE 1417734018
+"141" "540641768778510337" "#New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas #rt http://t.co/ZIVVZB3ZoI" "DealsCollege" FALSE FALSE 1417734016
+"142" "540641728689360896" "Shout out to the Niles fucking @Walmart who has had me on hold for twenty god damn minutes" "OhHaiPaigeee" FALSE FALSE 1417734007
+"143" "540641656933199872" "@Walmart do you guys have an IMac?" "queenchinanne" FALSE FALSE 1417733990
+"144" "540641625945669632" "@Walmart no, I was walking to my car when I overheard the conversation." "AshleyTPeterson" FALSE FALSE 1417733982
+"145" "540641383107665920" "I love/hate @Walmart" "Isssaaacc" FALSE FALSE 1417733925
+"146" "540641360164814849" "RT @MercyForAnimals: BREAKING! New MFA undercover video exposes horrific cruelty to pigs for @Walmart pork. http://t.co/h1LWPwcvBb http://t…" "tizztogg" TRUE FALSE 1417733919
+"147" "540641322835537920" "When you go to @Walmart for shaving cream and come out with lays pico de gallo chips smh." "Isssaaacc" FALSE FALSE 1417733910
+"148" "540641259896201216" "@Walmart its a shame that we have to stand this far back to get a prescription for a sick baby! Hire more people!!! http://t.co/Di47Dt444H" "brandi20012" FALSE FALSE 1417733895
+"149" "540641216220495872" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "Migliarrio" TRUE FALSE 1417733885
+"150" "540641147559768064" "Disappointed in @Walmart! The website has NO #ToyStoryThatTimeForgot items...thought it was \"exclusive\"?! #idontgetit" "MrColinDisney" FALSE FALSE 1417733868
+"151" "540641092626944000" "@Walmart Thanks! Got mine! My daughter is going to be thrilled!" "cliopatra" FALSE FALSE 1417733855
+"152" "540641039216676866" "RT @BetterBodyFoods: @amberly_r we sell our coconut oil at coconut oil at @SamsClub @WinCoFoods @BJsWholesale @Walmart #Kroger stores &amp; @am…" "amberly_r" TRUE FALSE 1417733843
+"153" "540640974796365824" "@amberly_r we sell our coconut oil at coconut oil at @SamsClub @WinCoFoods @BJsWholesale @Walmart #Kroger stores &amp; @amazon" "BetterBodyFoods" FALSE FALSE 1417733827
+"154" "540640915480522752" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "danita_dewey" TRUE FALSE 1417733813
+"155" "540640766649831425" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/AH3zISPaTo" "BaroqueSpace" FALSE FALSE 1417733778
+"156" "540640742239404032" "Have you told #Santa what you want for #Xmas? Come meet Santa at the Plainfield @Walmart with #theMix and @CocaCola! http://t.co/IDpnM9zJWV" "IndysMix" FALSE FALSE 1417733772
+"157" "540640721406291968" "@Walmart your site to store system is broken. Disorganized,makes it hard on these hardworking associates (whom are doing a great job!)" "jessicag271" FALSE FALSE 1417733767
+"158" "540640586609733632" "Dear @Walmart if I die waiting in the online pick up line please sprinkle my ashes over the Harry Potter books" "MaeghanCoco" FALSE FALSE 1417733735
+"159" "540640568724836352" "RT @leonalewis: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! http:/…" "danita_dewey" TRUE FALSE 1417733730
+"160" "540640523283742720" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Buddy2Blogger" TRUE FALSE 1417733720
+"161" "540640489503195136" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "amylwaz" TRUE FALSE 1417733711
+"162" "540640449359134721" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/M7ry45AZDO" "DrSMRobertsPhD" FALSE FALSE 1417733702
+"163" "540640342421151744" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "Buddy2Blogger" TRUE FALSE 1417733676
+"164" "540640330572238848" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "Buddy2Blogger" TRUE FALSE 1417733674
+"165" "540640313602084864" "RT @leonalewis: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! http:/…" "Buddy2Blogger" TRUE FALSE 1417733670
+"166" "540640300314931202" "RT @JVM: BREAKING Joaquin Phoenix &amp; @MercyForAnimals alleged animal cruelty at @Walmart pork supplier. Watch video &amp; decide. http://t.co/H8…" "Buddy2Blogger" TRUE FALSE 1417733666
+"167" "540640285835812864" "@Walmart I'll remember for next time! #stillwaiting" "SuperStartini" FALSE FALSE 1417733663
+"168" "540640206785753088" "RT @emilydeschanel: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch! h…" "danita_dewey" TRUE FALSE 1417733644
+"169" "540640115102875648" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "SusanGrainger1" TRUE FALSE 1417733622
+"170" "540640082038775808" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/I4TyPZgSVR" "Jonnymovgamer" FALSE FALSE 1417733614
+"171" "540640070508630016" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "danita_dewey" TRUE FALSE 1417733612
+"172" "540639903478845440" "RT @Walmart: Today only, get My Little Pony for its 1983 price: just $5 on http://t.co/LFkX5xu6FW! #TBT http://t.co/VJpQ1C33di http://t.co/…" "ericrileybrown" TRUE FALSE 1417733572
+"173" "540639868746227712" "@Walmart Tried that and they sent me to the store... The store said they can't help, so what do I do now?" "bignater70" FALSE FALSE 1417733563
+"174" "540639814429986816" "Thank you to @Walmart for having extra lanes open this time of year. #inandout" "jjcook24" FALSE FALSE 1417733551
+"175" "540639810751197184" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "grogreena" TRUE FALSE 1417733550
+"176" "540639809421574144" "Stock up your goodies at @DollarTree and @Walmart will take care of the rest. This will help improve both experience. http://t.co/gYBdbvWWWf" "ericrileybrown" FALSE FALSE 1417733549
+"177" "540639659919802368" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "5sosdirectixn" TRUE FALSE 1417733514
+"178" "540639631058804736" "@DollarTree and @Walmart have the same mono to help customers SAVE MONEY! LIVE BETTER. Combination shopping helps. http://t.co/2CtFq5iIUC" "ericrileybrown" FALSE FALSE 1417733507
+"179" "540639421616230400" "@DollarTree has small bottles of @CocaCola and @pepsi but no Dr. Pepper. @Walmart has 2 Liters of Dr. Pepper! TYK http://t.co/ihUOpYIREj" "ericrileybrown" FALSE FALSE 1417733457
+"180" "540639282416066560" "Over 40% of execs in this CROSSMARK-sponsored study believe @Walmart has the most viable long-term strategy. http://t.co/JPdyC3pOlK" "CROSSMARKInc" FALSE FALSE 1417733424
+"181" "540639121358589952" "@MercyForAnimals @Walmart @FDA_Drug_Info @GovChristie #GoVeg Thanks to all, especially big fan of @PamelaDAnderson long time activism!" "SalleyRick" FALSE FALSE 1417733385
+"182" "540639042795081728" "@Walmart ...still waiting! Hopefully my whole order is here for my nephew. I should have shipped to my house but it wasn't free." "SuperStartini" FALSE FALSE 1417733367
+"183" "540638985098629120" "“@10TV: Playing Santa: Anonymous donor pays for $15K worth of children's toys put on layaway at Ohio @Walmart - http://t.co/esCBWOkTpR”" "magnificentdap" FALSE FALSE 1417733353
+"184" "540638239338811392" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "_ConorNY" TRUE FALSE 1417733175
+"185" "540638093481885696" "Going to @Walmart is the definition of insanity.  Never enough lines open#preparetowait" "smay32" FALSE FALSE 1417733140
+"186" "540638056588791808" "@Walmart China restructures operations http://t.co/lT6Ft8BHOn" "BertoliniAnna" FALSE FALSE 1417733131
+"187" "540637937655103488" "RT @KdaleNC: A free shuttle is available for the Knightdale Christmas parade this Saturday. Picks up at @walmart http://t.co/KiUW4Z0trM" "KdaleParks" TRUE FALSE 1417733103
+"188" "540637699569643520" "RT @jackfowler: 17 good reasons why I am heading to @Walmart tonight. Thanks @bennyjohnson for the eye-opener http://t.co/okH4kTQWNA" "JaeOnasi" TRUE FALSE 1417733046
+"189" "540637679214673920" "My local @Walmart is FINALLY carrying organic apples...About time! " "thepyreflies" FALSE FALSE 1417733041
+"190" "540637593655078912" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/hSLvJwXF2w" "sumwin10" FALSE FALSE 1417733021
+"191" "540637497471279104" "@Walmart All I want for Christmas is for Walmart CEO's to stop condoning the animal cruelty that they buy and sell #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732998
+"192" "540637489778548737" "RT @secretlee_:        
+.@Walmart #Pork Suppliers Use #GestationCrates.
+Sign Petition: http://t.co/X03pnTp4ET  #AnimalCruelty http:…" "JewelNature" TRUE FALSE 1417732996
+"193" "540637484510482435" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "Arkeenta" TRUE FALSE 1417732995
+"194" "540637102065463296" "RT @Nataliekitro: Harrowing @mercyforanimals video accuses @Walmart of condoning pig torture, my bit w. @robertmackey http://t.co/zIZmkjnvFP" "TatankaMc" TRUE FALSE 1417732904
+"195" "540637056268251136" "@Walmart pigs are the 4th smartest animals on the planet including humans! #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732893
+"196" "540636943143276544" "RT @shimsher: @aplusk this pig farm supplies @Walmart for all their pork products. wee bit more torture on already exploited lives. http://…" "TatankaMc" TRUE FALSE 1417732866
+"197" "540636930883330048" "RT @Kayweethatsme: @TysonFoods http://t.co/SGXtlKhDfD
+@Walmart Never again purchasing Tyson products after seeing that. #tyson #walmart #pi…" "TatankaMc" TRUE FALSE 1417732863
+"198" "540636870326374400" "@Walmart i'm disgusted with the way you treat the pigs you sell at your companies  #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732849
+"199" "540636862155862016" "@DestinHarvest is in the running for $20,000 from @Walmart's Food Pantry Holiday Makeover. http://t.co/H2sE3QuIC0" "DestinLog" FALSE FALSE 1417732847
+"200" "540636823098515456" "Just spent 2hrs @walmart getting 12 things @Publix you have a new customer! #iHateWalmart #ShoppingTillWeDrop #SeeingFriends @annedroberts" "MichelleScraps" FALSE FALSE 1417732837
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "539207152515420160" "@Walmart I don't suppose you can put me in touch with someone in customer service who can actually help??" "brentcatoe" FALSE FALSE 1417391977
+"2" "539206847924695040" "@Walmart wont show the bad stuff u guys do only retweets the good stuff not this tho im callin corperate  hate u guys http://t.co/hs7iaypURE" "spendItmakeMOE" FALSE FALSE 1417391905
+"3" "539206210860621825" "@Walmart Thanks, so I did that but they said it doesn't link to my purchase, I have to just keep calling to see if they are in. Sound right?" "kevanmacgee" FALSE FALSE 1417391753
+"4" "539205833134178304" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "paulisjarami18" TRUE FALSE 1417391663
+"5" "539205748790931456" "RT @PrinzPlaymates: @DineshDSouza Christmas shopping @Walmart today. I literally got the last copy of \"America\" as it's now SOLD OUT! :) ht…" "MadBadgerMom" TRUE FALSE 1417391643
+"6" "539205649037815809" "Attention @Walmart employees you'll, never be as hot as #AlexFromTarget" "MellonsAlexis" FALSE FALSE 1417391619
+"7" "539204987096932354" "All holiday shopping complete thank you @Macys sorry @Target And @Walmart no #ApplePay none of my money  #paymyway #christmasshopping" "JohnSwafford13" FALSE FALSE 1417391461
+"8" "539204972697907200" "@Walmart I didn't-after waiting 20 min in line I didn't feel like staying longer! Luckily the associate who checked me out was awesome." "wckdtink" FALSE FALSE 1417391458
+"9" "539204912471494657" "Online @Walmart you can find everything you need for your pet with the NEW and IMPROVED #PurinaPetPark sponsor" "cyxebixyfiwa" FALSE FALSE 1417391443
+"10" "539204778404753409" "I want to #win this $100 @Walmart Gift card #giveaway to buy a @DaisyOutdoor from @stayclosetohome 11/30 US http://t.co/PGRjejwAES" "AllyBossie" FALSE FALSE 1417391411
+"11" "539204721060634624" "@Walmart shame on u greedy cunts for being open thanksgiving night u parasites, new world order , Bilderberg trash !!!" "Robhot1982" FALSE FALSE 1417391398
+"12" "539204550713171968" "Maybe @Walmart shouldn't sell guns: http://t.co/zNiXJoRAHs #demand #CommonSense #gunsense" "jeffe04" FALSE FALSE 1417391357
+"13" "539204374137163777" "Just hit @Walmart @Walmart in San Juan now we get to see what #PuertoRico is really about" "GameCaveATL" FALSE FALSE 1417391315
+"14" "539204282952998912" ".@Walmart why you no have #PowerRanger tops?" "ShyAnnRaShel" FALSE FALSE 1417391293
+"15" "539204216422948864" "@Walmart purchased 1hour guarantee for a TV.  same error continues to appear once I select my store and enter my info http://t.co/1YXrFD5dUd" "NolandKristi" FALSE FALSE 1417391277
+"16" "539204114866257921" "RT @IslandRecords: While you're out shopping for great deals don't forget to stop by @ClairesStores, @Target or @Walmart to get @TheVampsba…" "Alycat5SOS" TRUE FALSE 1417391253
+"17" "539203872460656640" "They are continuing to sale Bad chicken @walmart in Red Oak!!! @healthdepartment @USDA #smells" "ErikVReeves" FALSE FALSE 1417391195
+"18" "539203721218244608" "You'd think i'd learn not to buy xmas lights from @Walmart. 2nd year in a row they have lasted for just 1 year. Great prices poor quality." "brewer550" FALSE FALSE 1417391159
+"19" "539203595502379008" "RT @MarkDice: @Walmart it's shameful that your stores are open on thanksgiving you slave driving parasites." "Robhot1982" TRUE FALSE 1417391129
+"20" "539203512526471168" "RT @DonnaChaffins: Don't run out of power this holiday season #ad #PowerTheHolidays @Duracell @shespeaksup @Walmart http://t.co/acqAAPI1Xh" "athomemoma" TRUE FALSE 1417391109
+"21" "539203278559789056" "@Walmart They have tons of clothes &amp; they don't play with toys...they can't wear earrings b/c they cheer.  I am at a loss.  Sigh." "mkw70" FALSE FALSE 1417391054
+"22" "539202667797438467" "@WNTonight @LinzieJanis Because Wal-Mart had really crappy deals and Cyber Monday is looking even worse. @Walmart http://t.co/9YBFusBB5z" "BullsharkSeth" FALSE FALSE 1417390908
+"23" "539202601762693120" "RT @ricekrispies: Dulce de Leche Cocoa Krispies Treats are a caramel lover’s dream! Get recipe @Walmart. http://t.co/EjJ1AdxWAv http://t.co…" "maddiewoody10" TRUE FALSE 1417390892
+"24" "539202588881977346" ".@Walmart It's really not good. You have my money, I have no product, I can't go elsewhere because of item 1 and the response is a ticket." "SkeyeLlama" FALSE FALSE 1417390889
+"25" "539202440307175424" "@TheRevAl Blacks boycott white stores so we support #whiteWednesday. Caution: welfare checks come out Monday, get in line @Walmart early." "05FXDLI" FALSE FALSE 1417390854
+"26" "539202410661806080" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "Laylahernande17" TRUE FALSE 1417390847
+"27" "539202309180653569" "@iammrtnz @Walmart I keep missing the $40 deals " "ANT_NYC1" FALSE FALSE 1417390823
+"28" "539202259436191744" "@Walmart no. I have to go to another store tomorrow to get the envelopes. Helen in Burlington was fantastic but I missed dinner waiting." "Mrs_Cramer" FALSE FALSE 1417390811
+"29" "539202223113523201" "@iammrtnz @Walmart yeah they have it at retail." "ANT_NYC1" FALSE FALSE 1417390802
+"30" "539202149985828866" "@ANT_NYC1 check @Walmart" "iammrtnz" FALSE FALSE 1417390785
+"31" "539202036823121921" "@JAntoniov17 @Walmart lets close the weekend off with a bang http://t.co/xm5Ltyj1O0" "labigmama27" FALSE FALSE 1417390758
+"32" "539201754706235392" "RT @ZacKrol: Got to be the easter bunny today @Walmart #lookingood http://t.co/Z3FTuQ3CrP" "ShannonSinde" TRUE FALSE 1417390690
+"33" "539201525311348736" "Thanks @Walmart for selling me something online just to take it back 3 hours later. I guess I will keep shopping @amazon. #ihatewalmart" "JamesRGrim" FALSE FALSE 1417390636
+"34" "539201347414147072" ".@Walmart we called corporate. They were kind enough to open up a couple of tickets so that maybe we can resolve this three days from now." "SkeyeLlama" FALSE FALSE 1417390593
+"35" "539201007008628737" "RT @Walmart: There may be savings hiding in your receipt. Learn how#SavingsCatcher can help:" "diterinagit" FALSE FALSE 1417390512
+"36" "539200989463846912" "Right! I'm sure your employees are ecstatic about working on Thanksgiving instead of spending the day with their families! @Walmart" "Indie0507" FALSE FALSE 1417390508
+"37" "539200745002643456" "@Walmart you too" "Jibwas" FALSE FALSE 1417390450
+"38" "539200420842057728" "@Walmart yep, already did that. They said to take it to the physical store... Endless loop.. Impossible to get ahold of someone who can help" "brentcatoe" FALSE FALSE 1417390372
+"39" "539200417859514368" "@lindsey_kutach U CAN ALWAYS GO 2 @Walmart  &amp; GET SOME MORE CREAM CHEESE  OREOS COOKIES" "mjtirto5" FALSE FALSE 1417390372
+"40" "539200330617982976" "Lesson learned. Never go to @Walmart for any of your automotive needs unless you can settle with poor customer service and slow service." "ashleyxxii" FALSE FALSE 1417390351
+"41" "539200305129611264" "@Walmart double charged for item, what Edinboro PA.  live in Ontario in USA till April?
+suggestions?" "CdnMickey" FALSE FALSE 1417390345
+"42" "539200292831916033" "@MarkNigro @Walmart horrifying" "FatherSalo" FALSE FALSE 1417390342
+"43" "539200272191733760" "RT @WaddySolomon: All CD's are 30 percent off tomorrow morning at @Walmart - so go get @TheVampsband debut USA release! #MeetTheVamps http:…" "gabydirection7" TRUE FALSE 1417390337
+"44" "539200239832682496" "RT @TheVampsband: Today is #BlackFriday don't sleep in and miss it like Brad! Remember you can get the album in @Walmart… http://t.co/8LlZK…" "gabydirection7" TRUE FALSE 1417390329
+"45" "539200221679734786" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "gabydirection7" TRUE FALSE 1417390325
+"46" "539200110438383616" "\"@KendrickLeBlanc: Bachelor Pad.. Simplicity is my domain http://t.co/qkzL3xmPS5\" Look like @walmart decorated your apartment" "RayScoty" FALSE FALSE 1417390298
+"47" "539199939583025152" "@Walmart do you think keeping fish in these conditions is acceptable?? your notice says it all!!! http://t.co/El5b6HY6xC" "lou_la182" FALSE FALSE 1417390258
+"48" "539199670334291968" "If I hear one more @Walmart commercial set to @acdc back in black I'm gonna punch the screen. #disgrace to the song. #acdc #walmart #angry" "Mrod500" FALSE FALSE 1417390193
+"49" "539199590780899329" "I just picked up #Gravity on Blu-ray/DVD/Digital for $6.99 @Walmart! How awesome is that?! #BlackFriday leftovers for the win! :)" "johnpavlich" FALSE FALSE 1417390174
+"50" "539199553124458496" "@Walmart is amazing for selling phones so cheap!!!! My brother bought a lg" "GithensSasha" FALSE FALSE 1417390165
+"51" "539199473541734404" "RT @bryankramer: In the last hour #blackfriday has 20+ million impressions. Hey @amazon @Target @Walmart You ready? cc: @MediaLabRat http:/…" "oneQubeMe" TRUE FALSE 1417390146
+"52" "539199182960361473" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "SmileForSchmidt" TRUE FALSE 1417390077
+"53" "539198695439605760" "RT @Walmart: Protect your device now for peace of mind later. http://t.co/fjiCFDuIpi http://t.co/NiWx9I51jQ" "dcrosby704" TRUE FALSE 1417389961
+"54" "539198631359025152" "I could live and raise my family in a nice suburban home on 1/10000 of @Walmart family money. ANY ONE OF THEM." "TezNyc" FALSE FALSE 1417389946
+"55" "539198617962446849" "@PrinzPlaymates @Norsu2 @DineshDSouza @Walmart Picked up our copy on Friday &amp; have watched it 3times, still cant find 2016 in store" "Tillett4CT" FALSE FALSE 1417389943
+"56" "539198497732722688" "Join @ColorOfChange to demand @Walmart #ReleaseTheTapes #JusticeForJohnCrawford" "fomudukuqida" FALSE FALSE 1417389914
+"57" "539198120606072832" "RT @LewisUnderscore: The @Walmart checkout promise: \"We'll have lanes open so you don't have to wait.\" Why not be fully staffed ALL THE TIM…" "MrsChelleStein" TRUE FALSE 1417389824
+"58" "539198116977991680" "RT @Walmart: There may be savings hiding in your receipt. Learn how#SavingsCatcher can help:" "tywebacexim" FALSE FALSE 1417389823
+"59" "539197712798076929" "@Walmart A little but not ridiculously spicy. I'm a huge Pringles fan and they replaced BBQ as the best flavor ever." "itsadreyday" FALSE FALSE 1417389727
+"60" "539197708398252032" "@Walmart - Your management is rude. Your people are not helpful. Your Customer Service Center is a joke. Upper management - Here I come!" "SlowAnthony" FALSE FALSE 1417389726
+"61" "539197611698577408" "@Walmart no it did not.Even with online order invoice cs manager would not let me return items and told me I had to deal with online support" "brentcatoe" FALSE FALSE 1417389703
+"62" "539197583432749057" "@Walmart - why is this STILL on display in store 1458?! Expired in March! I bought the items to get the credit! http://t.co/KIAeqqgrXF" "RealKeithFinch" FALSE FALSE 1417389696
+"63" "539197333343203328" "RT @shannonrwatts: Man Steals AR-15 From @Walmart in #Asheville #NorthCarolina http://t.co/eT0GlYjVF6 @MomsDemand #gunsense" "19Dolphin39" TRUE FALSE 1417389636
+"64" "539197309934768128" "Wow. Appalling. Paul from @Walmart wants you to know you can buy coffins and urns on http://t.co/60fyqAnJrQ http://t.co/oaLDSHhjML" "SeeMomClick" FALSE FALSE 1417389631
+"65" "539197276996911104" "@WNTonight #MadeInAmerica @Walmart and @AppIeOfflciaI lol" "GoodDayPayday" FALSE FALSE 1417389623
+"66" "539197089339543552" "@Walmart what's the point of having photo kiosks if they don't work and no one knows how to fix em? http://t.co/fctT5obM1R" "EJShoe" FALSE FALSE 1417389578
+"67" "539196865582202880" "@Walmart Still holding" "SkeyeLlama" FALSE FALSE 1417389525
+"68" "539196784929538049" "Thanks for always having the nastiest fucking restrooms @Walmart" "JoeDaddy_94" FALSE FALSE 1417389505
+"69" "539196761123078144" "RT @bryankramer: In the last hour #blackfriday has 20+ million impressions. Hey @amazon @Target @Walmart You ready? cc: @MediaLabRat http:/…" "InsiderNewsCo" TRUE FALSE 1417389500
+"70" "539196751002230784" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "ShortieZoe" TRUE FALSE 1417389497
+"71" "539196575139250176" "RT @ricekrispies: Dulce de Leche Cocoa Krispies Treats are a caramel lover’s dream! Get recipe @Walmart. http://t.co/EjJ1AdxWAv http://t.co…" "ashleystarkeyy" TRUE FALSE 1417389455
+"72" "539196571296882688" "Just another grand ole day at @Walmart #sarcasm" "yourfriendgert" FALSE FALSE 1417389455
+"73" "539196423628406784" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "SofiaSaraivaa" TRUE FALSE 1417389419
+"74" "539196400282894336" "RT @PrinzPlaymates: @DineshDSouza Christmas shopping @Walmart today. I literally got the last copy of \"America\" as it's now SOLD OUT! :) ht…" "Norsu2" TRUE FALSE 1417389414
+"75" "539196388941119488" "@MyStraightTalk @Motorola @Walmart when does #cybermonday start ? cause I like this deal." "StoryAddict69" FALSE FALSE 1417389411
+"76" "539196227468804100" "RT @MyStraightTalk: Mark your calendars &amp; get the @Motorola Moto E for just $9.99 at @Walmart this #CyberMonday. http://t.co/bR1BT53FSN htt…" "StoryAddict69" TRUE FALSE 1417389373
+"77" "539196006873964545" "RT @Hulk_Mart: #BlackFriday weekend at @Walmart has the Hulkster like.. http://t.co/yFEYzLCXMg" "HULKAMANIACS" TRUE FALSE 1417389320
+"78" "539195991636066304" "[#CaseStudy] #Sustainability: Show me the money! &gt;&gt; How did @Walmart &amp; @Unilever save #money via #sustainability? http://t.co/BLqP6ZShlj" "AlisonAzaria" FALSE FALSE 1417389316
+"79" "539195947608449025" "[#CaseStudy] #Sustainability: Show me the money! &gt;&gt; How did @Walmart &amp; @Unilever save #money via #sustainability? http://t.co/Qh3qmEu6QD" "2degreesAlison" FALSE FALSE 1417389306
+"80" "539195882004963328" "Is there any @Walmart close to my location?..." "MarioRod767" FALSE FALSE 1417389290
+"81" "539195802464579584" "Thanks to @vocativ for making me number one on the list! @Walmart #BlackFriday #blackfridayfights http://t.co/czE7xpR6KI" "SoIDecidedTo" FALSE FALSE 1417389271
+"82" "539195691554590723" "RT @DonnaChaffins: Don't run out of power this holiday season #ad #PowerTheHolidays @Duracell @shespeaksup @Walmart http://t.co/acqAAPI1Xh" "DiscoverSelf" TRUE FALSE 1417389245
+"83" "539195657643655170" "Man. So disappointed in Rocky Hill @Walmart. The Manager Sal has had my wife on hold for over 40 minutes.  #Retailfail #nexttimetarget?" "SkeyeLlama" FALSE FALSE 1417389237
+"84" "539195626571853824" "Hurl ==&gt; @Walmart Black Friday Shopper Causes Row With Cop, Claiming Cop Was “Trying To Mike Brown Me” http://t.co/fW7Ockfsmy @WeaselZippers" "CarolVicic" FALSE FALSE 1417389229
+"85" "539195624995168256" "@JimJlr2 @shannonrwatts @Walmart @MomsDemand Police handle thefts concealed carry is for when ur life or ur families is threatened." "JohnWizeman" FALSE FALSE 1417389229
+"86" "539195589691736066" "RT @MelissaJoanHart: Got your #BlackFriday game plan?Check out the maps @Walmart has to show where to find the deals in their store. http:/…" "rachael_towns" TRUE FALSE 1417389221
+"87" "539195548134559744" "RT @shannonrwatts: Man Steals AR-15 From @Walmart in #Asheville #NorthCarolina http://t.co/eT0GlYjVF6 @MomsDemand #gunsense" "guyolia" TRUE FALSE 1417389211
+"88" "539195451267104769" "@Walmart Followed link and submitted - 141130-027443" "mugensport" FALSE FALSE 1417389188
+"89" "539195264100470784" "@walmart absolutely worst customer service I have ever experienced was today in one of your stores when trying to return an online item" "brentcatoe" FALSE FALSE 1417389143
+"90" "539195127986536448" "@ADInnocenzio You might like this real-time hottest #BlackFriday sellers list @Target, @Walmart @Costco, and more: http://t.co/97JBNlvRf1" "infoscout" FALSE FALSE 1417389110
+"91" "539194987766751233" "@TownofNewmarket  @Walmart  cheap date :-) http://t.co/wGSQiYKDgP" "TearDropDIY" FALSE FALSE 1417389077
+"92" "539194808019853312" "@walmart Is that on everything?" "StarshipDeadman" FALSE FALSE 1417389034
+"93" "539194679863296000" "Already dropped bro! Check your local @BestBuy, @Walmart etc for the physical or @Itunes \"@j_flex_: @JoshBaze" "fogihuxugacu" FALSE FALSE 1417389004
+"94" "539194671344283648" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "angelocarlo3" TRUE FALSE 1417389002
+"95" "539194540712669184" "@TownofNewmarket  @Walmart  with our #teardroptrailer. Love our town :-)
+https://t.co/1yrOrVHBg3" "TearDropDIY" FALSE FALSE 1417388970
+"96" "539194429861789697" "RT @bryankramer: In the last hour #blackfriday has 20+ million impressions. Hey @amazon @Target @Walmart You ready? cc: @MediaLabRat http:/…" "ScuttJ" TRUE FALSE 1417388944
+"97" "539194411679502336" "Bought a pair of #YogaPants at @Walmart....I may never wear real pants again #Heaven #Stretchy #SilkySmooth" "MissIzzieB" FALSE FALSE 1417388940
+"98" "539194331723497472" "Shout out to @Walmart in Red Bank for being the only place to carry sriracha Pringles. I stockpiled. http://t.co/sNCIIfXsTE" "itsadreyday" FALSE FALSE 1417388921
+"99" "539194295111397376" "RT @TheDailyEdge: While #Walmart employees go hungry, taxpayers subsidize @Walmart to the tune of $6.2B a year. http://t.co/HVe3nyj7hK http…" "davidlight33" TRUE FALSE 1417388912
+"100" "539194024175742977" "Here are 4 ways @WinCoFoods is CRUSHING @Walmart — and why that's awesome. (via @Upworthy) http://t.co/KO6y6sMQdY" "KathyKathyb666" FALSE FALSE 1417388847
+"101" "539193974721085440" "Watching these @Walmart commercials being old \"first crush\" feelings for @MelissaJoanHart . never thought I'd be jealous of @anthonyanderson" "iDITONdoit" FALSE FALSE 1417388835
+"102" "539193843678064640" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "VampsTweetTeam" TRUE FALSE 1417388804
+"103" "539193738505891840" "Hey @walmart, why doesn't Melissa Joan Hart no longer walk around in your commercials? @Beav05" "bwwjr" FALSE FALSE 1417388779
+"104" "539193704695607297" "Chili Cornbread Muffins With McCormick Skillet Sauces  #McSkilletSauce #recipe @Walmart http://t.co/rGd3lvfdBP http://t.co/r9WcpLy3MO" "mommye" FALSE FALSE 1417388771
+"105" "539193688598269952" "Isn't \"Cyber Monday\" supposed to be online shopping but \"smaller\" companies that need the sales and exposure, not @Walmart &amp; @target etc ?" "JasonJGreene" FALSE FALSE 1417388767
+"106" "539193215799545856" "RT @shannonrwatts: Man Steals AR-15 From @Walmart in #Asheville #NorthCarolina http://t.co/eT0GlYjVF6 @MomsDemand #gunsense" "lovepeoplejo" TRUE FALSE 1417388655
+"107" "539193052900757504" "RT @kennychesney: Heads up, @Walmart temporarily has #TheBigRevival on sale for just $6.96 &amp; it comes with a free digital copy here: http:/…" "xnoshoesnation" TRUE FALSE 1417388616
+"108" "539192981979660288" "RT @shannonrwatts: Man Steals AR-15 From @Walmart in #Asheville #NorthCarolina http://t.co/eT0GlYjVF6 @MomsDemand #gunsense" "Only4RM" TRUE FALSE 1417388599
+"109" "539192376921563137" "RT @Walmart: Protect your device now for peace of mind later. http://t.co/fjiCFDuIpi http://t.co/NiWx9I51jQ" "MrShippey" TRUE FALSE 1417388455
+"110" "539192352251068416" "RT @reformNowR: While #Walmart employees go hungry, taxpayers subsidize @Walmart to the tune of $6.2B a year. http://t.co/dqJ4MeYqsz http:/…" "ImmigranNacion" TRUE FALSE 1417388449
+"111" "539192136840003584" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "DGM_machado" TRUE FALSE 1417388397
+"112" "539191934234136576" "RT @shannonrwatts: Man Steals AR-15 From @Walmart in #Asheville #NorthCarolina http://t.co/eT0GlYjVF6 @MomsDemand #gunsense" "kharyp" TRUE FALSE 1417388349
+"113" "539191887937011712" "Here are 4 ways @WinCoFoods is CRUSHING @Walmart — and why that's awesome. (via @Upworthy) http://t.co/mZuzjFatLD" "rascal0820" FALSE FALSE 1417388338
+"114" "539191801471848448" "@Walmart fuck you! How many times are you gonna email me in one day. Go fuck off!" "32_Bit_Hustler" FALSE FALSE 1417388317
+"115" "539191735910297601" "RT @VIZIO: Get the 50” P-Series Ultra HD TV (P502ui-B1E) for just $698 thru Monday @Walmart! http://t.co/2QsZPcu0FN #BlackFriday http://t.c…" "josh1979a" TRUE FALSE 1417388302
+"116" "539191292941459456" "RT @Walmart: Protect your device now for peace of mind later. http://t.co/fjiCFDuIpi http://t.co/NiWx9I51jQ" "hafsabasaran" TRUE FALSE 1417388196
+"117" "539191273576333312" "@walmart What's 
+#CyberMonday?" "StarshipDeadman" FALSE FALSE 1417388191
+"118" "539191265917562880" "Hey @Walmart it's really annoying for on duty employees to start flirting with the customers who are asking for help.. #unprofessional" "kenzievans11" FALSE FALSE 1417388190
+"119" "539191083012337667" "RT @LewisUnderscore: The @Walmart checkout promise: \"We'll have lanes open so you don't have to wait.\" Why not be fully staffed ALL THE TIM…" "umvox" TRUE FALSE 1417388146
+"120" "539190858349023232" "RT @bryankramer: In the last hour #blackfriday has 20+ million impressions. Hey @amazon @Target @Walmart You ready? cc: @MediaLabRat http:/…" "MediaLabPete" TRUE FALSE 1417388092
+"121" "539190784143400961" "RT @JimJlr2: @JohnWizeman @shannonrwatts @Walmart @MomsDemand Yes they are where were you good guys with guns?" "Wendy61342557" TRUE FALSE 1417388075
+"122" "539190600848146433" "RT @shannonrwatts: Man Steals AR-15 From @Walmart in #Asheville #NorthCarolina http://t.co/eT0GlYjVF6 @MomsDemand #gunsense" "Wendy61342557" TRUE FALSE 1417388031
+"123" "539190551883436033" "“@bryankramer: In the last hour #blackfriday has 20+ million impressions. Hey @amazon @Target @Walmart You ready?  http://t.co/qM10xbvcqF”" "BereanoPartners" FALSE FALSE 1417388019
+"124" "539190250133008385" "RT @bryankramer: In the last hour #blackfriday has 20+ million impressions. Hey @amazon @Target @Walmart You ready? cc: @MediaLabRat http:/…" "spiderQube" TRUE FALSE 1417387947
+"125" "539190095828766721" "RT @shannonrwatts: Man Steals AR-15 From @Walmart in #Asheville #NorthCarolina http://t.co/eT0GlYjVF6 @MomsDemand #gunsense" "MattMurph24" TRUE FALSE 1417387911
+"126" "539189756916408320" "RT @bryankramer: In the last hour #blackfriday has 20+ million impressions. Hey @amazon @Target @Walmart You ready? cc: @MediaLabRat http:/…" "TweetChat" TRUE FALSE 1417387830
+"127" "539189737840726016" "While you're out shopping for great deals don't forget to stop by @ClairesStores, @Target or @Walmart to get @TheVampsband's #MeetTheVamps!" "ErhyArmas" FALSE FALSE 1417387825
+"128" "539189597969072128" "@Walmart Thank you! They are 11." "mkw70" FALSE FALSE 1417387792
+"129" "539189542381965313" "@vgriesse @JackLinks @Walmart was the small bag not on sale for 2.50?" "chrisleebosch" FALSE FALSE 1417387779
+"130" "539189532978335745" "@Walmart Thank you, yes they are cheering yet.  They are 11." "mkw70" FALSE FALSE 1417387776
+"131" "539189450597605376" "@walmart Do you guys have black friday every month?" "StarshipDeadman" FALSE FALSE 1417387757
+"132" "539189399242940417" "@Walmart if only it wasn't just for holidays :/ #CheckoutPromise kudos to you guys tho it was nice not having to wait in line! " "NoahB3091" FALSE FALSE 1417387745
+"133" "539189290023260160" "RT @IslandRecords: While you're out shopping for great deals don't forget to stop by @ClairesStores, @Target or @Walmart to get @TheVampsba…" "rominagracia15" TRUE FALSE 1417387719
+"134" "539189055955935232" "@walmart beyond frustrated with your Burlington NJ store. Paid for photo Christmas cards but no envelopes. 45 minutes to get answer." "Mrs_Cramer" FALSE FALSE 1417387663
+"135" "539188896551038976" "$100 @Walmart Gift Card #Sweeps from @ManTripping to buy an @DaisyOutdoor #ItsADaisy BB Gun; Enter Here: http://t.co/1XKxNpiMNJ" "catholicfanatic" FALSE FALSE 1417387625
+"136" "539188887323947009" "Dear @Walmart,
+ Your website doesn't allow access to card accounts. You were nice to give me a button to push, but leads nowhere #Thanks" "AerrielleJ" FALSE FALSE 1417387623
+"137" "539188866771857408" "God that was the worst @Walmart experience ever. Wasted an hour just to get a refund on the item." "mikej_" FALSE FALSE 1417387618
+"138" "539188494468280320" "@Walmart make your phone wear a condom" "IttyBittyKittyy" FALSE FALSE 1417387529
+"139" "539188377401425921" "RT @IAmPrettyBased: @keepitpimpin_ stop stealing from @Walmart  https://t.co/7U0Jcr1Cbu" "Quis_Life" TRUE FALSE 1417387501
+"140" "539188281708388352" "Went to @Walmart for the first time in years where there wasn't a line to checkout. Seventeen checkouts were open!!! " "NoahB3091" FALSE FALSE 1417387478
+"141" "539188221599838209" "Thanksgiving Day: A weekday that @UTMedicalCenter has plenty of parking spaces available&amp; @Walmart doesn't have enough. #Knoxville #Holidays" "knoxvilletaxi" FALSE FALSE 1417387464
+"142" "539188217677750272" "@JimJlr2 @shannonrwatts @Walmart @MomsDemand u clearly are off ur meds &amp; fell down without ur helmet on." "JohnWizeman" FALSE FALSE 1417387463
+"143" "539188122467057664" "Also, to the sellouts who recorded that \"woo, ohh, ohh, woo, ohh, ohh, ohh\" song. It's being used by @MazdaUSA @Walmart AND @amfam #overdone" "soundslikepuget" FALSE FALSE 1417387440
+"144" "539187659131068416" "RT @shannonrwatts: Man Steals AR-15 From @Walmart in #Asheville #NorthCarolina http://t.co/eT0GlYjVF6 @MomsDemand #gunsense" "sjmommagreen" TRUE FALSE 1417387330
+"145" "539187535071956993" "@wearingpurple1 @Walmart Call them!" "knittygirl1" FALSE FALSE 1417387300
+"146" "539187395833262080" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "lady_red_24" TRUE FALSE 1417387267
+"147" "539187384995573760" "@keepitpimpin_ stop stealing from @Walmart  https://t.co/7U0Jcr1Cbu" "IAmPrettyBased" FALSE FALSE 1417387264
+"148" "539187334613598208" "RT @Walmart: Protect your device now for peace of mind later. http://t.co/fjiCFDuIpi http://t.co/NiWx9I51jQ" "MarylandGirl85" TRUE FALSE 1417387252
+"149" "539187299821432832" "Still believe @Walmart website has been hacked, as I have not received a responses re: the email I received almost 24 hours ago, no answer" "wearingpurple1" FALSE FALSE 1417387244
+"150" "539186928998817793" "RT @Walmart: Protect your device now for peace of mind later. http://t.co/fjiCFDuIpi http://t.co/NiWx9I51jQ" "StarshipDeadman" TRUE FALSE 1417387156
+"151" "539186849055772672" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/XGIDzJXio7" "jmh101377" FALSE FALSE 1417387137
+"152" "539186612052434944" "Dear @Walmart,
+NONE of your helpful credit card links on your help.walmart website work.
+Thanks for making things #easy 
+#annoyed" "AerrielleJ" FALSE FALSE 1417387080
+"153" "539186538970877952" "So when does @Walmart plan to return @Paula_Deen signature baked goodies? We've been punished long enough..." "TheHotnessBlog" FALSE FALSE 1417387063
+"154" "539186523665862656" "You know it's truly holiday season when @Walmart tells you to go shit in your hat when you call to ask why they won't fufill your sale order" "CultureBabble" FALSE FALSE 1417387059
+"155" "539186150075027456" "RT @Walmart: Decorating for the holidays? Here’s how to quickly decorate a perfect tree: http://t.co/hTRDYzUQ4h http://t.co/jCG6nNcukn" "leonchrisr" TRUE FALSE 1417386970
+"156" "539185980037545984" "@Walmart has the most useless employees in the entire world." "iEdward13" FALSE FALSE 1417386929
+"157" "539185794536460289" "RT @TheVampsband: Today is #BlackFriday don't sleep in and miss it like Brad! Remember you can get the album in @Walmart… http://t.co/8LlZK…" "CONNORPASIV4" TRUE FALSE 1417386885
+"158" "539185781345361920" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "CONNORPASIV4" TRUE FALSE 1417386882
+"159" "539185722524446721" "Dear @Walmart, 
+Can I put all my AP work on layaway?" "DrZakky" FALSE FALSE 1417386868
+"160" "539185651649089537" "RT @IslandRecords: While you're out shopping for great deals don't forget to stop by @ClairesStores, @Target or @Walmart to get @TheVampsba…" "CONNORPASIV4" TRUE FALSE 1417386851
+"161" "539185229684961281" "RT @Walmart: Protect your device now for peace of mind later. http://t.co/fjiCFDuIpi http://t.co/NiWx9I51jQ" "SWALTONIII" TRUE FALSE 1417386750
+"162" "539185058327060480" "@Walmart a GREAT reason to take my money to @Target #pissedconsumer" "Jami_ell" FALSE FALSE 1417386710
+"163" "539184942715265026" "@Walmart i was just told that i can't take a shopping cart down the cosmetics isle that is equipped with security cameras on both ends!!!!" "Jami_ell" FALSE FALSE 1417386682
+"164" "539184929998123008" "@Walmart @walmart is the policy in all of your stores or just Urban areas??" "Jami_ell" FALSE FALSE 1417386679
+"165" "539184888914927616" "#BlackFriday weekend at @Walmart has the Hulkster like.. http://t.co/yFEYzLCXMg" "Hulk_Mart" FALSE FALSE 1417386669
+"166" "539184779162165248" "@Walmart protect your wallet by not buying an apple device" "poponps4" FALSE FALSE 1417386643
+"167" "539184700737466368" "RT @Walmart: Protect your device now for peace of mind later. http://t.co/fjiCFDuIpi http://t.co/NiWx9I51jQ" "Earlymane" TRUE FALSE 1417386624
+"168" "539184555497111553" "@Sami_ThaOG @emilyfreiburger @babradeys @Walmart why u tagging wallmart Emily ?" "TheRealJaudi" FALSE FALSE 1417386590
+"169" "539184407555616768" "RT @TheVampsband: Today is #BlackFriday don't sleep in and miss it like Brad! Remember you can get the album in @Walmart… http://t.co/8LlZK…" "bradxjbft5sos" TRUE FALSE 1417386554
+"170" "539184184099885056" "RT @TeamKennard88: WTF is this bullshit @Walmart  http://t.co/fp85RDnyv2" "_cleotrappa" TRUE FALSE 1417386501
+"171" "539183872119160833" "I'm going to go crazy listening to my family's ignorance about their comparison of Walmart to other stores.. Fuck you @Walmart" "i_Saralee" FALSE FALSE 1417386427
+"172" "539183763885150208" "I wonder what would happen if I walked into a @Walmart fitting room and yelled \"There isn't any toilet paper!\"" "justinwwagers" FALSE FALSE 1417386401
+"173" "539183603574255617" "@emilyfreiburger @TheRealJaudi @babradeys @Walmart what is this" "Sami_ThaOG" FALSE FALSE 1417386363
+"174" "539183466810589184" "HEY @Walmart ...ANSWER  THIS QUESTION? ?? http://t.co/0FPDznQ9Ze" "purpleflower4u" FALSE FALSE 1417386330
+"175" "539182935866228737" "RT @Otf_munch: @thadonjulio @Walmart knew you was my nigga" "thadonjulio" TRUE FALSE 1417386204
+"176" "539182853821841409" "@italianbella08 @pepsi @Walmart I so would but I dont feel like going back there lol" "AmyJPrater" FALSE FALSE 1417386184
+"177" "539182774578851841" "RT @DealsCollege: #New #Hot #OnLine #Coupons #CyberMonday #Deals From @Walmart @ThatDailyDeal @Priceplunge on @DealsCollege... http://t.co/…" "get_ur_freebies" TRUE FALSE 1417386165
+"178" "539182726918979584" "Don't bother buying Mainstays tealights @Walmart. Look at how many I tried before even one worked. Rip off. http://t.co/jYeFNGpjh3" "Stars252525" FALSE FALSE 1417386154
+"179" "539182700251594752" "@digiaddict @Walmart Thank you!! I feel for you!!!" "PastorNici" FALSE FALSE 1417386147
+"180" "539182631884046336" "@thadonjulio @Walmart knew you was my nigga" "Otf_munch" FALSE FALSE 1417386131
+"181" "539182548749139968" "RT @TheDailyEdge: #MentionPeopleYouAreThankfulFor the kind souls who ensure hardworking @Walmart employees can eat on #Thanksgiving http://…" "AntarianRani" TRUE FALSE 1417386111
+"182" "539182379483820032" "@Walmart Blessings to you!" "PastorNici" FALSE FALSE 1417386071
+"183" "539182323208835075" "disappointed in @Walmart for not having christmas pens." "madiiswan" FALSE FALSE 1417386058
+"184" "539182275066609665" "I just checked in @Walmart with #mPLACES" "PeelG00d3atz" FALSE FALSE 1417386046
+"185" "539182158251057152" "@DJ_Weiss why would you boycott @Walmart ?" "AnissaCote11" FALSE FALSE 1417386018
+"186" "539182129964654592" "RT @MADALI007: @emilyfreiburger @babradeys @TheRealJaudi @Walmart Ladies dont sleep on JSavage. Jaudi is the truth." "TheRealJaudi" TRUE FALSE 1417386011
+"187" "539182119512444929" "$100 FREE CASHback On Electronics @Walmart
+http://t.co/aTHqWvGxbX
+#deals #coupons #CyberMonday #music #TV #keyboards http://t.co/kTCVz8GuH8" "StackingCoinss" FALSE FALSE 1417386009
+"188" "539182020807888896" "@emilyfreiburger @babradeys @TheRealJaudi @Walmart Ladies dont sleep on JSavage. Jaudi is the truth." "MADALI007" FALSE FALSE 1417385985
+"189" "539182015967674368" "RT @TheVampsband: Today is #BlackFriday don't sleep in and miss it like Brad! Remember you can get the album in @Walmart… http://t.co/8LlZK…" "Ifeel5soss" TRUE FALSE 1417385984
+"190" "539182001434402816" "RT @TheVampsband: Hey USA! Miss us yet? Stop by @Target @ClairesStores @Walmart and grab #MeetTheVamps today #BlackFriday http://t.co/EL9Qm…" "Ifeel5soss" TRUE FALSE 1417385981
+"191" "539181826523136001" "@AmyJPrater @pepsi @Walmart Ew take that shit back." "italianbella08" FALSE FALSE 1417385939
+"192" "539181813982576640" "RT @cautiousxjewel: @gerardway Your twitter name gets me into the holiday mood faster than all these Christmas trees at @Walmart" "gerordvay" TRUE FALSE 1417385936
+"193" "539181654154412032" "RT @emilyfreiburger: @babradeys @TheRealJaudi @Walmart no....just no" "babradeys" TRUE FALSE 1417385898
+"194" "539181641726324736" "@Walmart Thank you!" "Jibwas" FALSE FALSE 1417385895
+"195" "539181607442059264" "RT @Walmart: @Jibwas This Dell laptop comes fully loaded with the technical specifications you need: http://t.co/SHXqgd1iaN Thanks! -Marie" "Jibwas" TRUE FALSE 1417385887
+"196" "539181589255581696" "RT @Walmart: @Jibwas PS: Thanks for the retweet! You made all of us Elves smile this morning! You're awesome! ~WalmartElves" "Jibwas" TRUE FALSE 1417385883
+"197" "539181276172136448" "RT @IslandRecords: While you're out shopping for great deals don't forget to stop by @ClairesStores, @Target or @Walmart to get @TheVampsba…" "mendesftball" TRUE FALSE 1417385808
+"198" "539181235579654144" "@babradeys @TheRealJaudi @Walmart no....just no" "emilyfreiburger" FALSE FALSE 1417385798
+"199" "539181225835917312" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/PUxSz4pqhJ" "cubbiecutie1" FALSE FALSE 1417385796
+"200" "539180792979931136" "At @Walmart with my mom ( @AmyWalton1257 ) and I just now figured out that that TP in TPing means Toilet Paper. #IAmSlow" "cleigh_walle" FALSE FALSE 1417385693
+"id" "text" "screenname" "isretweet" "retweeted" "created"
+"1" "540656683153104897" "@Walmart Walmart #: 553107202 The 4th image which is a lens shows an \"IS\" lens,the one received is not an \"IS\" lens. Makes a HUGE difference" "bignater70" FALSE FALSE 1417737572
+"2" "540656651087667200" "RT @lilbrownpolgirl: @Walmart I've been on hold for 44 min about stuff we ordered that was suppose to be here today,but isn't. YOU'RE TERRI…" "URC_Bob" TRUE FALSE 1417737565
+"3" "540656647128231936" "This is awful, @WalMart. Get rid of this category. http://t.co/HqDIVBKDvE #gender #stereotype #toys #kids http://t.co/Mz2GnoKQ4E" "amandalea_b" FALSE FALSE 1417737564
+"4" "540656610549706752" "@Walmart It all worked out. Thank you." "manamitru" FALSE FALSE 1417737555
+"5" "540656545089220608" "- @Walmart supporting HORRIFIC pig treatment (again) http://t.co/efTNzX4QWH via @_AnimalAdvocate http://t.co/s0eNnv74JH" "Tequila_Club__" FALSE FALSE 1417737539
+"6" "540656443461206016" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "SocialSniper2" TRUE FALSE 1417737515
+"7" "540656107208052736" "RT @Walmart: @Isssaaacc How can we help you with your holiday shopping? Please give us another try. -Inge" "Isssaaacc" TRUE FALSE 1417737435
+"8" "540656065030160384" "@ddlovato  Can you please help @MercyForAnimals and Joaquin Phoenix against @Walmart cruelty with pigs ??http://t.co/Kxw2xwMROj" "thedigitaljoker" FALSE FALSE 1417737425
+"9" "540656035229233152" "RT @emilydeschanel: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch! h…" "lauracscaffidi" TRUE FALSE 1417737418
+"10" "540655917113827328" "Want a better plan? Unlimited text, talk and 3GB of data 4 just $45! #StraightTalkWireless @Walmart #ad http://t.co/6hPWISLSZw RT" "Shawn_UOMeTen" FALSE FALSE 1417737390
+"11" "540655830123945984" "RT @maryjblige: #TheLondonSessions is also at @Walmart with a different cover! You can grab your copy here http://t.co/S8pau4GXL4 http://t.…" "shemeher_jazz" TRUE FALSE 1417737369
+"12" "540655682094379008" "Meanwhile... @Walmart Supercenter  Cindy  @rmxdesigns (@ Walmart Supercenter) https://t.co/OSWuV0Ierh http://t.co/1glioeUDrm" "SoBeLIVE" FALSE FALSE 1417737334
+"13" "540655609465798656" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "chefwellness" TRUE FALSE 1417737316
+"14" "540655362362601472" "#LRT It was innocuous honestly but I can appreciate @Walmart taking the commercial down in light of the recent incident and case findings." "toure_burr" FALSE FALSE 1417737257
+"15" "540655313700278272" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "Betty_Winstead1" TRUE FALSE 1417737246
+"16" "540655301716754434" "RT @MomsWhoSave: Go online @Walmart for tips &amp; tricks from Crest @3DWhite for a brighter smile &amp; your best holiday photo #beauty  #ad http:…" "SusieQpon" TRUE FALSE 1417737243
+"17" "540655218674139136" "@thelittleidiot @KirstenHenry @Walmart @MercyForAnimals oh my God that was fucking disturbing how can we humans be so cruel God help us" "Becool088" FALSE FALSE 1417737223
+"18" "540655216379830272" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "mommy3sons" TRUE FALSE 1417737223
+"19" "540655018303836162" "This is disgusting @Walmart http://t.co/F9iHAKLYmI" "JackECheng" FALSE FALSE 1417737175
+"20" "540654301308153856" "RT @CommieCrusherJM: @GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #…" "truckerbooman" TRUE FALSE 1417737004
+"21" "540654278764150784" "I'm returning something @Walmart there may be a small country on line with me. " "manamitru" FALSE FALSE 1417736999
+"22" "540654119611289600" "@Walmart where's my Xbox one you said it'd be here by today and it's not" "SamuelV101" FALSE FALSE 1417736961
+"23" "540653854153781248" "@Walmart stop showing the elsa castle commercial.  U havent had in stock in weeks &amp; daughter cries she wants it every time she sees your ad" "T_Szczodrowski" FALSE FALSE 1417736898
+"24" "540653798663139328" "None of these stores, @Walmart @Kmart OR @Target, peddles anything &gt; 60Hz TVs... because Happy Holidays, 'Merica!
+#DontWasteYourMoney" "NonMotivated" FALSE FALSE 1417736885
+"25" "540653777993629697" "Fuck you, @Walmart. Giving in to these sensitive pussies. No backbone. You can't say \"I Can't Breathe\"? Seriously, fuck you. #ICantBreathe" "MisterOffensive" FALSE FALSE 1417736880
+"26" "540653701296574464" "@Walmart you're lucky you had it this time @onedirection  http://t.co/RIzgYNO93Y" "mericaidiot" FALSE FALSE 1417736861
+"27" "540653630043729920" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Zilla_Mon" TRUE FALSE 1417736844
+"28" "540653467938070529" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "BlannKate" TRUE FALSE 1417736806
+"29" "540653352133332992" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "ruth1722" TRUE FALSE 1417736778
+"30" "540653282415243264" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/ONg2vo6ajb" "MichelleBrione7" FALSE FALSE 1417736762
+"31" "540653050516758529" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "txgreekgirl72" TRUE FALSE 1417736706
+"32" "540652992005824513" "RT @Walmart: Today only, get My Little Pony for its 1983 price: just $5 on http://t.co/LFkX5xu6FW! #TBT http://t.co/VJpQ1C33di http://t.co/…" "tammie326" TRUE FALSE 1417736692
+"33" "540652847525019649" "@Walmart only 5 knots in this bag of 8 tonight made for a testy dinner table...#dinnerfail http://t.co/c4N0753Fjg" "gte762e" FALSE FALSE 1417736658
+"34" "540652822547550211" "@Rayfyst usually when I berate companies on twitter I like to tweet at them using their handle. @Walmart should personally hear your woes." "WarnUsGaming" FALSE FALSE 1417736652
+"35" "540652797390106624" "RT @ChuckGrantham No Christmas gifts from @Walmart today. And aren't you glad? http://t.co/R8Cw7TwbWJ:" "theologybot" FALSE FALSE 1417736646
+"36" "540652621355548673" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MacDazzla" TRUE FALSE 1417736604
+"37" "540652586940919808" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MirkaMaarit" TRUE FALSE 1417736596
+"38" "540652377401864193" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/H9Ttk70tb4" "GloriaL" FALSE FALSE 1417736546
+"39" "540652281956696065" ".@Walmart to host its largest in-store demo event with food tastings, free photos with Santa, more at select stores. Sat Dec 6 10a to 2p" "krollcallshow" FALSE FALSE 1417736523
+"40" "540652220732026880" "RT @chideo: .@MelissaJoanHart &amp; @anthonyanderson behind the scenes of their holiday @Walmart commercial http://t.co/n7KNGzWAXO http://t.co/…" "SBLACommunity" TRUE FALSE 1417736508
+"41" "540652208841187328" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/xNKLvu5nie" "sweepcoupon" FALSE FALSE 1417736506
+"42" "540652205582192640" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MagneticMiMi" TRUE FALSE 1417736505
+"43" "540652148225105922" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "PulpJane" TRUE FALSE 1417736491
+"44" "540652055602294785" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "MagneticMi" TRUE FALSE 1417736469
+"45" "540651945653174272" "@KinderFynes @WalmartCanada @SuzanneAxelsson US Walmart @Walmart web site has nothing about gender in its 'specifications' of this product" "cashjim" FALSE FALSE 1417736443
+"46" "540651844754612224" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Ajeya_News" TRUE FALSE 1417736419
+"47" "540651769814990848" "RT @Isssaaacc: I love/hate @Walmart" "Lily_Arango" TRUE FALSE 1417736401
+"48" "540651689015914496" "RT @PrinceRoyce: Soy El Mismo Deluxe Edition will be out this Monday It includes 2 news songs! @Walmart http://t.co/O9WSrEUI0A" "AlondraCazarezV" TRUE FALSE 1417736382
+"49" "540651662033952769" "@makaylarose23 You can find some food at your local @walmart" "d1_jon559" FALSE FALSE 1417736375
+"50" "540651582489382912" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "KirstenHenry" TRUE FALSE 1417736356
+"51" "540651542462754816" "@Walmart Called online customer service, they said they would ship the same thing again, so I went to a store, and they didn't help either" "bignater70" FALSE FALSE 1417736347
+"52" "540651355631656960" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "DianeShears" TRUE FALSE 1417736302
+"53" "540651279651831808" "RT @SpinMasterToys: #DigiBirdsChat They're available at @Target (http://t.co/4osqQlMfZM), @ToysRUs (http://t.co/tfcTvdy3fT), @Walmart (http…" "MelissaTippie" TRUE FALSE 1417736284
+"54" "540651271468752896" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "MrCoolLooking75" TRUE FALSE 1417736282
+"55" "540651147199922176" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/4XBc7ky44F" "mishlovesj" FALSE FALSE 1417736252
+"56" "540651074638467072" "Play #SearchandSeek tonight during #PeterPanLive and keep your eyes peeled for the @Walmart commercial featuring @RazorWorldwide! " "Front_Row_Media" FALSE FALSE 1417736235
+"57" "540650900197363712" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/S2qxF2QM19" "gabdarez" FALSE FALSE 1417736194
+"58" "540650750964408320" "Although I am upset I can't stop laughing at how dumb that @walmart policy is.  Shame on me for trying to shop at Walmart anyway. My fault" "gstate55" FALSE FALSE 1417736158
+"59" "540650653878468611" "@thelittleidiot @Walmart @MercyForAnimals @elliegoulding Ellie, you should see this" "thedigitaljoker" FALSE FALSE 1417736135
+"60" "540650569015517184" "FREE PICTURE WITH #SANTA @Walmart 
+http://t.co/98smVmOeEz
+#Kids #photos #holidayseason #Christmas #family #moms #dads http://t.co/7rLpNNAm6R" "StackingCoinss" FALSE FALSE 1417736115
+"61" "540650483010912257" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/Jr5wcSPAVM" "anitamitchell32" FALSE FALSE 1417736094
+"62" "540650312080445441" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "Front_Row_Media" TRUE FALSE 1417736053
+"63" "540650217909923841" "RT @TheTipToeFairy: AD: Head to @Walmart  to check out your favorite @DespicableMe #Minion like Bee-Do Fireman!! http://t.co/GNchaiVnYl" "BabyLovingMama" TRUE FALSE 1417736031
+"64" "540650000452034561" "RT @RazorWorldwide: Tune in TONIGHT #PeterPanLive &amp; find the Razor Ride @Walmart ‘s #NeverGrowUp ad! TONIGHT 8/7 Central." "Front_Row_Media" TRUE FALSE 1417735979
+"65" "540649773339250690" "@Walmart store I was just at:
+Mgr: Sir we will price match with any store as long as you have paper ad but we won't match w/Walmart.com LOL!" "gstate55" FALSE FALSE 1417735925
+"66" "540649716422176768" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "NathanRunkle" TRUE FALSE 1417735911
+"67" "540649526785093633" "Join me tonight as I'll be live tweeting during #PeterPanLive thanks to @Walmart and @NBC! http://t.co/nblju4SfkG http://t.co/bdvV0ru09v" "AFrugalFriend" FALSE FALSE 1417735866
+"68" "540649479125204992" "@Walmart Thank you for responding, I felt lost! I purchased an item, the picture online shows something different than what I received." "bignater70" FALSE FALSE 1417735855
+"69" "540649455624941568" "PRESENTING level sponsors: @ArbellaIns @Walmart We are so lucky to have the support of such wonderful companies. We cannot thank you enough!" "FeedHungryGala" FALSE FALSE 1417735849
+"70" "540649448511377408" "…my last dying wish is that @walmart gets a click off my story. I will not have died in vain.  #ppcchat" "_kingjosiah_" FALSE FALSE 1417735847
+"71" "540649254541197312" "@GE, @Walmart, @ATT, @Google All Donate to Communist Front-Group Center for American Progress http://t.co/ZqYjSg7TOM #UsefulIdiots #Dupes" "CommieCrusherJM" FALSE FALSE 1417735801
+"72" "540649155543044098" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/wMAUIT4cxn" "Darla412" FALSE FALSE 1417735778
+"73" "540649138212581376" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "Fire_Box32" TRUE FALSE 1417735773
+"74" "540649131099033601" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/dFqWJhVTbZ" "saveone83" FALSE FALSE 1417735772
+"75" "540649058030063617" "RT @classymommy: Free Santa Photos @Walmart this Saturday &amp; Sunday 12/6 -12/7 #WMTMoms http://t.co/bOfTANW3CZ" "GrnEydCntryGirl" TRUE FALSE 1417735754
+"76" "540648794015035392" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/D8ynk6trKQ" "CamilleFleur" FALSE FALSE 1417735691
+"77" "540648613337391104" "RT @DealsCollege: #New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas #rt http:/…" "get_ur_freebies" TRUE FALSE 1417735648
+"78" "540648540033540096" "@AKATheMaskedMan gem at @Walmart http://t.co/enHCMVtZmY" "TheRealGutboy" FALSE FALSE 1417735631
+"79" "540648380431466497" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/lZNrYMjMp5" "cdkeen1977" FALSE FALSE 1417735593
+"80" "540648299317821440" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/yz7UZnOkay" "alloalba" FALSE FALSE 1417735573
+"81" "540648243697557504" "@baronhobo @Walmart it took me a few tries, but I FINALLY found someone who helped me..." "s_a_pitts" FALSE FALSE 1417735560
+"82" "540648240639508480" "finally got my iBuyPower PC from @Walmart and @iBUYPOWER. It's so sick I love it." "Geremy_Chandler" FALSE FALSE 1417735559
+"83" "540648072272183296" "Ummmm standing further back I had to do a double take at what kind of cookies these were @Walmart… http://t.co/yh2ZXql9SH" "Rob_Purvis" FALSE FALSE 1417735519
+"84" "540647985898459137" "@Walmart Oh the sounds of silence... I guess this is the level of customer service I can expect from @Walmart" "bignater70" FALSE FALSE 1417735499
+"85" "540647768348303361" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "MovieFreak89" TRUE FALSE 1417735447
+"86" "540647727596830721" "Want a better plan? Unlimited text, talk &amp; 3GB of data 4 just $45.00! #StraightTalkWireless @Walmart #ad http://t.co/6hPWISLSZw #RT" "Shawn_UOMeTen" FALSE FALSE 1417735437
+"87" "540647682797469696" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "toofabtorehab" TRUE FALSE 1417735426
+"88" "540647638623080448" "@Walmart's \"more registers\" policy is only good from 1-5. Leaving us after-work shoppers to wait in long lines. #GeeThanks" "Studio3d6" FALSE FALSE 1417735416
+"89" "540647357503643648" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "bradschmity" TRUE FALSE 1417735349
+"90" "540647302990282752" "Enter the @SheSpeaksUp #PowerTheHolidays giveaway for a chance to win a @Walmart gift card &amp; @Duracell batteries! http://t.co/iIDaI3OXXV" "CouponingLSB" FALSE FALSE 1417735336
+"91" "540647284346978304" "RT @missmayim: Breaking... Joaquin Phoenix &amp; @MercyForAnimals expose animal cruelty at @Walmart pork supplier. Help end this: http://t.co/S…" "AngeTra" TRUE FALSE 1417735331
+"92" "540647130268831745" "RT @grouchyhugz: Head on over to @Walmart to get a #Minion Stuart from @DespicableMe today! #ad http://t.co/wcT650OijN" "stephanie_1959" TRUE FALSE 1417735295
+"93" "540646993823944704" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "hellomarlo" TRUE FALSE 1417735262
+"94" "540646978288226304" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "alexmk" TRUE FALSE 1417735259
+"95" "540646900383236096" "''@MaryJBlige 's London therapy session http://t.co/UmhkpGiSUu #OutNow #GetIt @iTunesMusic @Walmart @Target @BestBuy" "JustinHarris411" FALSE FALSE 1417735240
+"96" "540646854581428226" "#Save $1 @Walmart on new heat&amp;eat #PostGoodness Breakfast Bowls! Mmm bacon &amp;oats! #coupon: http://t.co/p3kP56PjYy #ad http://t.co/j1YXW0tTnx" "ChroniclesCardi" FALSE FALSE 1417735229
+"97" "540646719470727168" "The one place were you find the most real people you'll ever meat, Walmart!! @Walmart" "tfein27" FALSE FALSE 1417735197
+"98" "540646670917070848" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/zoKGfa57b9" "marillion13" FALSE FALSE 1417735185
+"99" "540646664285872128" "RT @EstherThePig: .@MercyForAnimals Shame on you @Walmart  You can do so much better. http://t.co/sfnU7CbmHM" "MaryRaymond" TRUE FALSE 1417735184
+"100" "540646663748980737" "RT @CNNMoney: Did you snag any sweet #CyberMondaydeals? @Walmart says it was its best online day ever http://t.co/mi0oKZKW5a http://t.co/gz…" "seahealthmarket" TRUE FALSE 1417735184
+"101" "540646605851217920" "RT @ricekrispies: Dulce de Leche Treats make a caramelicious gift. Get recipe &amp; ingredients at @Walmart. http://t.co/Dxbr1fN27n
+https://t.c…" "P_Stacksz" TRUE FALSE 1417735170
+"102" "540646296236097536" "Christmas Shopping @WalMart :)." "MarylandGirl85" FALSE FALSE 1417735096
+"103" "540646210768359425" "RT @PrinceRoyce: Soy El Mismo Deluxe Edition will be out this Monday It includes 2 news songs! @Walmart http://t.co/O9WSrEUI0A" "yeseniha_Gzz" TRUE FALSE 1417735076
+"104" "540645965364203520" "@Walmart Any ideas what I should do now?" "bignater70" FALSE FALSE 1417735017
+"105" "540645264986738690" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "NatsAaron" TRUE FALSE 1417734850
+"106" "540645225626996736" ".@Walmart becomes this holiday season's most efficient advertiser earning 38% share of store visitor traffic. http://t.co/6XxSyrPWaT" "AOLCommunity" FALSE FALSE 1417734841
+"107" "540645225576673280" ".@Walmart becomes this holiday season's most efficient advertiser earning 38% share of store visitor traffic. http://t.co/nLaUWDqSk6" "AOLInterns" FALSE FALSE 1417734841
+"108" "540645220443258880" "Watch out... @Walmart gives out counterfeit $$ http://t.co/MaHEWWnIER #boycottwalmart #walmart #walmartstrikers" "isaac_eastwood" FALSE FALSE 1417734839
+"109" "540645135101755392" "@elliegoulding Ellie please help @MercyForAnimals and Joaquin Phoenix against @Walmart cruelty against pigs http://t.co/zfmiHAPuYU" "thedigitaljoker" FALSE FALSE 1417734819
+"110" "540645110199767040" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "JonLoki51" TRUE FALSE 1417734813
+"111" "540645097218772992" "@Walmart @wal is that an email?" "jessicag271" FALSE FALSE 1417734810
+"112" "540644926136930304" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "RCATablets" TRUE FALSE 1417734769
+"113" "540644896085139456" "Lookie lookie, I found a hookie at @Walmart #PeterPanLive #WOW http://t.co/o3yWJvaXwB" "MrEnt92" FALSE FALSE 1417734762
+"114" "540644885779329024" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "waitinginsanity" TRUE FALSE 1417734760
+"115" "540644826467692544" "If pressured by an online petition to pull a product, would you do so at the expense of your consumers?
+
+@Walmart @Costco @Dell @GameStop" "jkellytwit" FALSE FALSE 1417734745
+"116" "540644760848195585" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/WyCYfY9ZsN" "MeanieStranger" FALSE FALSE 1417734730
+"117" "540644428827082753" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "RScorpious" TRUE FALSE 1417734651
+"118" "540644381947359233" "@Walmart She looks so manly" "JoePianist" FALSE FALSE 1417734640
+"119" "540644250514644992" "No Christmas gifts from @Walmart today. And aren't you glad? http://t.co/kuXtV0NOzF" "ChuckGrantham" FALSE FALSE 1417734608
+"120" "540644199364718592" "RT @MobilityWise: Huge!  @Walmart sees 70% of Thanksgiving traffic from #mobile reflecting the growing role of #smartphones &amp; tablets in th…" "moniesha0" TRUE FALSE 1417734596
+"121" "540644132956692481" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "loveangel412" TRUE FALSE 1417734580
+"122" "540643823399862275" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "boricua222" TRUE FALSE 1417734506
+"123" "540643813052542976" "@Walmart Webster, at the Forney TX store, is awesome! Walked across the store to find an electric cart for my grandmother" "Valentimeline" FALSE FALSE 1417734504
+"124" "540643791405715457" "if you want to use @Walmart site to store,  make sure you factor a 20-30 min wait &amp; that's not because of the holidays ...it's always a wait" "teresa_taylor" FALSE FALSE 1417734499
+"125" "540643782920650752" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "SweeeetLilSuzy" TRUE FALSE 1417734497
+"126" "540643652964343808" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "AshleyKynessaR" TRUE FALSE 1417734466
+"127" "540643340652257280" "RT @AnnamaijaI: Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http:…" "Iservedrinks" TRUE FALSE 1417734391
+"128" "540643182296305664" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "juazzie" TRUE FALSE 1417734353
+"129" "540643140404002816" "RT @Walmart: Excited for #PeterPanLive on NBC tonight at 8/7c? Tune in to this family event presented by Walmart. #NeverGrowUP http://t.co/…" "jersyemma" TRUE FALSE 1417734343
+"130" "540643086553317376" ".@Walmart: Up to 20% off clearance laptops online http://t.co/riUScdANoV" "BeFrugal" FALSE FALSE 1417734331
+"131" "540642798987268096" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/6P4Fy1Ojsl" "AnnamaijaI" FALSE FALSE 1417734262
+"132" "540642408199770113" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "ScullyNoreen" TRUE FALSE 1417734169
+"133" "540642304147472384" "RT @ZubaYipYip: Why hasn't @Walmart released the video footage of John Crawford being murdered to his family? Oh yea... #ICantBreathe #Aliv…" "ESTEE_ARIE" TRUE FALSE 1417734144
+"134" "540642160916172801" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "Rachelch35" TRUE FALSE 1417734110
+"135" "540642141521735681" "@s_a_pitts if your @Walmart store still won't match, then call their corporate customer service phone # and complain - with details!" "baronhobo" FALSE FALSE 1417734105
+"136" "540642016036528128" "RT @IowaHell: Still time to #win a $100 @Walmart gift card from @DaisyOutdoor &amp; @SahmReviews! http://t.co/MRE0JKeSNm #contest #sweepstakes …" "profesortbaker" TRUE FALSE 1417734075
+"137" "540641885484638208" ".@MelissaJoanHart &amp; @anthonyanderson behind the scenes of their holiday @Walmart commercial http://t.co/n7KNGzWAXO http://t.co/vzpolw4NWx" "chideo" FALSE FALSE 1417734044
+"138" "540641842488815616" "@s_a_pitts interesting as that's not @Walmart's policy. Have them lookup online SKU # 39443649 (on http://t.co/uQOPIHk0nV)" "baronhobo" FALSE FALSE 1417734034
+"139" "540641817365331968" "#New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas... http://t.co/BP0JJMv2RN" "DealsCollege" FALSE FALSE 1417734028
+"140" "540641773237059584" "@_KateMara @Walmart @MercyForAnimals @elliegoulding Ellie, you should see this !!" "thedigitaljoker" FALSE FALSE 1417734018
+"141" "540641768778510337" "#New #Hot #OnLine #Coupons #Sales #Cyber #Deals From @13Deals @TheLimited @Walmart On @DealsCollege #Christmas #rt http://t.co/ZIVVZB3ZoI" "DealsCollege" FALSE FALSE 1417734016
+"142" "540641728689360896" "Shout out to the Niles fucking @Walmart who has had me on hold for twenty god damn minutes" "OhHaiPaigeee" FALSE FALSE 1417734007
+"143" "540641656933199872" "@Walmart do you guys have an IMac?" "queenchinanne" FALSE FALSE 1417733990
+"144" "540641625945669632" "@Walmart no, I was walking to my car when I overheard the conversation." "AshleyTPeterson" FALSE FALSE 1417733982
+"145" "540641383107665920" "I love/hate @Walmart" "Isssaaacc" FALSE FALSE 1417733925
+"146" "540641360164814849" "RT @MercyForAnimals: BREAKING! New MFA undercover video exposes horrific cruelty to pigs for @Walmart pork. http://t.co/h1LWPwcvBb http://t…" "tizztogg" TRUE FALSE 1417733919
+"147" "540641322835537920" "When you go to @Walmart for shaving cream and come out with lays pico de gallo chips smh." "Isssaaacc" FALSE FALSE 1417733910
+"148" "540641259896201216" "@Walmart its a shame that we have to stand this far back to get a prescription for a sick baby! Hire more people!!! http://t.co/Di47Dt444H" "brandi20012" FALSE FALSE 1417733895
+"149" "540641216220495872" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "Migliarrio" TRUE FALSE 1417733885
+"150" "540641147559768064" "Disappointed in @Walmart! The website has NO #ToyStoryThatTimeForgot items...thought it was \"exclusive\"?! #idontgetit" "MrColinDisney" FALSE FALSE 1417733868
+"151" "540641092626944000" "@Walmart Thanks! Got mine! My daughter is going to be thrilled!" "cliopatra" FALSE FALSE 1417733855
+"152" "540641039216676866" "RT @BetterBodyFoods: @amberly_r we sell our coconut oil at coconut oil at @SamsClub @WinCoFoods @BJsWholesale @Walmart #Kroger stores &amp; @am…" "amberly_r" TRUE FALSE 1417733843
+"153" "540640974796365824" "@amberly_r we sell our coconut oil at coconut oil at @SamsClub @WinCoFoods @BJsWholesale @Walmart #Kroger stores &amp; @amazon" "BetterBodyFoods" FALSE FALSE 1417733827
+"154" "540640915480522752" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "danita_dewey" TRUE FALSE 1417733813
+"155" "540640766649831425" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/AH3zISPaTo" "BaroqueSpace" FALSE FALSE 1417733778
+"156" "540640742239404032" "Have you told #Santa what you want for #Xmas? Come meet Santa at the Plainfield @Walmart with #theMix and @CocaCola! http://t.co/IDpnM9zJWV" "IndysMix" FALSE FALSE 1417733772
+"157" "540640721406291968" "@Walmart your site to store system is broken. Disorganized,makes it hard on these hardworking associates (whom are doing a great job!)" "jessicag271" FALSE FALSE 1417733767
+"158" "540640586609733632" "Dear @Walmart if I die waiting in the online pick up line please sprinkle my ashes over the Harry Potter books" "MaeghanCoco" FALSE FALSE 1417733735
+"159" "540640568724836352" "RT @leonalewis: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! http:/…" "danita_dewey" TRUE FALSE 1417733730
+"160" "540640523283742720" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "Buddy2Blogger" TRUE FALSE 1417733720
+"161" "540640489503195136" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "amylwaz" TRUE FALSE 1417733711
+"162" "540640449359134721" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/M7ry45AZDO" "DrSMRobertsPhD" FALSE FALSE 1417733702
+"163" "540640342421151744" "RT @MercyForAnimals: Want this sickening cruelty to end? Sign our petition and let @Walmart know how you feel. http://t.co/h1LWPwcvBb http:…" "Buddy2Blogger" TRUE FALSE 1417733676
+"164" "540640330572238848" "RT @_KateMara: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch.
+http:/…" "Buddy2Blogger" TRUE FALSE 1417733674
+"165" "540640313602084864" "RT @leonalewis: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! http:/…" "Buddy2Blogger" TRUE FALSE 1417733670
+"166" "540640300314931202" "RT @JVM: BREAKING Joaquin Phoenix &amp; @MercyForAnimals alleged animal cruelty at @Walmart pork supplier. Watch video &amp; decide. http://t.co/H8…" "Buddy2Blogger" TRUE FALSE 1417733666
+"167" "540640285835812864" "@Walmart I'll remember for next time! #stillwaiting" "SuperStartini" FALSE FALSE 1417733663
+"168" "540640206785753088" "RT @emilydeschanel: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm. Watch! h…" "danita_dewey" TRUE FALSE 1417733644
+"169" "540640115102875648" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "SusanGrainger1" TRUE FALSE 1417733622
+"170" "540640082038775808" "Enter to #win a $250 @Walmart gift card in the CharcoCaps No Worries #Holiday Eating #Giveaway! #CharcoCapsNoMoreGas http://t.co/I4TyPZgSVR" "Jonnymovgamer" FALSE FALSE 1417733614
+"171" "540640070508630016" "RT @thelittleidiot: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing horrifying abuse at pig farm: http://…" "danita_dewey" TRUE FALSE 1417733612
+"172" "540639903478845440" "RT @Walmart: Today only, get My Little Pony for its 1983 price: just $5 on http://t.co/LFkX5xu6FW! #TBT http://t.co/VJpQ1C33di http://t.co/…" "ericrileybrown" TRUE FALSE 1417733572
+"173" "540639868746227712" "@Walmart Tried that and they sent me to the store... The store said they can't help, so what do I do now?" "bignater70" FALSE FALSE 1417733563
+"174" "540639814429986816" "Thank you to @Walmart for having extra lanes open this time of year. #inandout" "jjcook24" FALSE FALSE 1417733551
+"175" "540639810751197184" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "grogreena" TRUE FALSE 1417733550
+"176" "540639809421574144" "Stock up your goodies at @DollarTree and @Walmart will take care of the rest. This will help improve both experience. http://t.co/gYBdbvWWWf" "ericrileybrown" FALSE FALSE 1417733549
+"177" "540639659919802368" "RT @FifthHarmony: We're such Christmas fangirls!! Get your copy of \"I'll Be Home for Christmas\" at your local @Walmart today!! http://t.co/…" "5sosdirectixn" TRUE FALSE 1417733514
+"178" "540639631058804736" "@DollarTree and @Walmart have the same mono to help customers SAVE MONEY! LIVE BETTER. Combination shopping helps. http://t.co/2CtFq5iIUC" "ericrileybrown" FALSE FALSE 1417733507
+"179" "540639421616230400" "@DollarTree has small bottles of @CocaCola and @pepsi but no Dr. Pepper. @Walmart has 2 Liters of Dr. Pepper! TYK http://t.co/ihUOpYIREj" "ericrileybrown" FALSE FALSE 1417733457
+"180" "540639282416066560" "Over 40% of execs in this CROSSMARK-sponsored study believe @Walmart has the most viable long-term strategy. http://t.co/JPdyC3pOlK" "CROSSMARKInc" FALSE FALSE 1417733424
+"181" "540639121358589952" "@MercyForAnimals @Walmart @FDA_Drug_Info @GovChristie #GoVeg Thanks to all, especially big fan of @PamelaDAnderson long time activism!" "SalleyRick" FALSE FALSE 1417733385
+"182" "540639042795081728" "@Walmart ...still waiting! Hopefully my whole order is here for my nephew. I should have shipped to my house but it wasn't free." "SuperStartini" FALSE FALSE 1417733367
+"183" "540638985098629120" "“@10TV: Playing Santa: Anonymous donor pays for $15K worth of children's toys put on layaway at Ohio @Walmart - http://t.co/esCBWOkTpR”" "magnificentdap" FALSE FALSE 1417733353
+"184" "540638239338811392" "RT @PamelaDAnderson: Sickening animal abuse exposed by Joaquin Phoenix &amp; @MercyForAnimals at a @Walmart pork supplier. Sign the petition! h…" "_ConorNY" TRUE FALSE 1417733175
+"185" "540638093481885696" "Going to @Walmart is the definition of insanity.  Never enough lines open#preparetowait" "smay32" FALSE FALSE 1417733140
+"186" "540638056588791808" "@Walmart China restructures operations http://t.co/lT6Ft8BHOn" "BertoliniAnna" FALSE FALSE 1417733131
+"187" "540637937655103488" "RT @KdaleNC: A free shuttle is available for the Knightdale Christmas parade this Saturday. Picks up at @walmart http://t.co/KiUW4Z0trM" "KdaleParks" TRUE FALSE 1417733103
+"188" "540637699569643520" "RT @jackfowler: 17 good reasons why I am heading to @Walmart tonight. Thanks @bennyjohnson for the eye-opener http://t.co/okH4kTQWNA" "JaeOnasi" TRUE FALSE 1417733046
+"189" "540637679214673920" "My local @Walmart is FINALLY carrying organic apples...About time! " "thepyreflies" FALSE FALSE 1417733041
+"190" "540637593655078912" "Joaquin Phoenix slams @walmart in powerful new video by @mercyforanimals exposing sickening abuse at pig farm. Watch: http://t.co/hSLvJwXF2w" "sumwin10" FALSE FALSE 1417733021
+"191" "540637497471279104" "@Walmart All I want for Christmas is for Walmart CEO's to stop condoning the animal cruelty that they buy and sell #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732998
+"192" "540637489778548737" "RT @secretlee_:        
+.@Walmart #Pork Suppliers Use #GestationCrates.
+Sign Petition: http://t.co/X03pnTp4ET  #AnimalCruelty http:…" "JewelNature" TRUE FALSE 1417732996
+"193" "540637484510482435" "RT @Tonykanal: Joaquin Phoenix slams @Walmart in powerful new video by @MercyForAnimals exposing sickening abuse at pig farm http://t.co/XK…" "Arkeenta" TRUE FALSE 1417732995
+"194" "540637102065463296" "RT @Nataliekitro: Harrowing @mercyforanimals video accuses @Walmart of condoning pig torture, my bit w. @robertmackey http://t.co/zIZmkjnvFP" "TatankaMc" TRUE FALSE 1417732904
+"195" "540637056268251136" "@Walmart pigs are the 4th smartest animals on the planet including humans! #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732893
+"196" "540636943143276544" "RT @shimsher: @aplusk this pig farm supplies @Walmart for all their pork products. wee bit more torture on already exploited lives. http://…" "TatankaMc" TRUE FALSE 1417732866
+"197" "540636930883330048" "RT @Kayweethatsme: @TysonFoods http://t.co/SGXtlKhDfD
+@Walmart Never again purchasing Tyson products after seeing that. #tyson #walmart #pi…" "TatankaMc" TRUE FALSE 1417732863
+"198" "540636870326374400" "@Walmart i'm disgusted with the way you treat the pigs you sell at your companies  #stoptheabuse" "SelenaSalinas3" FALSE FALSE 1417732849
+"199" "540636862155862016" "@DestinHarvest is in the running for $20,000 from @Walmart's Food Pantry Holiday Makeover. http://t.co/H2sE3QuIC0" "DestinLog" FALSE FALSE 1417732847
+"200" "540636823098515456" "Just spent 2hrs @walmart getting 12 things @Publix you have a new customer! #iHateWalmart #ShoppingTillWeDrop #SeeingFriends @annedroberts" "MichelleScraps" FALSE FALSE 1417732837
